@@ -38,17 +38,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const staticPageEntries = staticPages.map(page => {
       let url: string
       if (page === '') {
-        // 首页
-        url = locale === DEFAULT_LOCALE ? `${siteUrl}/` : `${siteUrl}/${locale}/`
+        // 首页（不加尾部斜杠）
+        url = locale === DEFAULT_LOCALE ? `${siteUrl}` : `${siteUrl}/${locale}`
       } else {
         // 其他静态页面
         url = `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}/`
       }
       return {
         url,
-        lastModified: new Date(),
-        changeFrequency: 'daily' as ChangeFrequency,
-        priority: page === '' ? 1.0 : 0.8,
+      lastModified: new Date(),
+      changeFrequency: 'daily' as ChangeFrequency,
+      priority: page === '' ? 1.0 : 0.8,
       }
     })
     
