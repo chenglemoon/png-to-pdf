@@ -17,13 +17,39 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/terms-of-service',
   ]
 
+  // Tool pages
+  const toolPages = [
+    '/image-to-pdf',
+    '/merge-jpg',
+    '/pdf-to-jpg',
+    '/pdf-to-png',
+    '/pdf-to-webp',
+    '/pdf-to-bmp',
+    '/pdf-to-tiff',
+    '/bmp-to-pdf',
+    '/heic-to-pdf',
+    '/svg-to-pdf',
+    '/tiff-to-pdf',
+    '/webp-to-pdf',
+    '/text-to-pdf',
+  ]
+
   const pages = LOCALES.flatMap(locale => {
-    return staticPages.map(page => ({
+    const staticPageEntries = staticPages.map(page => ({
       url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
       lastModified: new Date(),
       changeFrequency: 'daily' as ChangeFrequency,
       priority: page === '' ? 1.0 : 0.8,
     }))
+    
+    const toolPageEntries = toolPages.map(page => ({
+      url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as ChangeFrequency,
+      priority: 0.9,
+    }))
+    
+    return [...staticPageEntries, ...toolPageEntries]
   })
 
   const allBlogSitemapEntries: MetadataRoute.Sitemap = [];
