@@ -73,7 +73,10 @@ export async function constructMetadata({
       url: `${siteConfig.url}/og${locale === DEFAULT_LOCALE ? '' : '_' + locale}.png`,
       alt: pageTitle,
     }]
-  const pageURL = `${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${path}`
+  // 生成 pageURL，首页不加尾部斜杠
+  const pageURL = isHomePage
+    ? `${locale === DEFAULT_LOCALE ? '' : `/${locale}`}`
+    : `${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${path}`
 
   return {
     title: finalTitle,
