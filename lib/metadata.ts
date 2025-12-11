@@ -36,19 +36,31 @@ export async function constructMetadata({
     : `${pageTitle} | ${t('title')}`
 
   canonicalUrl = canonicalUrl || path
+  
+  // 判断是否为首页（空字符串、'/' 或 undefined）
+  const isHomePage = !canonicalUrl || canonicalUrl === '' || canonicalUrl === '/'
 
   // 生成正确的hreflang标签，确保多语言SEO正确配置
   const alternateLanguages = Object.keys(LOCALE_NAMES).reduce((acc, lang) => {
-    const path = canonicalUrl
-      ? `${lang === DEFAULT_LOCALE ? '' : `/${lang}`}${canonicalUrl === '/' ? '' : canonicalUrl}`
-      : `${lang === DEFAULT_LOCALE ? '' : `/${lang}`}`
+    let path: string
+    if (isHomePage) {
+      // 首页：默认语言无路径，其他语言只有语言代码
+      path = lang === DEFAULT_LOCALE ? '' : `/${lang}`
+    } else {
+      // 其他页面：添加尾部斜杠
+      const normalizedPath = canonicalUrl!.endsWith('/') ? canonicalUrl! : `${canonicalUrl}/`
+      path = `${lang === DEFAULT_LOCALE ? '' : `/${lang}`}${normalizedPath}`
+    }
     acc[lang] = `${siteConfig.url}${path}`
     return acc
   }, {} as Record<string, string>)
 
   // 添加x-default标签，指向英文版本作为默认语言
-  if (canonicalUrl) {
-    alternateLanguages['x-default'] = `${siteConfig.url}${canonicalUrl === '/' ? '' : canonicalUrl}`
+  if (isHomePage) {
+    alternateLanguages['x-default'] = `${siteConfig.url}`
+  } else {
+    const normalizedPath = canonicalUrl!.endsWith('/') ? canonicalUrl! : `${canonicalUrl}/`
+    alternateLanguages['x-default'] = `${siteConfig.url}${normalizedPath}`
   }
 
   // Open Graph
@@ -72,7 +84,9 @@ export async function constructMetadata({
     metadataBase: new URL(siteConfig.url),
     alternates: {
       // 保持每个语言版本指向自己的URL，这是多语言SEO的正确做法
-      canonical: canonicalUrl ? `${siteConfig.url}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${canonicalUrl === '/' ? '' : canonicalUrl}` : undefined,
+      canonical: isHomePage 
+        ? `${siteConfig.url}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}`
+        : `${siteConfig.url}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${canonicalUrl!.endsWith('/') ? canonicalUrl! : `${canonicalUrl}/`}`,
       // 优化hreflang标签，包含x-default指向英文版本
       languages: alternateLanguages,
     },
