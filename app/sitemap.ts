@@ -35,15 +35,25 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ]
 
   const pages = LOCALES.flatMap(locale => {
-    const staticPageEntries = staticPages.map(page => ({
-      url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as ChangeFrequency,
-      priority: page === '' ? 1.0 : 0.8,
-    }))
+    const staticPageEntries = staticPages.map(page => {
+      let url: string
+      if (page === '') {
+        // 首页
+        url = locale === DEFAULT_LOCALE ? `${siteUrl}/` : `${siteUrl}/${locale}/`
+      } else {
+        // 其他静态页面
+        url = `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}/`
+      }
+      return {
+        url,
+        lastModified: new Date(),
+        changeFrequency: 'daily' as ChangeFrequency,
+        priority: page === '' ? 1.0 : 0.8,
+      }
+    })
     
     const toolPageEntries = toolPages.map(page => ({
-      url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}`,
+      url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}${page}/`,
       lastModified: new Date(),
       changeFrequency: 'weekly' as ChangeFrequency,
       priority: 0.9,
@@ -62,7 +72,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         const slugPart = post.slug.replace(/^\//, "").replace(/^blogs\//, "");
         if (slugPart) {
           allBlogSitemapEntries.push({
-            url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}/blogs/${slugPart}`,
+            url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}/blogs/${slugPart}/`,
             lastModified: post.metadata?.updatedAt || post.published_at || new Date(),
             changeFrequency: 'daily' as ChangeFrequency,
             priority: 0.7,
@@ -83,7 +93,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         const slugPart = post.slug?.replace(/^\//, "").replace(/^blogs\//, "");
         if (slugPart) {
           allBlogSitemapEntries.push({
-            url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}/blogs/${slugPart}`,
+            url: `${siteUrl}${locale === DEFAULT_LOCALE ? '' : `/${locale}`}/blogs/${slugPart}/`,
             lastModified: post.published_at || new Date(),
             changeFrequency: 'daily' as ChangeFrequency,
             priority: 0.7,

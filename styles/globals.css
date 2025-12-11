@@ -8,6 +8,8 @@ html {
   scroll-behavior: smooth;
   overflow-x: hidden;
   /* 隐藏水平滚动条 */
+  zoom: 0.7;
+  /* 使用zoom属性将整个页面缩小到70% */
 }
 
 body {
