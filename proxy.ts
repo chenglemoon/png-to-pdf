@@ -15,7 +15,9 @@ export default async function proxy(request: Request) {
     pathname.startsWith('/api') ||
     pathname.startsWith('/_vercel') ||
     pathname === '/favicon.ico' ||
-    pathname.match(/\.(svg|png|jpg|jpeg|gif|webp|ico|css|js|woff|woff2|ttf|eot)$/i)
+    pathname === '/sitemap.xml' ||
+    pathname === '/robots.txt' ||
+    pathname.match(/\.(svg|png|jpg|jpeg|gif|webp|ico|css|js|woff|woff2|ttf|eot|xml)$/i)
   ) {
     // 对于静态资源和 API，不经过 middleware，让 Next.js 直接处理
     return NextResponse.next();
