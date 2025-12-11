@@ -619,7 +619,7 @@ export default function HeroSection() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="flex justify-center lg:justify-end"
           >
-            <div className="relative w-80 h-80 md:w-96 md:h-96">
+            <div className="relative w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 lg:w-80 lg:h-80">
               {/* 大圆形背景 - 柔和的径向渐变 */}
               <div 
                 className="absolute inset-0 rounded-full shadow-[0_20px_60px_-15px_rgba(217,119,6,0.3)]"
@@ -629,20 +629,20 @@ export default function HeroSection() {
               ></div>
               
               {/* 内容区域 */}
-              <div className="relative w-full h-full rounded-full flex items-center justify-center p-16">
+              <div className="relative w-full h-full rounded-full flex items-center justify-center p-8 sm:p-10 md:p-12 lg:p-16">
                 <div className="relative w-full h-full">
                   {/* 左上角图标 - PNG 文档 */}
                   <motion.div
                     initial={{ scale: 0, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ duration: 0.5, delay: 0.5, type: "spring", stiffness: 200 }}
-                    className="absolute top-8 left-8 md:top-12 md:left-12"
+                    className="absolute top-4 left-4 sm:top-6 sm:left-6 md:top-8 md:left-8 lg:top-12 lg:left-12"
                   >
-                    <div className="bg-white dark:bg-gray-800 rounded-xl p-5 shadow-[0_4px_12px_rgba(0,0,0,0.1)] border border-orange-400/60 dark:border-orange-600/60">
+                    <div className="bg-white dark:bg-gray-800 rounded-xl p-3 sm:p-4 md:p-5 shadow-[0_4px_12px_rgba(0,0,0,0.1)] border border-orange-400/60 dark:border-orange-600/60">
                       <div className="relative">
-                        <FileImage className="w-12 h-12 text-orange-600 dark:text-orange-400" strokeWidth={1.5} />
+                        <FileImage className="w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 text-orange-600 dark:text-orange-400" strokeWidth={1.5} />
                         {/* 小标记点 - 在图标右上角 */}
-                        <div className="absolute -top-0.5 -right-0.5 w-3.5 h-3.5 bg-orange-700 dark:bg-orange-500 rounded-full border-2 border-white dark:border-gray-800 shadow-sm"></div>
+                        <div className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 sm:w-3 sm:h-3 md:w-3.5 md:h-3.5 bg-orange-700 dark:bg-orange-500 rounded-full border-2 border-white dark:border-gray-800 shadow-sm"></div>
                       </div>
                     </div>
                   </motion.div>
@@ -652,12 +652,12 @@ export default function HeroSection() {
                     initial={{ scale: 0, opacity: 0 }}
                     animate={{ scale: 1, opacity: 1 }}
                     transition={{ duration: 0.5, delay: 0.7, type: "spring", stiffness: 200 }}
-                    className="absolute bottom-8 right-8 md:bottom-12 md:right-12"
+                    className="absolute bottom-4 right-4 sm:bottom-6 sm:right-6 md:bottom-8 md:right-8 lg:bottom-12 lg:right-12"
                   >
-                    <div className="bg-white dark:bg-gray-800 rounded-xl p-5 shadow-[0_4px_12px_rgba(0,0,0,0.1)] border border-orange-400/60 dark:border-orange-600/60 relative">
-                      <FileText className="w-12 h-12 text-orange-600 dark:text-orange-400" strokeWidth={1.5} />
+                    <div className="bg-white dark:bg-gray-800 rounded-xl p-3 sm:p-4 md:p-5 shadow-[0_4px_12px_rgba(0,0,0,0.1)] border border-orange-400/60 dark:border-orange-600/60 relative">
+                      <FileText className="w-8 h-8 sm:w-10 sm:h-10 md:w-12 md:h-12 text-orange-600 dark:text-orange-400" strokeWidth={1.5} />
                       {/* 文档线条装饰 - 表示文本内容 */}
-                      <div className="absolute inset-0 flex flex-col justify-center items-center gap-1.5 px-3 pointer-events-none">
+                      <div className="absolute inset-0 flex flex-col justify-center items-center gap-1 sm:gap-1.5 px-2 sm:px-3 pointer-events-none">
                         <div className="w-full h-0.5 bg-orange-600/30 dark:bg-orange-400/30 rounded"></div>
                         <div className="w-4/5 h-0.5 bg-orange-600/30 dark:bg-orange-400/30 rounded"></div>
                         <div className="w-3/5 h-0.5 bg-orange-600/30 dark:bg-orange-400/30 rounded"></div>
@@ -670,9 +670,9 @@ export default function HeroSection() {
                     initial={{ scaleX: 0, opacity: 0 }}
                     animate={{ scaleX: 1, opacity: 1 }}
                     transition={{ duration: 0.6, delay: 0.9, ease: "easeOut" }}
-                    className="absolute bottom-20 right-28 md:bottom-24 md:right-36"
+                    className="absolute bottom-12 right-16 sm:bottom-16 sm:right-20 md:bottom-20 md:right-28 lg:bottom-24 lg:right-36"
                   >
-                    <div className="w-16 h-0.5 bg-orange-600/80 dark:bg-orange-400/80"></div>
+                    <div className="w-12 sm:w-14 md:w-16 h-0.5 bg-orange-600/80 dark:bg-orange-400/80"></div>
                   </motion.div>
 
                   {/* 中心装饰光晕 - 更柔和 */}
