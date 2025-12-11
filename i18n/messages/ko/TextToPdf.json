@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "title": "텍스트를 PDF로 변환하는 변환기 – 온라인 TXT to PDF 파일 변환기",
+    "description": "TXT to PDF 변환기. TXT를 PDF으로 변환하는 최고의 온라인 변환 도구입니다. 이 도구는 무료이며 안전하며 모든 웹 브라우저에서 작동합니다.",
+    "keywords": "텍스트를 pdf로 변환, 텍스트를 pdf로 변환하기, txt를 pdf로 변환, 텍스트를 pdf로 변환하는 변환기, 텍스트 파일을 pdf로 변환, 온라인 텍스트를 pdf로 변환, 무료 텍스트를 pdf로 변환하는 변환기, 텍스트 변환기, pdf 변환기"
+  },
+  "hero": {
+    "title": "TXT - PDF 변환기",
+    "uploadTitle": "TXT를 PDF로",
+    "mainTitle": {
+      "line1": "텍스트 파일을",
+      "line2": "PDF",
+      "line3": "문서로",
+      "line4": "변환"
+    },
+    "description": "TXT to PDF 변환기. TXT를 PDF으로 변환하는 최고의 온라인 변환 도구입니다. 이 도구는 무료이며 안전하며 모든 웹 브라우저에서 작동합니다.",
+    "dragText": "TXT 파일을 여기에 끌어다 놓기",
+    "selectText": "또는 클릭하여 파일 선택(여러 파일 지원)",
+    "clickToSelect": "클릭하여 파일을 선택하거나 끌어다 놓기",
+    "fileTypes": "텍스트 파일",
+    "privacy": "파일은 기기를 떠나지 않습니다.",
+    "format": "TXT 형식",
+    "maxSize": "최대 50MB"
+  },
+  "startTyping": "입력 시작...",
+  "startOver": "처음부터",
+  "back": "뒤로",
+  "proceed": "계속",
+  "convert": "변환",
+  "converting": "변환 중",
+  "upload": "업로드",
+  "words": "단어",
+  "characters": "문자",
+  "pageOrientation": "페이지 방향",
+  "pageMargin": "페이지 여백",
+  "noMargin": "여백 없음",
+  "fileList": {
+    "title": "{count}개 파일 선택됨",
+    "clearAll": "모두 지우기",
+    "addMore": "더 많은 파일 추가"
+  },
+  "preview": {
+    "title": "파일 미리보기 ({current} / 50)",
+    "clearAll": "모두 지우기",
+    "uploadPlaceholder": "클릭하거나 끌어다 놓아 텍스트 파일 추가",
+    "addMore": "더 추가",
+    "downloadPdf": "PDF 다운로드"
+  },
+  "pageSize": {
+    "label": "페이지 크기",
+    "placeholder": "페이지 크기 선택",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3"
+  },
+  "orientation": {
+    "label": "방향",
+    "placeholder": "방향 선택",
+    "portrait": "세로",
+    "landscape": "가로"
+  },
+  "fontSize": {
+    "label": "글꼴 크기",
+    "placeholder": "글꼴 크기 선택",
+    "small": "작음 (10pt)",
+    "medium": "중간 (12pt)",
+    "large": "큼 (14pt)",
+    "xlarge": "매우 큼 (16pt)"
+  },
+  "convertButton": "PDF로 변환",
+  "processing": {
+    "title": "텍스트 파일에서 PDF 생성 중...",
+    "subtitle": "잠시 기다려 주세요. 몇 초 걸릴 수 있습니다"
+  },
+  "messages": {
+    "filesAdded": "{count}개 파일 추가됨",
+    "convertSuccess": "{count}개 텍스트 파일을 PDF로 성공적으로 변환했습니다"
+  },
+  "errors": {
+    "notText": "텍스트 형식 파일(.txt)을 선택하세요",
+    "unsupportedFormat": "지원되지 않는 파일 형식입니다. .txt 파일을 선택하세요.",
+    "fileTooLarge": "파일 크기는 50MB를 초과할 수 없습니다",
+    "noFiles": "최소한 하나의 텍스트 파일을 선택하세요",
+    "processFileFailed": "파일 {fileName} 처리 실패",
+    "convertFailed": "변환 실패. 모든 파일이 유효한 텍스트 파일인지 확인하세요",
+    "readFileFailed": "파일 {fileName} 읽기 실패"
+  },
+  "features": {
+    "title": "텍스트를 PDF로 변환하는 변환기의 기능은 무엇인가요?",
+    "subtitle": "30만 명 이상의 사용자가 뛰어난 기능 때문에 당사 텍스트를 PDF로 변환하는 변환기를 사용하기로 선택했습니다.",
+    "feature1": {
+      "title": "몇 초 만에 텍스트를 PDF로 변환",
+      "description": "텍스트 파일을 입력, 붙여넣기 또는 업로드하고 몇 초 만에 전문적인 PDF 문서를 얻으세요. 당사 텍스트를 PDF로 변환하는 도구는 완벽하고 사용하기 쉬운 경험으로 초고속 변환을 보장합니다. 설치나 가입이 필요하지 않습니다.",
+      "button": "변환 시작"
+    },
+    "feature2": {
+      "title": "고급 서식 기능이 있는 리치 텍스트 편집기",
+      "description": "강력한 리치 텍스트 편집기로 콘텐츠를 서식 지정합니다. 글꼴 크기, 스타일, 색상을 사용자 정의하고, 굵게, 기울임꼴, 밑줄, 목록, 표, 이미지 등을 추가합니다. PDF로 변환하기 전에 쉽게 전문적인 모양의 문서를 만듭니다.",
+      "button": "편집기 사용해 보기 >>"
+    },
+    "feature3": {
+      "title": "사용자 정의 가능한 PDF 설정",
+      "description": "PDF 출력의 모든 측면을 제어합니다. 페이지 크기(A4, Letter, Legal 등), 방향(세로 또는 가로), 여백을 선택합니다. 인쇄, 공유 또는 보관을 위해 특정 요구 사항에 맞는 PDF를 만듭니다.",
+      "button": "PDF 만들기"
+    }
+  },
+  "testimonials": {
+    "title": "텍스트를 PDF로 변환하는 변환기에 대한 사용자 후기",
+    "subtitle": "많은 사용자가 당사 텍스트를 PDF로 변환하는 도구를 사용한 후 높이 평가했습니다.",
+    "testimonial1": {
+      "content": "10개 이상의 텍스트 파일을 업로드했고 변환은 2초 미만에 완료되었습니다—초고속입니다! PDF 레이아웃이 깔끔하고 서식이 그대로 유지되었습니다. 정말 훌륭한 사용자 경험입니다.",
+      "role": "작가"
+    },
+    "testimonial2": {
+      "content": "다양한 크기의 텍스트 파일을 테스트했고 모든 것이 원활하게 변환되었습니다. 가입 불필요, 광고 없음, 인터페이스가 깔끔합니다—일상적인 사무실 사용에 완벽합니다.",
+      "role": "어시스턴트"
+    },
+    "testimonial3": {
+      "content": "프로젝트를 위해 텍스트 파일을 자주 수집하는데 이 도구를 사용하면 한 번의 클릭으로 인쇄 가능한 PDF로 변환할 수 있습니다. 전문적인 문서를 만드는 데 매우 편리합니다.",
+      "role": "학생"
+    }
+  },
+  "faq": {
+    "title": "텍스트를 PDF로 변환하는 자주 묻는 질문",
+    "q1": {
+      "question": "텍스트를 PDF로 변환하는 목적은 무엇인가요?",
+      "answer": "텍스트 문서는 일관된 서식과 전문적인 프레젠테이션을 보장하기 위해 PDF로 변환됩니다. 또한 PDF는 워드 프로세싱 파일과 달리 모든 기기와 호환됩니다. 텍스트를 PDF로 변환하는 또 다른 일반적인 목적은 비밀번호 보호 및 편집 제한과 같은 PDF의 보안 기능입니다."
+    },
+    "q2": {
+      "question": "텍스트를 PDF로 변환하는 방법은 무엇인가요?",
+      "answer": "온라인 텍스트를 PDF로 변환하는 변환기에 텍스트를 붙여넣거나 업로드하고, 편집 옵션을 사용하여 조정한 다음 \"PDF로 변환\" 버튼을 누르세요. 변환기는 즉시 처리하고 다운로드할 수 있는 PDF 파일을 제공합니다."
+    },
+    "q3": {
+      "question": "TXT to PDF 도구가 텍스트 메시지를 PDF로 변환할 수 있나요?",
+      "answer": "네, TXT to PDF 변환기는 텍스트 메시지를 PDF 파일로 변환할 수 있습니다. 프로세스는 표준 텍스트 파일을 변환하는 것과 유사합니다: 텍스트 메시지를 입력하기만 하면 복사한 텍스트를 PDF로 변환하는 변환기가 PDF 문서를 생성합니다."
+    },
+    "q4": {
+      "question": "여러 텍스트 파일을 한 번에 변환할 수 있나요?",
+      "answer": "네, 당사의 Txt to PDF 변환기는 한 번의 클릭으로 여러 텍스트 파일을 동시에 변환할 수 있습니다."
+    },
+    "q5": {
+      "question": "복사한 텍스트를 PDF로 변환하는 방법은 무엇인가요?",
+      "answer": "복사한 텍스트를 당사의 텍스트를 PDF로 변환하는 변환기의 입력 영역에 붙여넣으세요. 그런 다음 \"PDF로 변환\" 버튼을 클릭하여 변환을 시작하세요. 당사의 도구는 복사하고 붙여넣은 텍스트를 빠르게 PDF 파일로 변환합니다."
+    }
+  },
+  "tableDialog": {
+    "title": "표 삽입",
+    "description": "표의 행 수와 열 수를 선택하세요",
+    "rows": "행",
+    "cols": "열",
+    "withHeader": "헤더 행 포함",
+    "cancel": "취소",
+    "insert": "삽입"
+  },
+  "howToUse": {
+    "label": "사용 방법",
+    "title": "텍스트를 PDF로 변환하는 방법",
+    "subtitle": "이러한 간단한 단계를 따라 텍스트 파일을 PDF 문서로 변환하세요",
+    "step": "단계",
+    "step1": {
+      "title": "텍스트를 입력, 붙여넣기 또는 업로드",
+      "description": "편집기에 직접 입력하거나, 모든 소스에서 콘텐츠를 붙여넣거나, 업로드 버튼을 사용하여 TXT 파일을 제공하는 것부터 시작하세요."
+    },
+    "step2": {
+      "title": "콘텐츠 서식 지정",
+      "description": "리치 텍스트 편집기를 사용하여 콘텐츠를 서식 지정합니다. 글꼴 크기, 스타일을 변경하고, 굵게 또는 기울임꼴 효과를 추가하고, 텍스트의 모양을 사용자 정의합니다."
+    },
+    "step3": {
+      "title": "페이지 옵션 설정 및 변환",
+      "description": "계속을 클릭하여 페이지 방향(세로/가로), 페이지 크기(A4, Letter 등), 여백을 포함한 PDF 옵션을 설정하세요. 그런 다음 변환을 클릭하여 PDF를 생성하세요."
+    },
+    "step4": {
+      "title": "PDF 다운로드",
+      "description": "변환이 완료되면 PDF 파일이 자동으로 다운로드됩니다. 이제 문서를 공유, 인쇄 또는 저장할 수 있습니다."
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "title": "文本转PDF转换器 – 在线TXT转PDF文件转换器",
+    "description": "我们的文本转PDF是一个在线文件转换器，可以轻松高效地将您的.txt文件转换为PDF，确保您的文档在几秒钟内准备就绪",
+    "keywords": "文本转pdf, 将文本转换为pdf, txt转pdf, 文本转pdf转换器, 文本文件转pdf, 在线文本转pdf, 免费文本转pdf转换器, 文本转换器, pdf转换器"
+  },
+  "hero": {
+    "title": "文本转PDF转换器",
+    "uploadTitle": "文本转PDF",
+    "mainTitle": {
+      "line1": "将",
+      "line2": "文本文件转换为",
+      "line3": "PDF",
+      "line4": "文档"
+    },
+    "description": "轻松将您的文本转换为外观干净专业的PDF。只需在我们的文本转PDF工具中输入或粘贴您的内容，继续设置页面布局和方向，然后按转换按钮下载您的PDF文件。",
+    "dragText": "在此拖放TXT文件",
+    "selectText": "或点击选择文件（支持多个文件）",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "文本文件",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "TXT格式",
+    "maxSize": "最大50MB"
+  },
+  "startTyping": "开始输入...",
+  "startOver": "重新开始",
+  "back": "返回",
+  "proceed": "继续",
+  "convert": "转换",
+  "converting": "转换中",
+  "upload": "上传",
+  "words": "单词",
+  "characters": "字符",
+  "pageOrientation": "页面方向",
+  "pageMargin": "页边距",
+  "noMargin": "无边距",
+  "fileList": {
+    "title": "已选择{count}个文件",
+    "clearAll": "清除全部",
+    "addMore": "添加更多文件"
+  },
+  "preview": {
+    "title": "文件预览（{current} / 50）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加文本文件",
+    "addMore": "添加更多",
+    "downloadPdf": "下载PDF"
+  },
+  "pageSize": {
+    "label": "页面大小",
+    "placeholder": "选择页面大小",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3"
+  },
+  "orientation": {
+    "label": "方向",
+    "placeholder": "选择方向",
+    "portrait": "纵向",
+    "landscape": "横向"
+  },
+  "fontSize": {
+    "label": "字体大小",
+    "placeholder": "选择字体大小",
+    "small": "小（10pt）",
+    "medium": "中（12pt）",
+    "large": "大（14pt）",
+    "xlarge": "特大（16pt）"
+  },
+  "convertButton": "转换为PDF",
+  "processing": {
+    "title": "正在从文本文件创建PDF...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "filesAdded": "已添加{count}个文件",
+    "convertSuccess": "成功将{count}个文本文件转换为PDF"
+  },
+  "errors": {
+    "notText": "请选择文本格式文件（.txt）",
+    "unsupportedFormat": "不支持的文件格式。请选择.txt文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFiles": "请至少选择一个文本文件",
+    "processFileFailed": "处理文件{fileName}失败",
+    "convertFailed": "转换失败。请确保所有文件都是有效的文本文件",
+    "readFileFailed": "读取文件{fileName}失败"
+  },
+  "features": {
+    "title": "文本转PDF转换器的功能是什么？",
+    "subtitle": "超过30万用户选择使用我们的文本转PDF转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "几秒钟内将文本转换为PDF",
+      "description": "输入、粘贴或上传您的文本文件，几秒钟内即可获得专业的PDF文档。我们的文本转PDF工具确保超快速转换，提供完美且用户友好的体验。无需安装或注册。",
+      "button": "开始转换"
+    },
+    "feature2": {
+      "title": "具有高级格式功能的富文本编辑器",
+      "description": "使用我们强大的富文本编辑器格式化您的内容。自定义字体大小、样式、颜色，添加粗体、斜体、下划线、列表、表格、图片等。在转换为PDF之前，轻松创建外观专业的文档。",
+      "button": "试用编辑器 >>"
+    },
+    "feature3": {
+      "title": "可自定义的PDF设置",
+      "description": "控制PDF输出的每个方面。选择页面大小（A4、Letter、Legal等）、方向（纵向或横向）和边距。创建适合您特定需求的PDF，无论是用于打印、共享还是归档。",
+      "button": "创建PDF"
+    }
+  },
+  "testimonials": {
+    "title": "用户对文本转PDF转换器的评价",
+    "subtitle": "许多用户在使用我们的文本转PDF工具后给予了高度评价。",
+    "testimonial1": {
+      "content": "我上传了十几个文本文件，转换在不到两秒内完成—超快！PDF布局干净，格式保持完整。真是很棒的用户体验。",
+      "role": "作家"
+    },
+    "testimonial2": {
+      "content": "我测试了不同大小的文本文件，一切都转换顺利。无需注册，无广告，界面干净—非常适合日常办公使用。",
+      "role": "助理"
+    },
+    "testimonial3": {
+      "content": "我经常为我的项目收集文本文件，这个工具让我可以一键将它们转换为可打印的PDF。制作专业文档非常方便。",
+      "role": "学生"
+    }
+  },
+  "faq": {
+    "title": "文本转PDF常见问题",
+    "q1": {
+      "question": "将文本转换为PDF的目的是什么？",
+      "answer": "将文本文档转换为PDF是为了确保一致的格式和专业的呈现。此外，PDF与所有设备兼容，与文字处理文件不同。文本转PDF转换的另一个常见目的是PDF的安全功能，如密码保护和编辑限制。"
+    },
+    "q2": {
+      "question": "如何将我的文本转换为PDF？",
+      "answer": "将您的文本粘贴或上传到我们的在线文本转PDF转换器，使用编辑选项进行调整，然后按转换为PDF按钮。转换器将立即处理并提供您可以下载的PDF文件。"
+    },
+    "q3": {
+      "question": "TXT转PDF工具可以将文本消息转换为PDF吗？",
+      "answer": "是的，TXT转PDF转换器可以将文本消息转换为PDF文件。该过程类似于转换标准文本文件：只需输入您的文本消息，复制的文本转PDF转换器将为您生成PDF文档。"
+    },
+    "q4": {
+      "question": "我可以一次转换多个文本文件吗？",
+      "answer": "是的，我们的Txt转PDF转换器能够一键同时转换多个文本文件。"
+    },
+    "q5": {
+      "question": "如何将复制的文本转换为PDF？",
+      "answer": "只需将复制的文本粘贴到我们的文本转PDF转换器的输入区域。然后，点击转换为PDF按钮开始转换。我们的工具将快速将您复制和粘贴的文本转换为PDF文件。"
+    }
+  },
+  "tableDialog": {
+    "title": "插入表格",
+    "description": "选择表格的行数和列数",
+    "rows": "行",
+    "cols": "列",
+    "withHeader": "包含标题行",
+    "cancel": "取消",
+    "insert": "插入"
+  },
+  "howToUse": {
+    "label": "使用方法",
+    "title": "如何将文本转换为PDF",
+    "subtitle": "按照这些简单步骤将您的文本文件转换为PDF文档",
+    "step": "步骤",
+    "step1": {
+      "title": "输入、粘贴或上传您的文本",
+      "description": "通过在编辑器中直接输入、从任何来源粘贴内容或使用上传按钮提供TXT文件开始。"
+    },
+    "step2": {
+      "title": "格式化您的内容",
+      "description": "使用富文本编辑器格式化您的内容。更改字体大小、样式，添加粗体或斜体效果，并自定义文本的外观。"
+    },
+    "step3": {
+      "title": "设置页面选项并转换",
+      "description": "点击继续按钮以设置您的PDF选项，包括页面方向（纵向/横向）、页面大小（A4、Letter等）和边距。然后点击转换按钮生成您的PDF。"
+    },
+    "step4": {
+      "title": "下载您的PDF",
+      "description": "转换完成后，您的PDF文件将自动下载。现在您可以共享、打印或存储您的文档。"
+    }
+  }
+}
+

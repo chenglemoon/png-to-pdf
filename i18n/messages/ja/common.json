@@ -1,0 +1,272 @@
+{
+  "Home": {
+    "title": "PNG PDF 変換 – オンラインでPNGをPDFへ",
+    "tagLine": "プロフェッショナルな PNG から PDF へのコンバーター",
+    "description": "PNGをPDFに変換. 共有ボタンから「ダウンロード」→PDFを選択します。あっという間にダウンロードされ、PCまたはデバイスに保存されます。",
+    "keywords": "png pdf 変換, png を pdf に変換, png pdf コンバーター, 画像 pdf 変換, png 画像 pdf 変換, オンライン png pdf 変換, 無料 png pdf コンバーター, png コンバーター, pdf コンバーター, 画像コンバーター",
+    "meta": {
+      "title": "PNG PDF 変換 – オンラインでPNGをPDFへ",
+      "description": "オンライン無料の PNG to PDF コンバーターです！複数のPNGイメージを１つのPDFドキュメントに変換できます。PNGだけでなく、JPG、BMP、GIF、TIFFイメージも変換OKです。"
+    },
+    "pageData": {
+      "tagLine": "プロフェッショナルな PNG から PDF へのコンバーター",
+      "description": "PNGをPDFに変換. 共有ボタンから「ダウンロード」→PDFを選択します。あっという間にダウンロードされ、PCまたはデバイスに保存されます。"
+    },
+    "ctaButton": "PNG を PDF に",
+    "howToUse": {
+      "label": "使い方",
+      "title": "複数の画像をオンラインで PDF に変換する方法は？",
+      "subtitle": "画像を PDF に変換するプロセスは非常に簡単で、数回のクリックで完了できます。",
+      "step1": {
+        "label": "1.画像をアップロード",
+        "title": "1.画像をアップロード",
+        "description": "PNG から PDF へのコンバーターに 1 つまたは複数の PNG 画像をアップロードします。"
+      },
+      "step2": {
+        "label": "2.PDF に変換",
+        "title": "2.PDF に変換",
+        "description": "「PDF に変換」ボタンをクリックして変換プロセスを開始します。"
+      },
+      "step3": {
+        "label": "3.PDF ファイルをダウンロード",
+        "title": "3.PDF ファイルをダウンロード",
+        "description": "完了すると、PDF ファイルが自動的にダウンロードされます。"
+      }
+    },
+    "features": {
+      "title": "PNG から PDF へのコンバーターの機能は何ですか？",
+      "subtitle": "30 万人以上のユーザーが、優れた機能により、当社の画像から PDF へのコンバーターを使用することを選択しています。",
+      "feature1": {
+        "title": "1 秒で画像を PDF ファイルに変換",
+        "description": "1 つまたは複数の画像をアップロードすると、約 1 秒で使用可能な PDF を取得できます。当社の画像から PDF へのツールは、シームレスな WYSIWYG 体験で、超高速変換を保証します。",
+        "button": "画像をアップロード"
+      },
+      "feature2": {
+        "title": "画像から PDF へのコンバーターは複数の画像形式をサポート",
+        "description": "画像から PDF へのコンバーターは、Webp、JPG、PNG、BMP などの一般的な画像形式を完全にサポートし、マルチシーン変換のニーズを満たし、操作をより簡単にします。",
+        "button": "画像をアップロード >>"
+      },
+      "feature3": {
+        "title": "画像から PDF へのツールで印刷可能な PDF を作成",
+        "description": "複数の画像を作成した後、当社の画像から PDF へのコンバーターを直接使用して PDF 文書を作成できます。これはシンプルで便利で、別の PDF コンバーターを見つける必要はありません。シームレスな接続により、効率が 10 倍向上します。",
+        "button": "PDF を作成"
+      }
+    },
+    "testimonials": {
+      "title": "画像から PDF へのコンバーターに関するユーザーの評価",
+      "subtitle": "多くのユーザーが、当社の画像から PDF へのツールを使用した後、高く評価しています。",
+      "testimonial1": {
+        "content": "自分では思いつかないようなレイアウトや色使いに毎回Wow!となります。自分で作るとワンパターンになりがちですがCanvaのデザインサジェスチョンからアイデアを得るとより楽しいものが作ることができます。",
+        "role": "高木和子"
+      },
+      "testimonial2": {
+        "content": "テンプレート・デザインと写真の組み合わせは、作品のあらゆる可能性を視覚的に明示してくれます。想像を超える作品は、選択するのに困ってしまうくらい優れた出来栄えとなるでしょう。",
+        "role": "石坂 俊成"
+      },
+      "testimonial3": {
+        "content": "直感的に操作できる、フォントの種類が多い、画像の書き出しが簡単、作業スペースがコピーできる、デザインテンプレートが豊富でイメージが湧きやすい。",
+        "role": "保坂忠伸"
+      }
+    },
+    "faq": {
+      "label": "よくある質問",
+      "title": "よくある質問",
+      "subtitle": "質問がありますか？お手伝いします。まだ答えを探していますか？サポートセンターにアクセスしてください。",
+      "q1": {
+        "question": "変換したファイルはどのように保存されますか？",
+        "answer": "PDF変換するとご自分のPCやデバイスにダウンロードされます。CanvaでPDFファイルを使用したい場合は、ホーム画面から「ファイルをインポート」でPDFをインポートします。"
+      },
+      "q2": {
+        "question": "どの画像形式を変換できますか？",
+        "answer": "Webp、JPG、PNG など、ほぼすべての画像形式がサポートされています。"
+      },
+      "q3": {
+        "question": "PDF のレイアウトを調整できますか？",
+        "answer": "もちろん、ページサイズ（通常は A4）を調整でき、ページレイアウトも調整できます。"
+      },
+      "q4": {
+        "question": "一度に複数の画像をアップロードできますか？",
+        "answer": "もちろん、1 枚の画像をアップロードすることも、一度に 10 枚の画像をアップロードすることもできます。必要に応じてアップロードする写真を選択してください。"
+      },
+      "q5": {
+        "question": "画像から PDF へのコンバーターを無料で試すことができますか？",
+        "answer": "もちろん、オンラインサービスを完全に無料で提供しており、100% 無料で使用できます。"
+      }
+    },
+    "getStartedWithTools": {
+      "title": "ツールを始める",
+      "subtitle": "ツールをクリックしてファイルアップローダーを開く",
+      "searchPlaceholder": "ツールを検索（例：'分割'、'整理'...）",
+      "categories": {
+        "convertToPdf": {
+          "name": "画像をPDFに",
+          "tools": {
+            "imageToPdf": {
+              "name": "画像をPDFに",
+              "subtitle": "JPG, PNG, WebP, BMP, TIFF, SVG, HEICをPDFに変換。"
+            },
+            "jpgToPdf": {
+              "name": "JPGからPDF",
+              "subtitle": "1つまたは複数のJPG画像からPDFを作成。"
+            },
+            "pngToPdf": {
+              "name": "PNGをPDFに",
+              "subtitle": "1つまたは複数のPNG画像からPDFを作成。"
+            },
+            "webpToPdf": {
+              "name": "WebPをPDFに",
+              "subtitle": "1つまたは複数の WebP 画像からPDFを作成。"
+            },
+            "svgToPdf": {
+              "name": "SVGをPDFに",
+              "subtitle": "1つまたは複数のSVG 画像からPDFを作成。"
+            },
+            "bmpToPdf": {
+              "name": "BMPをPDFに",
+              "subtitle": "1つまたは複数の BMP 画像からPDFを作成。"
+            },
+            "heicToPdf": {
+              "name": "HEICをPDFに",
+              "subtitle": "1つまたは複数の HEIC 画像からPDFを作成。"
+            },
+            "tiffToPdf": {
+              "name": "TIFFをPDFに",
+              "subtitle": "1つまたは複数の TIFF 画像からPDFを作成。"
+            },
+            "textToPdf": {
+              "name": "テキストをPDFに",
+              "subtitle": "プレーンテキストファイルを PDFに変換。"
+            }
+          }
+        },
+        "convertFromPdf": {
+          "name": "PDF から変換",
+          "tools": {
+            "pdfToJpg": {
+              "name": "PDFからJPG",
+              "subtitle": "各PDF ページをJPG画像に変換。"
+            },
+            "pdfToPng": {
+              "name": "PDFからPNG",
+              "subtitle": "各PDF ページを PNG画像に変換。"
+            },
+            "pdfToWebp": {
+              "name": "PDFをWebPに",
+              "subtitle": "各PDF ページをWebP 画像に変換。"
+            },
+            "pdfToBmp": {
+              "name": "PDFをBMPに",
+              "subtitle": "各PDF ページを BMP 画像に変換。"
+            },
+            "pdfToTiff": {
+              "name": "PDFをTIFFに",
+              "subtitle": "各PDF ページを TIFF 画像に変換。"
+            }
+          }
+        }
+      }
+    }
+  },
+  "Header": {
+    "title": "PNGをPDFに",
+    "links": [
+      {
+        "href": "/image-to-pdf",
+        "name": "画像をPDF"
+      },
+      {
+        "href": "/merge-jpg",
+        "name": "JPGをPDF"
+      },
+      {
+        "href": "/pdf-to-jpg",
+        "name": "PDFをJPG"
+      },
+      {
+        "href": "/pdf-to-png",
+        "name": "PDFをPNG"
+      },
+      {
+        "href": "/blog",
+        "name": "ブログ"
+      }
+    ]
+  },
+  "Footer": {
+    "title": "PNGをPDFに",
+    "tagLine": "無料オンラインPNG to PDFコンバーター",
+    "Copyright": "Copyright © {year} {name} 全著作権所有。",
+    "PrivacyPolicy": "プライバシーポリシー",
+    "TermsOfService": "利用規約",
+    "Links": {
+      "groups": [
+        {
+          "title": "製品",
+          "links": [
+            {
+              "href": "/",
+              "name": "PNGをPDFに"
+            }
+          ]
+        },
+        {
+          "title": "サポート",
+          "links": [
+            {
+              "href": "mailto:hi@png-to-pdf.online",
+              "name": "お問い合わせ"
+            }
+          ]
+        },
+        {
+          "title": "言語",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/ru",
+              "name": "Русский",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Blogs": {
+    "title": "PNGをPDFにブログ"
+  }
+}

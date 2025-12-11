@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "PDF转TIFF – 在线转换PDF至TIFF",
+    "description": "此免费在线工具可让您将PDF文档转换为一系列优化的TIFF图像，无需安装任何软件。",
+    "keywords": "pdf转tiff, 将pdf转换为tiff, pdf转图片, pdf转jpeg, pdf转jpg, pdf转png, pdf转webp, pdf转bmp, 从pdf提取图片, pdf转换器, 在线pdf转tiff, 免费pdf转tiff转换器"
+  },
+  "hero": {
+    "title": "在线转换PDF至TIFF",
+    "uploadTitle": "PDF转TIFF",
+    "mainTitle": {
+      "line1": "将PDF",
+      "line2": "页面转换为",
+      "line3": "TIFF图片",
+      "line4": ""
+    },
+    "description": "此免费在线转换软件可将PDF文档保存至一组独立的TIFF图像，与其它转换软件相比，提供更优质的图像质量和尺寸。",
+    "dragText": "在此拖放PDF文件",
+    "selectText": "或点击选择文件",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "PDF文件",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "PDF格式",
+    "maxSize": "最大50MB"
+  },
+  "preview": {
+    "title": "PDF页面预览（{current} / {total}）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加PDF文件",
+    "addMore": "添加更多",
+    "downloadAll": "全部下载为ZIP",
+    "downloadSingle": "下载",
+    "page": "页面"
+  },
+  "upload": "上传",
+  "imageQuality": {
+    "label": "图片质量",
+    "placeholder": "选择质量",
+    "low": "低（文件大小较小）",
+    "medium": "中（平衡）",
+    "high": "高（文件大小较大）"
+  },
+  "convertButton": "转换为TIFF",
+  "processing": {
+    "title": "正在将PDF转换为TIFF...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "fileAdded": "PDF文件添加成功",
+    "convertSuccess": "成功将{count}页转换为TIFF"
+  },
+  "errors": {
+    "notPdf": "请选择PDF文件",
+    "unsupportedFormat": "不支持的文件格式。请选择PDF文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFile": "请选择PDF文件",
+    "processFileFailed": "处理PDF文件失败",
+    "convertFailed": "转换失败。请确保PDF文件有效",
+    "readFileFailed": "读取PDF文件失败",
+    "createZipFailed": "创建ZIP文件失败"
+  },
+  "features": {
+    "title": "PDF转TIFF转换器的功能是什么？",
+    "subtitle": "超过30万用户选择使用我们的PDF转TIFF转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "几秒钟内将PDF转换为TIFF",
+      "description": "上传您的PDF文件，几秒钟内将所有页面提取为高质量的TIFF图片。我们的PDF转TIFF工具确保快速转换，同时保持出色的图片质量。",
+      "button": "开始转换"
+    },
+    "feature2": {
+      "title": "高质量图片输出",
+      "description": "从PDF页面获得清晰、锐利的TIFF图片。TIFF格式提供无损压缩选项，非常适合保持最大图像质量和细节，用于专业用途。",
+      "button": "试用转换器 >>"
+    },
+    "feature3": {
+      "title": "批量下载所有页面",
+      "description": "将所有PDF页面下载为单独的TIFF图片，或在一个方便的ZIP文件中获取所有页面。非常适合从文档、演示文稿或报告中提取图片。",
+      "button": "立即转换"
+    }
+  },
+  "testimonials": {
+    "title": "用户对PDF转TIFF转换器的评价",
+    "subtitle": "许多用户在使用我们的PDF转TIFF工具后给予了高度评价。",
+    "testimonial1": {
+      "content": "我需要从50页的PDF中提取图片用于专业打印。这个工具在不到一分钟内将所有页面转换为TIFF。图片质量非常好且未压缩，完全满足我的需求。",
+      "role": "打印专业人士"
+    },
+    "testimonial2": {
+      "content": "非常适合从PDF文档中提取页面。TIFF格式提供无损图片，这对我的归档工作至关重要。无需注册，工作得很好！",
+      "role": "档案管理员"
+    },
+    "testimonial3": {
+      "content": "我经常使用这个工具将PDF页面转换为专业扫描工作流的图片。TIFF格式确保最大质量，没有压缩伪影。强烈推荐！",
+      "role": "文档专家"
+    }
+  },
+  "howToUse": {
+    "label": "使用方法",
+    "title": "如何将PDF转换为TIFF",
+    "subtitle": "按照这些简单步骤将您的PDF页面转换为TIFF图片",
+    "step": "步骤",
+    "step1": {
+      "title": "上传您的PDF文件",
+      "description": "将PDF文件拖放到上传区域或点击选择文件。我们的工具支持最大50MB的PDF文件。"
+    },
+    "step2": {
+      "title": "选择图片质量",
+      "description": "选择您首选的图片质量设置：低用于较小的文件大小，中用于平衡的质量，或高用于最大清晰度。"
+    },
+    "step3": {
+      "title": "预览和下载",
+      "description": "在预览区域查看所有转换后的页面。下载单独的TIFF图片或在一个方便的ZIP文件中一次性获取所有页面。"
+    }
+  },
+  "faq": {
+    "title": "PDF转TIFF常见问题",
+    "q1": {
+      "question": "如何将PDF转换为TIFF？",
+      "answer": "TIFF文件普遍支持，因此非常适合轻松查看、共享和上传文件。使用我们的免费在线PDF转TIFF转换器将PDF转换为TIFF。您可以轻松改进或为您的设计添加装饰，然后将您的工作下载为TIFF文件。"
+    },
+    "q2": {
+      "question": "我可以将PDF转换为TIFF吗？",
+      "answer": "当然可以！只需在我们的免费PDF转TIFF转换器中上传您的PDF文件，然后观看魔法发生。您甚至可以使用我们内置的编辑器来增强您的图片并为您的作品添加引人注目的设计元素，使您的图片看起来更具吸引力。"
+    },
+    "q3": {
+      "question": "TIFF与PDF有什么不同？",
+      "answer": "与PDF文件相比，TIFF图片设计用于在数字平台上共享，因为它们可以在文件大小显著更小的情况下保持文件的质量。TIFF图片还支持无损存储，因此您可以合并设计元素或将您的图片叠加在您将共享的其他资源上。"
+    }
+  }
+}
+

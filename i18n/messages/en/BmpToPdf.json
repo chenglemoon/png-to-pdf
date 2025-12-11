@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "BMP to PDF Converter | Convert Your BMP Images to PDF Online",
+    "description": "Turn your BMPs into high-quality PDFs in seconds. Online conversion that’s private, fast, and free. No signup or credit card needed.",
+    "keywords": "bmp to pdf, convert bmp to pdf, bmp to pdf converter, image to pdf, bmp images to pdf, online bmp to pdf, free bmp to pdf converter, bmp converter, pdf converter"
+  },
+  "hero": {
+    "title": "Convert BMP to PDF",
+    "uploadTitle": "BMP to PDF",
+    "mainTitle": {
+      "line1": "Transform BMP Images",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "BMP to PDF converter. Best way to convert BMP to PDF online at the highest quality. This tool is free, secure, and works on any web browser.",
+    "dragText": "Drag and drop images here (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from BMP images...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} image file(s) to PDF"
+  },
+  "errors": {
+    "notBmp": "Please select BMP format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "features": {
+    "title": "What Are Features of BMP to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our BMP to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert BMP Images to PDF File in 1 Second",
+      "description": "Upload one or multiple BMP images and get a ready-to-use PDF in just about one second. Our BMP to PDF tool ensures lightning-fast conversion with a seamless, WYSIWYG experience.",
+      "button": "Upload Your Images"
+    },
+    "feature2": {
+      "title": "BMP to PDF Converter Supports High Quality",
+      "description": "BMP to PDF converter fully supports BMP format with high quality preservation, meeting the needs of professional conversion and making operation easier.",
+      "button": "Upload Your Image >>"
+    },
+    "feature3": {
+      "title": "Create Printable PDF with BMP-to-PDF Tool",
+      "description": "After you have created multiple BMP images, you can directly use our BMP to PDF converter to make a PDF document. This is simple and convenient, without having to find a separate PDF converter. Seamless connection, improve 10x efficiency.",
+      "button": "Making A PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About BMP to PDF Converter",
+    "subtitle": "Many users have highly praised our BMP to PDF tool after using it.",
+    "testimonial1": {
+      "content": "I uploaded over a dozen BMP images and the conversion was done in less than two seconds—super fast! The PDF layout was clean and the image quality remained intact. Really great user experience.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "I tested BMP images in different sizes, and everything converted smoothly. No registration required, no ads, and the interface is clean—perfect for everyday office use.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "I often collect BMP images for my projects, and this tool lets me turn them into printable PDFs in one click. Super convenient for making professional documents.",
+      "role": "Developer"
+    }
+  },
+  "faq": {
+    "title": "Convert BMP to PDF FAQs",
+    "q1": {
+      "question": "Can I convert multiple BMP images to one PDF?",
+      "answer": "Yes! Our tool allows you to combine multiple BMP images into a single PDF document. Simply select all the BMP images you want to include before converting."
+    },
+    "q2": {
+      "question": "Is my data secure when converting BMP to PDF?",
+      "answer": "Your files are protected with advanced TLS encryption. For your security, all images are automatically deleted from our servers one hour after processing."
+    },
+    "q3": {
+      "question": "What is the difference between PDF Standard and PDF Print?",
+      "answer": "Using our free BMP to PDF converter, you can edit your BMP images online before saving them in PDF. You also get to choose which PDF format to convert your image to. Download your design in PDF Standard for digital purposes, especially for mobile use and drive storage since they don't take up much space. PDF Print is perfect for printing because of its higher resolution than PDF Standard and allows you to add crop marks and bleed for professional-looking prints."
+    },
+    "q4": {
+      "question": "Why convert BMP to PDF?",
+      "answer": "BMP files that are converted to PDF become easy to share, open, and download across different devices and operating systems. That is because PDF is an open file format. Converting BMP images to PDF also compresses their file size, freeing up storage space and saving you the cost of paying for more. And despite their reduced size, PDF files retain the quality and details of the original images after conversion."
+    },
+    "q5": {
+      "question": "How to convert multiple BMP files to PDF?",
+      "answer": "Our online BMP to PDF converter lets you convert multiple BMP files to a single PDF document. Simply drag and drop the BMP images you want to convert into your design project. Add multiple pages and arrange their layout according to how you want them to appear or based on your selected project template. Edit each image then download your design in PDF Standard or PDF Print format."
+    }
+  }
+}
+

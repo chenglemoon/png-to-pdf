@@ -1,0 +1,162 @@
+{
+  "title": "PNG 转 PDF – 将 PNG 图片转换为 PDF 文档",
+  "description": "将一个或多个 PNG 图片转换为单个 PDF 文件。免费、快速、安全 - 所有处理都在您的浏览器中完成。",
+  "tagLine": "专业的 PNG 转 PDF 转换器",
+  "pageData": {
+    "description": "将一个或多个 PNG 图片转换为单个 PDF 文件。免费、快速、安全 - 所有处理都在您的浏览器中完成。"
+  },
+  "howToUse": {
+    "label": "使用方法",
+    "title": "如何在线将多张图片转换为 PDF？",
+    "subtitle": "将图片转换为 PDF 的过程非常简单，只需点击几下即可完成。",
+    "step1": {
+      "label": "1.上传图片",
+      "title": "1.上传图片",
+      "description": "向我们的 PNG 转 PDF 转换器上传一张或多张 PNG 图片。"
+    },
+    "step2": {
+      "label": "2.转换为 PDF",
+      "title": "2.转换为 PDF",
+      "description": "点击转换为PDF按钮开始转换过程。"
+    },
+    "step3": {
+      "label": "3.下载 PDF 文件",
+      "title": "3.下载 PDF 文件",
+      "description": "完成后，PDF 文件将自动下载。"
+    }
+  },
+  "features": {
+    "title": "PNG 转 PDF 转换器有哪些功能？",
+    "subtitle": "超过 30 万用户选择使用我们的图片转 PDF 转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "1 秒内将图片转换为 PDF 文件",
+      "description": "上传一张或多张图片，只需大约一秒钟即可获得可用的 PDF。我们的图片转 PDF 工具确保闪电般快速的转换，提供无缝的所见即所得体验。",
+      "button": "上传您的图片"
+    },
+    "feature2": {
+      "title": "图片转 PDF 转换器支持多种图片格式",
+      "description": "图片转 PDF 转换器完全支持常见的图片格式，如 Webp、JPG、PNG、BMP 等，满足多场景转换需求，使操作更加便捷。",
+      "button": "上传您的图片 >>"
+    },
+    "feature3": {
+      "title": "使用图片转 PDF 工具创建可打印的 PDF",
+      "description": "创建多张图片后，您可以直接使用我们的图片转 PDF 转换器制作 PDF 文档。这简单方便，无需寻找单独的 PDF 转换器。无缝连接，效率提升 10 倍。",
+      "button": "制作 PDF"
+    }
+  },
+  "testimonials": {
+    "title": "用户对图片转 PDF 转换器的评价",
+    "subtitle": "许多用户在使用我们的图片转 PDF 工具后都给予了高度评价。",
+    "testimonial1": {
+      "content": "我上传了十几张图片，转换在不到两秒内完成——超级快！PDF 布局整洁，图片质量保持完整。用户体验真的很棒。",
+      "role": "设计师"
+    },
+    "testimonial2": {
+      "content": "我测试了不同格式的图片，包括 PNG 和 TIFF，所有内容都转换顺利。无需注册，无广告，界面简洁——非常适合日常办公使用。",
+      "role": "助理"
+    },
+    "testimonial3": {
+      "content": "我经常为我的孩子收集线条图，这个工具让我可以一键将它们转换为可打印的 PDF。制作儿童涂色书非常方便。",
+      "role": "家长"
+    }
+  },
+  "faq": {
+    "label": "常见问题",
+    "title": "常见问题",
+    "subtitle": "有问题？我们随时为您提供帮助。还在寻找答案？请访问我们的支持中心。",
+    "q1": {
+      "question": "什么是图片转 PDF 转换器？",
+      "answer": "这是一个在线文件转换器，旨在根据指定的页面大小将多张图片转换为 PDF 文件。"
+    },
+    "q2": {
+      "question": "我可以转换哪些图片格式？",
+      "answer": "几乎支持所有图片格式，包括但不限于 Webp、JPG 和 PNG。"
+    },
+    "q3": {
+      "question": "我可以调整 PDF 的布局吗？",
+      "answer": "当然可以，您可以调整页面大小（通常是 A4），也可以调整页面布局。"
+    },
+    "q4": {
+      "question": "我可以一次上传多张图片吗？",
+      "answer": "当然可以，您可以上传 1 张图片，也可以一次上传 10 张图片。只需根据您的需要选择要上传的照片。"
+    },
+    "q5": {
+      "question": "我可以免费试用您的图片转 PDF 转换器吗？",
+      "answer": "当然可以，我们完全免费提供在线服务，100% 免费使用。"
+    }
+  },
+  "getStartedWithTools": {
+    "title": "开始使用工具",
+    "subtitle": "点击工具打开文件上传器",
+    "searchPlaceholder": "搜索工具（例如：'分割'、'整理'...）",
+    "categories": {
+      "convertToPdf": {
+        "name": "转换为 PDF",
+        "tools": {
+          "imageToPdf": {
+            "name": "图片转 PDF",
+            "subtitle": "将 JPG、PNG、WebP、BMP、TIFF、SVG、HEIC 转换为 PDF。"
+          },
+          "jpgToPdf": {
+            "name": "JPG 转 PDF",
+            "subtitle": "从一张或多张 JPG 图片创建 PDF。"
+          },
+          "pngToPdf": {
+            "name": "PNG 转 PDF",
+            "subtitle": "从一张或多张 PNG 图片创建 PDF。"
+          },
+          "webpToPdf": {
+            "name": "WebP 转 PDF",
+            "subtitle": "从一张或多张 WebP 图片创建 PDF。"
+          },
+          "svgToPdf": {
+            "name": "SVG 转 PDF",
+            "subtitle": "从一张或多张 SVG 图片创建 PDF。"
+          },
+          "bmpToPdf": {
+            "name": "BMP 转 PDF",
+            "subtitle": "从一张或多张 BMP 图片创建 PDF。"
+          },
+          "heicToPdf": {
+            "name": "HEIC 转 PDF",
+            "subtitle": "从一张或多张 HEIC 图片创建 PDF。"
+          },
+          "tiffToPdf": {
+            "name": "TIFF 转 PDF",
+            "subtitle": "从一张或多张 TIFF 图片创建 PDF。"
+          },
+          "textToPdf": {
+            "name": "文本转 PDF",
+            "subtitle": "将纯文本文件转换为 PDF。"
+          }
+        }
+      },
+      "convertFromPdf": {
+        "name": "从 PDF 转换",
+        "tools": {
+          "pdfToJpg": {
+            "name": "PDF 转 JPG",
+            "subtitle": "将每个 PDF 页面转换为 JPG 图片。"
+          },
+          "pdfToPng": {
+            "name": "PDF 转 PNG",
+            "subtitle": "将每个 PDF 页面转换为 PNG 图片。"
+          },
+          "pdfToWebp": {
+            "name": "PDF 转 WebP",
+            "subtitle": "将每个 PDF 页面转换为 WebP 图片。"
+          },
+          "pdfToBmp": {
+            "name": "PDF 转 BMP",
+            "subtitle": "将每个 PDF 页面转换为 BMP 图片。"
+          },
+          "pdfToTiff": {
+            "name": "PDF 转 TIFF",
+            "subtitle": "将每个 PDF 页面转换为 TIFF 图片。"
+          }
+        }
+      }
+    }
+  }
+}
+

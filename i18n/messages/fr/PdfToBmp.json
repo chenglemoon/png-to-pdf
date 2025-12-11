@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Convertisseur gratuit de PDF en BMP en ligne",
+    "description": "Convertissez des fichiers PDF en fichiers BMP et partagez-les sur n'importe quelle plateforme à l'aide du convertisseur PDF-BMP gratuit.",
+    "keywords": "pdf vers bmp, convertir pdf vers bmp, pdf vers image, pdf vers jpeg, pdf vers jpg, pdf vers png, pdf vers webp, extraire images de pdf, convertisseur pdf, pdf vers bmp en ligne, convertisseur gratuit pdf vers bmp"
+  },
+  "hero": {
+    "title": "Convertisseur gratuit de PDF en BMP",
+    "uploadTitle": "PDF vers BMP",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "pages PDF",
+      "line3": "en BMP",
+      "line4": ""
+    },
+    "description": "Transformez vos documents PDF en un contenu riche que vous pouvez facilement partager sur des plateformes en ligne et auquel vous pouvez accéder sur n'importe quel appareil en les convertissant en images BMP à l'aide du convertisseur gratuit de PDF en BMP en ligne.",
+    "dragText": "Glissez-déposez le fichier PDF ici",
+    "selectText": "ou cliquez pour sélectionner un fichier",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "Fichiers PDF",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "Formato PDF",
+    "maxSize": "Max 50MB"
+  },
+  "preview": {
+    "title": "Aperçu des pages PDF ({current} / {total})",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter un fichier PDF",
+    "addMore": "Ajouter plus",
+    "downloadAll": "TÉLÉCHARGER TOUT EN ZIP",
+    "downloadSingle": "TÉLÉCHARGER",
+    "page": "Page"
+  },
+  "upload": "Télécharger",
+  "imageQuality": {
+    "label": "Qualité d'image",
+    "placeholder": "Sélectionner la qualité",
+    "low": "Basse (Taille de fichier plus petite)",
+    "medium": "Moyenne (Équilibrée)",
+    "high": "Haute (Taille de fichier plus grande)"
+  },
+  "convertButton": "Convertir en BMP",
+  "processing": {
+    "title": "Conversion PDF vers BMP...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "fileAdded": "Fichier PDF ajouté avec succès",
+    "convertSuccess": "{count} page(s) convertie(s) avec succès en BMP"
+  },
+  "errors": {
+    "notPdf": "Veuillez sélectionner un fichier PDF",
+    "unsupportedFormat": "Format de fichier non pris en charge. Veuillez sélectionner un fichier PDF.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFile": "Veuillez sélectionner un fichier PDF",
+    "processFileFailed": "Échec du traitement du fichier PDF",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que le fichier PDF est valide",
+    "readFileFailed": "Échec de la lecture du fichier PDF",
+    "createZipFailed": "Échec de la création du fichier ZIP"
+  },
+  "features": {
+    "title": "Quelles sont les fonctionnalités du convertisseur PDF vers BMP?",
+    "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur PDF vers BMP en raison de ses fonctionnalités exceptionnelles.",
+    "feature1": {
+      "title": "Convertir PDF en BMP en quelques secondes",
+      "description": "Téléchargez votre fichier PDF et extrayez toutes les pages comme images BMP de haute qualité en quelques secondes. Notre outil PDF vers BMP assure une conversion rapide avec une excellente préservation de la qualité d'image.",
+      "button": "Commencer la conversion"
+    },
+    "feature2": {
+      "title": "Sortie d'image de haute qualité",
+      "description": "Obtenez des images BMP nettes et claires de vos pages PDF. Le format BMP fournit un stockage d'image non compressé, parfait pour préserver la qualité et les détails d'image maximaux.",
+      "button": "Essayer le convertisseur >>"
+    },
+    "feature3": {
+      "title": "Téléchargement par lots de toutes les pages",
+      "description": "Téléchargez toutes les pages PDF comme images BMP individuelles, ou obtenez-les toutes dans un fichier ZIP pratique. Parfait pour extraire des images de documents, présentations ou rapports.",
+      "button": "Convertir maintenant"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages d'utilisateurs sur le convertisseur PDF vers BMP",
+    "subtitle": "De nombreux utilisateurs ont beaucoup loué notre outil PDF vers BMP après l'avoir utilisé.",
+    "testimonial1": {
+      "content": "J'avais besoin d'extraire des images d'un PDF de 50 pages pour une présentation. Cet outil a converti toutes les pages en BMP en moins d'une minute. La qualité de l'image était excellente et non compressée, parfaite pour mes besoins.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Parfait pour extraire des pages de documents PDF. Le format BMP me donne des images non compressées, ce qui est crucial pour mon travail de design. Aucune inscription requise, fonctionne très bien!",
+      "role": "Étudiant"
+    },
+    "testimonial3": {
+      "content": "J'utilise régulièrement cela pour convertir des pages PDF en images pour l'impression professionnelle. Le format BMP assure une qualité maximale sans artefacts de compression. Très recommandé!",
+      "role": "Professionnel de l'impression"
+    }
+  },
+  "howToUse": {
+    "label": "Comment utiliser",
+    "title": "Comment convertir PDF en BMP",
+    "subtitle": "Suivez ces étapes simples pour convertir vos pages PDF en images BMP",
+    "step": "Étape",
+    "step1": {
+      "title": "Téléchargez votre fichier PDF",
+      "description": "Glissez-déposez votre fichier PDF dans la zone de téléchargement ou cliquez pour sélectionner un fichier. Notre outil prend en charge les fichiers PDF jusqu'à 50MB."
+    },
+    "step2": {
+      "title": "Sélectionnez la qualité d'image",
+      "description": "Choisissez votre paramètre de qualité d'image préféré: Basse pour des tailles de fichier plus petites, Moyenne pour une qualité équilibrée, ou Haute pour une clarté maximale."
+    },
+    "step3": {
+      "title": "Aperçu et téléchargement",
+      "description": "Visualisez toutes les pages converties dans la zone d'aperçu. Téléchargez des images BMP individuelles ou obtenez toutes les pages à la fois dans un fichier ZIP pratique."
+    }
+  },
+  "faq": {
+    "title": "FAQ PDF vers BMP",
+    "q1": {
+      "question": "Comment convertir PDF en BMP?",
+      "answer": "Les fichiers BMP sont pris en charge universellement, ils sont donc idéaux pour la visualisation, le partage et le téléchargement faciles de fichiers. Convertissez PDF en BMP en utilisant notre convertisseur gratuit PDF vers BMP en ligne. Vous pouvez facilement améliorer ou ajouter des embellissements à votre conception, puis télécharger votre travail comme un fichier BMP."
+    },
+    "q2": {
+      "question": "Puis-je convertir PDF en BMP?",
+      "answer": "Absolument! Téléchargez simplement votre fichier PDF dans notre convertisseur gratuit PDF vers BMP et regardez la magie opérer. Vous pouvez même rendre vos images plus attrayantes en utilisant notre éditeur intégré pour améliorer vos images et ajouter des éléments de conception accrocheurs à votre travail."
+    },
+    "q3": {
+      "question": "En quoi BMP diffère-t-il de PDF?",
+      "answer": "Par rapport à un fichier PDF, les images BMP sont conçues pour être partagées sur des plateformes numériques car elles peuvent préserver la qualité d'un fichier même avec leur taille de fichier considérablement plus petite. Les images BMP prennent également en charge le stockage non compressé afin que vous puissiez incorporer des éléments de conception ou superposer votre image sur d'autres ressources que vous partagerez."
+    }
+  }
+}
+

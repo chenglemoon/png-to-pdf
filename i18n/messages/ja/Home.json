@@ -1,0 +1,161 @@
+{
+  "title": "PNG を PDF に変換 – PNG 画像を PDF 文書に変換",
+  "description": "1 つまたは複数の PNG 画像を 1 つの PDF ファイルに変換します。無料、高速、安全 - すべての処理はブラウザで行われます。",
+  "tagLine": "プロフェッショナルな PNG から PDF へのコンバーター",
+  "pageData": {
+    "description": "1 つまたは複数の PNG 画像を 1 つの PDF ファイルに変換します。無料、高速、安全 - すべての処理はブラウザで行われます。"
+  },
+  "howToUse": {
+    "label": "使い方",
+    "title": "複数の画像をオンラインで PDF に変換する方法は？",
+    "subtitle": "画像を PDF に変換するプロセスは非常に簡単で、数回のクリックで完了できます。",
+    "step1": {
+      "label": "1.画像をアップロード",
+      "title": "1.画像をアップロード",
+      "description": "PNG から PDF へのコンバーターに 1 つまたは複数の PNG 画像をアップロードします。"
+    },
+    "step2": {
+      "label": "2.PDF に変換",
+      "title": "2.PDF に変換",
+      "description": "「PDF に変換」ボタンをクリックして変換プロセスを開始します。"
+    },
+    "step3": {
+      "label": "3.PDF ファイルをダウンロード",
+      "title": "3.PDF ファイルをダウンロード",
+      "description": "完了すると、PDF ファイルが自動的にダウンロードされます。"
+    }
+  },
+  "features": {
+    "title": "PNG から PDF へのコンバーターの機能は何ですか？",
+    "subtitle": "30 万人以上のユーザーが、優れた機能により、当社の画像から PDF へのコンバーターを使用することを選択しています。",
+    "feature1": {
+      "title": "1 秒で画像を PDF ファイルに変換",
+      "description": "1 つまたは複数の画像をアップロードすると、約 1 秒で使用可能な PDF を取得できます。当社の画像から PDF へのツールは、シームレスな WYSIWYG 体験で、超高速変換を保証します。",
+      "button": "画像をアップロード"
+    },
+    "feature2": {
+      "title": "画像から PDF へのコンバーターは複数の画像形式をサポート",
+      "description": "画像から PDF へのコンバーターは、Webp、JPG、PNG、BMP などの一般的な画像形式を完全にサポートし、マルチシーン変換のニーズを満たし、操作をより簡単にします。",
+      "button": "画像をアップロード >>"
+    },
+    "feature3": {
+      "title": "画像から PDF へのツールで印刷可能な PDF を作成",
+      "description": "複数の画像を作成した後、当社の画像から PDF へのコンバーターを直接使用して PDF 文書を作成できます。これはシンプルで便利で、別の PDF コンバーターを見つける必要はありません。シームレスな接続により、効率が 10 倍向上します。",
+      "button": "PDF を作成"
+    }
+  },
+  "testimonials": {
+    "title": "画像から PDF へのコンバーターに関するユーザーの評価",
+    "subtitle": "多くのユーザーが、当社の画像から PDF へのツールを使用した後、高く評価しています。",
+    "testimonial1": {
+      "content": "10 枚以上の画像をアップロードしましたが、変換は 2 秒未満で完了しました—超高速です！PDF レイアウトはクリーンで、画像品質はそのまま維持されました。本当に素晴らしいユーザー体験です。",
+      "role": "デザイナー"
+    },
+    "testimonial2": {
+      "content": "PNG や TIFF を含むさまざまな形式の画像をテストしましたが、すべてスムーズに変換されました。登録不要、広告なし、インターフェースはクリーン—日常のオフィス使用に最適です。",
+      "role": "アシスタント"
+    },
+    "testimonial3": {
+      "content": "子供のために線画を集めることがよくありますが、このツールを使用すると、ワンクリックで印刷可能な PDF に変換できます。子供向けの塗り絵ブックを作るのに非常に便利です。",
+      "role": "親"
+    }
+  },
+  "faq": {
+    "label": "よくある質問",
+    "title": "よくある質問",
+    "subtitle": "質問がありますか？お手伝いします。まだ答えを探していますか？サポートセンターにアクセスしてください。",
+    "q1": {
+      "question": "画像から PDF へのコンバーターとは何ですか？",
+      "answer": "指定されたページサイズに従って複数の画像を PDF ファイルに変換するように設計されたオンラインファイルコンバーターです。"
+    },
+    "q2": {
+      "question": "どの画像形式を変換できますか？",
+      "answer": "Webp、JPG、PNG など、ほぼすべての画像形式がサポートされています。"
+    },
+    "q3": {
+      "question": "PDF のレイアウトを調整できますか？",
+      "answer": "もちろん、ページサイズ（通常は A4）を調整でき、ページレイアウトも調整できます。"
+    },
+    "q4": {
+      "question": "一度に複数の画像をアップロードできますか？",
+      "answer": "もちろん、1 枚の画像をアップロードすることも、一度に 10 枚の画像をアップロードすることもできます。必要に応じてアップロードする写真を選択してください。"
+    },
+    "q5": {
+      "question": "画像から PDF へのコンバーターを無料で試すことができますか？",
+      "answer": "もちろん、オンラインサービスを完全に無料で提供しており、100% 無料で使用できます。"
+    }
+  },
+  "getStartedWithTools": {
+    "title": "ツールを始める",
+    "subtitle": "ツールをクリックしてファイルアップローダーを開く",
+    "searchPlaceholder": "ツールを検索（例：'分割'、'整理'...）",
+    "categories": {
+      "convertToPdf": {
+        "name": "PDF に変換",
+        "tools": {
+          "imageToPdf": {
+            "name": "画像を PDF に",
+            "subtitle": "JPG、PNG、WebP、BMP、TIFF、SVG、HEIC を PDF に変換。"
+          },
+          "jpgToPdf": {
+            "name": "JPG を PDF に",
+            "subtitle": "1 つまたは複数の JPG 画像から PDF を作成。"
+          },
+          "pngToPdf": {
+            "name": "PNG を PDF に",
+            "subtitle": "1 つまたは複数の PNG 画像から PDF を作成。"
+          },
+          "webpToPdf": {
+            "name": "WebP を PDF に",
+            "subtitle": "1 つまたは複数の WebP 画像から PDF を作成。"
+          },
+          "svgToPdf": {
+            "name": "SVG を PDF に",
+            "subtitle": "1 つまたは複数の SVG 画像から PDF を作成。"
+          },
+          "bmpToPdf": {
+            "name": "BMP を PDF に",
+            "subtitle": "1 つまたは複数の BMP 画像から PDF を作成。"
+          },
+          "heicToPdf": {
+            "name": "HEIC を PDF に",
+            "subtitle": "1 つまたは複数の HEIC 画像から PDF を作成。"
+          },
+          "tiffToPdf": {
+            "name": "TIFF を PDF に",
+            "subtitle": "1 つまたは複数の TIFF 画像から PDF を作成。"
+          },
+          "textToPdf": {
+            "name": "テキストを PDF に",
+            "subtitle": "プレーンテキストファイルを PDF に変換。"
+          }
+        }
+      },
+      "convertFromPdf": {
+        "name": "PDF から変換",
+        "tools": {
+          "pdfToJpg": {
+            "name": "PDF を JPG に",
+            "subtitle": "各 PDF ページを JPG 画像に変換。"
+          },
+          "pdfToPng": {
+            "name": "PDF を PNG に",
+            "subtitle": "各 PDF ページを PNG 画像に変換。"
+          },
+          "pdfToWebp": {
+            "name": "PDF を WebP に",
+            "subtitle": "各 PDF ページを WebP 画像に変換。"
+          },
+          "pdfToBmp": {
+            "name": "PDF を BMP に",
+            "subtitle": "各 PDF ページを BMP 画像に変換。"
+          },
+          "pdfToTiff": {
+            "name": "PDF を TIFF に",
+            "subtitle": "各 PDF ページを TIFF 画像に変換。"
+          }
+        }
+      }
+    }
+  }
+}

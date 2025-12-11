@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "title": "Text To PDF - Convert TXT to PDF online For Free",
+    "description": "This online Text to PDF converter lets your convert .txt file to PDF without losing formatting. Turn your editable text file into a PDF with a single click",
+    "keywords": "text to pdf, convert text to pdf, txt to pdf, text to pdf converter, text file to pdf, online text to pdf, free text to pdf converter, text converter, pdf converter"
+  },
+  "hero": {
+    "title": "Text to PDF Converter",
+    "uploadTitle": "Text to PDF",
+    "mainTitle": {
+      "line1": "Transform Text Files",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "This online Text to PDF converter lets your convert .txt file to PDF without losing formatting. Turn your editable text file into a PDF with a single click.",
+    "dragText": "Drag & Drop the TXT File Here",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "Text Files",
+    "privacy": "Your files never leave your device.",
+    "format": "TXT Format",
+    "maxSize": "Max 50MB"
+  },
+  "startTyping": "Start typing...",
+  "startOver": "Start Over",
+  "back": "Back",
+  "proceed": "Proceed",
+  "convert": "Convert",
+  "converting": "Converting",
+  "upload": "Upload",
+  "words": "Words",
+  "characters": "Characters",
+  "pageOrientation": "Page Orientation",
+  "pageMargin": "Page Margin",
+  "noMargin": "No Margin",
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Files Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add text files",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "fontSize": {
+    "label": "Font Size",
+    "placeholder": "Select font size",
+    "small": "Small (10pt)",
+    "medium": "Medium (12pt)",
+    "large": "Large (14pt)",
+    "xlarge": "Extra Large (16pt)"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from text files...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} text file(s) to PDF"
+  },
+  "errors": {
+    "notText": "Please select text format files (.txt)",
+    "unsupportedFormat": "Unsupported file format. Please select .txt files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one text file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid text files",
+    "readFileFailed": "Failed to read file {fileName}"
+  },
+  "features": {
+    "title": "What Are Features of Text to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our Text to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert Text to PDF in Seconds",
+      "description": "Type, paste, or upload your text files and get a professional PDF document in seconds. Our Text to PDF tool ensures lightning-fast conversion with a seamless, user-friendly experience. No installation or registration required.",
+      "button": "Start Converting"
+    },
+    "feature2": {
+      "title": "Rich Text Editor with Advanced Formatting",
+      "description": "Format your content with our powerful rich text editor. Customize font size, style, colors, add bold, italic, underline, lists, tables, images, and more. Create professional-looking documents with ease before converting to PDF.",
+      "button": "Try Editor >>"
+    },
+    "feature3": {
+      "title": "Customizable PDF Settings",
+      "description": "Control every aspect of your PDF output. Choose page size (A4, Letter, Legal, etc.), orientation (portrait or landscape), and margins. Create PDFs tailored to your specific needs, whether for printing, sharing, or archiving.",
+      "button": "Create PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About Text to PDF Converter",
+    "subtitle": "Many users have highly praised our Text to PDF tool after using it.",
+    "testimonial1": {
+      "content": "I uploaded over a dozen text files and the conversion was done in less than two seconds—super fast! The PDF layout was clean and the formatting remained intact. Really great user experience.",
+      "role": "Writer"
+    },
+    "testimonial2": {
+      "content": "I tested text files in different sizes, and everything converted smoothly. No registration required, no ads, and the interface is clean—perfect for everyday office use.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "I often collect text files for my projects, and this tool lets me turn them into printable PDFs in one click. Super convenient for making professional documents.",
+      "role": "Student"
+    }
+  },
+  "faq": {
+    "title": "Convert Text to PDF FAQs",
+    "q1": {
+      "question": "What is the purpose of Converting Text to PDF?",
+      "answer": "Text documents are converted to PDF to ensure consistent formatting and professional presentation. Also, PDFs are compatible with all devices, unlike word-processing files. Another common purpose of Text to PDF conversion is the security features of PDFs like password protection and editing restrictions."
+    },
+    "q2": {
+      "question": "How can I convert my text to PDF?",
+      "answer": "Paste or upload your text into our online Text to PDF converter, make adjustments using the editing options, and hit the \"Convert to PDF\" button. The converter will do immediate processing and provide a PDF file that you can download."
+    },
+    "q3": {
+      "question": "Can the TXT to PDF tool convert text messages into PDF?",
+      "answer": "Yes, the TXT to PDF converter can convert text messages into PDF files. The process is similar to converting standard text files: simply input your text messages, and the copied text to PDF converter will generate a PDF document for you."
+    },
+    "q4": {
+      "question": "Can I convert multiple text files at once?",
+      "answer": "Yes, our Txt to PDF converter is capable of converting multiple text files simultaneously in just a single click."
+    },
+    "q5": {
+      "question": "How to convert copied text into a PDF?",
+      "answer": "Simply, paste the copied text into the input area of our Text to PDF converter. Then, click the \"Convert to PDF\" button to start the conversion. Our tool will quickly convert your copy and pasted text into a PDF file."
+    }
+  },
+  "tableDialog": {
+    "title": "Insert Table",
+    "description": "Select the number of rows and columns for the table",
+    "rows": "Rows",
+    "cols": "Columns",
+    "withHeader": "Include header row",
+    "cancel": "Cancel",
+    "insert": "Insert"
+  },
+  "howToUse": {
+    "label": "How to use",
+    "title": "How to Convert Text to PDF",
+    "subtitle": "Follow these simple steps to convert your text files to PDF documents",
+    "step": "Step",
+    "step1": {
+      "title": "Type, Paste, or Upload Your Text",
+      "description": "Start by typing directly into the editor, pasting your content from any source, or using the upload button to provide a TXT file."
+    },
+    "step2": {
+      "title": "Format Your Content",
+      "description": "Use the rich text editor to format your content. Change font size, style, add bold or italic effects, and customize your text appearance."
+    },
+    "step3": {
+      "title": "Set Page Options & Convert",
+      "description": "Click 'Proceed' to set your PDF options including page orientation (portrait/landscape), page size (A4, Letter, etc.), and margins. Then click 'Convert' to generate your PDF."
+    },
+    "step4": {
+      "title": "Download Your PDF",
+      "description": "Once conversion is complete, your PDF file will be automatically downloaded. You can now share, print, or store your document."
+    }
+  }
+}
+

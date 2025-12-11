@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "JPG to PDF – Convert JPG Images to PDF Documents Online",
+    "description": "This free online JPG to PDF converter allows combining multiple images into a single PDF document. Supported image formats: JPG/JPEG, PNG, BMP, GIF, and TIFF.",
+    "keywords": "image to pdf, convert image to pdf, jpg to pdf, png to pdf, webp to pdf, bmp to pdf, tiff to pdf, svg to pdf, heic to pdf, image to pdf converter, online image to pdf, free image to pdf converter"
+  },
+  "hero": {
+    "title": "Convert JPG to PDF",
+    "uploadTitle": "Image to PDF",
+    "mainTitle": {
+      "line1": "Transform Images",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "Convert your JPG and other image files into universally compatible PDF documents effortlessly and at no cost.",
+    "dragText": "Drag and drop images here (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from JPGs...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+        "messages": {
+          "filesAdded": "Added {count} file(s)",
+          "convertSuccess": "Successfully converted {count} image file(s) to PDF"
+        },
+  "errors": {
+    "notJpg": "Please select JPG format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "faq": {
+    "title": "Convert JPG to PDF FAQs",
+    "q1": {
+      "question": "Can I convert a JPG file to a pdf file?",
+      "answer": "Yes, absolutely! Our online JPG to PDF converter allows you to convert JPG images to PDF files quickly and easily. Simply upload your JPG files, and our tool will convert them to PDF format in seconds."
+    },
+    "q2": {
+      "question": "How to convert JPG to PDF in phone?",
+      "answer": "Converting JPG to PDF on your phone is simple. Open our website in your mobile browser, upload your JPG images, and click the convert button. The PDF file will be ready to download in just a few seconds."
+    },
+    "q3": {
+      "question": "How to convert JPG to PDF on iPhone?",
+      "answer": "To convert JPG to PDF on iPhone, open our website in Safari or any mobile browser, upload your JPG images, and our tool will convert them to PDF. You can then save the PDF to your iPhone's Files app or share it directly."
+    },
+    "q4": {
+      "question": "Is JPG the same as a PDF?",
+      "answer": "No, JPG and PDF are different file formats. JPG is an image format used for photos and graphics, while PDF is a document format that can contain text, images, and other elements. Converting JPG to PDF allows you to combine multiple images into a single document and makes it easier to share and print."
+    },
+    "q5": {
+      "question": "Is my data secure when converting JPG to PDF?",
+      "answer": "Your files are protected with advanced TLS encryption. For your security, all images are automatically deleted from our servers one hour after processing."
+    },
+    "q6": {
+      "question": "Is this a free JPG to PDF converter?",
+      "answer": "Absolutely. Convert any document type for free with a basic account. Upgrade to a Pro subscription for unlimited conversions and access to over 30 PDF tools. Experience the benefits with a 7-day free trial, and you can cancel at any point during the trial."
+    }
+  },
+  "features": {
+    "title": "What Are Features of JPG to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our JPG to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert JPG Images to PDF File in 1 Second",
+      "description": "Upload one or multiple JPG images and get a ready-to-use PDF in just about one second. Our JPG to PDF tool ensures lightning-fast conversion with a seamless, WYSIWYG experience.",
+      "button": "Upload Your Images"
+    },
+    "feature2": {
+      "title": "JPG to PDF Converter Supports Multiple Image Formats",
+      "description": "JPG to PDF converter fully supports common image formats such as Webp, JPG, PNG, BMP, TIFF, SVG, HEIC/HEIF, etc., meeting the needs of multi-scene conversion and making operation easier.",
+      "button": "Upload Your Image >>"
+    },
+    "feature3": {
+      "title": "Create Printable PDF with JPG-to-PDF Tool",
+      "description": "After you have created multiple images, you can directly use our JPG to PDF converter to make a PDF document. This is simple and convenient, without having to find a separate PDF converter. Seamless connection, improve 10x efficiency.",
+      "button": "Making A PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About JPG to PDF Converter",
+    "subtitle": "Many users have highly praised our JPG to PDF tool after using it.",
+    "testimonial1": {
+      "content": "I uploaded over a dozen JPG images and the conversion was done in less than two seconds—super fast! The PDF layout was clean and the image quality remained intact. Really great user experience.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "I tested JPG images in different formats, and everything converted smoothly. No registration required, no ads, and the interface is clean—perfect for everyday office use.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "I often collect JPG images for my kid, and this tool lets me turn them into printable PDFs in one click. Super convenient for making children's coloring books.",
+      "role": "Parent"
+    }
+  }
+}
+

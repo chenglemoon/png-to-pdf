@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Upload PNG to PDF",
+    "uploadTitle": "PNG to PDF",
+    "mainTitle": {
+      "line1": "Transform PNG",
+      "line2": "Images into",
+      "line3": "PDF",
+      "line4": "Documents"
+    },
+    "dragText": "Drag and drop PNG images here",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "PNG Format",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from PNGs...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} PNG file(s) to PDF"
+  },
+  "errors": {
+    "notPng": "Please select PNG format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  }
+}
+

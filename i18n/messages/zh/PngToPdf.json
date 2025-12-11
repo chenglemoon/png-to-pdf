@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "上传PNG到PDF",
+    "uploadTitle": "PNG转PDF",
+    "mainTitle": {
+      "line1": "将PNG",
+      "line2": "图片转换为",
+      "line3": "PDF",
+      "line4": "文档"
+    },
+    "dragText": "在此拖放PNG图片",
+    "selectText": "或点击选择文件（支持多个文件）",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "PDF或图片",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "PNG格式",
+    "maxSize": "最大50MB"
+  },
+  "fileList": {
+    "title": "已选择{count}个文件",
+    "clearAll": "清除全部",
+    "addMore": "添加更多文件"
+  },
+  "pdfQuality": {
+    "label": "PDF质量",
+    "placeholder": "选择质量",
+    "low": "低质量（文件大小较小）",
+    "medium": "中等质量（平衡）",
+    "high": "高质量（文件大小较大）",
+    "description": "控制嵌入PDF时的图像压缩"
+  },
+  "convertButton": "转换为PDF",
+  "processing": {
+    "title": "正在从PNG创建PDF...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "filesAdded": "已添加{count}个文件",
+    "convertSuccess": "成功将{count}个PNG文件转换为PDF"
+  },
+  "errors": {
+    "notPng": "请选择PNG格式的图片文件",
+    "unsupportedFormat": "不支持的图片格式。请选择JPG、PNG、WebP、BMP、TIFF、SVG或HEIC/HEIF文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFiles": "请至少选择一个图片文件",
+    "processFileFailed": "处理文件{fileName}失败",
+    "convertFailed": "转换失败。请确保所有文件都是有效的图片文件"
+  },
+  "preview": {
+    "title": "图片预览（{current} / 50）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加图片",
+    "addMore": "添加更多",
+    "downloadPdf": "下载PDF"
+  },
+  "pageSize": {
+    "label": "页面大小",
+    "placeholder": "选择页面大小",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "适应图片"
+  },
+  "orientation": {
+    "label": "方向",
+    "placeholder": "选择方向",
+    "portrait": "纵向",
+    "landscape": "横向"
+  }
+}
+

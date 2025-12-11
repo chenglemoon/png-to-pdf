@@ -1,0 +1,198 @@
+{
+  "hero": {
+    "title": "Voltea imágenes para crear la toma perfecta",
+    "description": "Transforma tu foto de una simple instantánea a una obra de arte con la herramienta gratuita para voltear imágenes de Canva. Utiliza el volteo horizontal o el volteo vertical y descarga tu imagen o compártela en línea. ¡Así de sencillo!",
+    "uploadTitle": "Subir Imagen",
+    "dragText": "Arrastra y suelta una imagen aquí",
+    "selectText": "o suéltala aquí",
+    "formats": "Soporta formatos JPG, PNG, WebP",
+    "maxSize": "Tamaño máximo de archivo: 50MB",
+    "processing": "Procesando...",
+    "defaultImageHint": "Usando imagen de muestra. Sube tu propia imagen para procesamiento personalizado.",
+    "features": {
+      "instant": "Procesamiento Instantáneo",
+      "secure": "100% Seguro",
+      "mobile": "Compatible con Móviles",
+      "quality": "Alta Calidad"
+    },
+    "tryBelow": "Pruébalo tú mismo abajo",
+    "tryNow": "Pruébalo Ahora - Sube Tu Imagen",
+    "startFlipping": "Comienza a voltear tus imágenes instantáneamente. No se requiere registro."
+  },
+  "options": {
+    "title": "Opciones de Volteo",
+    "flipOptions": "Opciones de Volteo",
+    "horizontalFlip": "Volteo Horizontal",
+    "verticalFlip": "Volteo Vertical",
+    "rotation": "Rotación",
+    "rotation0": "0° (Sin rotación)",
+    "rotation90": "90° (Sentido horario)",
+    "rotation180": "180° (Media vuelta)",
+    "rotation270": "270° (Sentido antihorario)",
+    "advancedSettings": "Configuraciones Avanzadas",
+    "outputFormat": "Formato de Salida",
+    "quality": "Calidad",
+    "flipButton": "Voltear Imagen",
+    "resetButton": "Restablecer al Original",
+    "downloadButton": "Descargar Imagen",
+    "selectTransform": "Selecciona al menos una transformación para continuar"
+  },
+  "preview": {
+    "title": "Vista Previa de Imagen",
+    "resultTitle": "Resultado del Volteo"
+  },
+  "errors": {
+    "unsupportedFormat": "Solo se soportan formatos JPG, PNG y WebP",
+    "fileTooLarge": "El tamaño del archivo debe ser menor a 50MB",
+    "loadFailed": "Error al cargar la imagen",
+    "processFailed": "Error al procesar la imagen"
+  },
+  "messages": {
+    "flipSuccess": "¡Imagen volteada exitosamente!",
+    "imageDownloaded": "¡Imagen descargada exitosamente!",
+    "realTimePreview": "Los cambios se aplican en tiempo real"
+  },
+  "howToUse": {
+    "title": "Cómo girar una imagen",
+    "step1": {
+      "title": "Subir una imagen",
+      "description": "Pulsa el botón Sube tu imagen o arrastra y suelta tus archivos hasta la sección correspondiente."
+    },
+    "step2": {
+      "title": "Girar imagen",
+      "description": "Usa la herramienta Girar para girar tu imagen horizontal o verticalmente y mejorarla con nuestro editor de fotos."
+    },
+    "step3": {
+      "title": "Descarga el diseño",
+      "description": "Por último, descarga tu diseño en alta resolución en JPG, PNG u otros formatos, o compártelo online en un momento."
+    },
+    "optionsTitle": "Opciones de Transformación Explicadas",
+    "horizontal": {
+      "title": "Espejo Horizontal",
+      "description": "Refleja imágenes de izquierda a derecha cuando volteas imagen, creando un efecto de reflexión perfecto como mirar en un espejo"
+    },
+    "vertical": {
+      "title": "Espejo Vertical",
+      "description": "Refleja imágenes de arriba hacia abajo, volteándolas boca abajo para efectos creativos"
+    },
+    "rotate": {
+      "title": "Rotación de Imagen",
+      "description": "Rota imágenes en incrementos de 90°: 90°, 180°, o 270° combinado con operaciones de volteo de imagen"
+    },
+    "tips": {
+      "title": "Consejos Profesionales",
+      "tip1": "Combina múltiples transformaciones para efectos creativos únicos",
+      "tip2": "Usa configuraciones de alta calidad para impresiones profesionales",
+      "tip3": "Todo el procesamiento ocurre localmente en tu navegador para completa privacidad"
+    }
+  },
+  "examples": {
+    "badge": "Ejemplos",
+    "title": "Ejemplos de Volteo de Imagen",
+    "subtitle": "Vea qué fácil es voltear, reflejar y rotar sus imágenes con nuestra herramienta online gratuita. ¡Pruébelo usted mismo a continuación!",
+    "before": "ANTES",
+    "after": "DESPUÉS",
+    "items": {
+      "horizontal": {
+        "title": "Voltear Imagen Horizontalmente",
+        "description": "Cree efectos de espejo perfectos volteando imágenes de izquierda a derecha, ideal para composiciones artísticas."
+      },
+      "vertical": {
+        "title": "Voltear Imagen Verticalmente",
+        "description": "Voltee imágenes boca abajo para efectos creativos o para corregir fotos invertidas."
+      },
+      "rotate": {
+        "title": "Voltear y Rotar Imagen",
+        "description": "Rote imágenes en incrementos de 90° para corregir la orientación o crear composiciones dinámicas."
+      },
+      "mirror": {
+        "title": "Reflejar Imagen",
+        "description": "Cree efectos de espejo perfectos con opciones de volteo horizontal y vertical."
+      }
+    }
+  },
+  "features": {
+    "title": "Características de Volteo de Imagen",
+    "coreFeature": "Característica Principal",
+    "horizontal": {
+      "title": "Volteo Horizontal",
+      "description": "Crea efectos de espejo perfectos cuando volteas imagen horizontalmente de izquierda a derecha. Ideal para composiciones artísticas y corrección de orientaciones de selfies con resultados profesionales."
+    },
+    "vertical": {
+      "title": "Volteo Vertical",
+      "description": "Voltea imagen boca abajo para efectos creativos o para corregir fotos invertidas. Perfecto para efectos de reflexión y perspectivas únicas usando nuestra tecnología avanzada."
+    },
+    "rotate": {
+      "title": "Rotación de Imagen",
+      "description": "Rota y voltea imagen en incrementos de 90° para corregir problemas de orientación o crear composiciones dinámicas. Soporta rotaciones de 90°, 180° y 270° combinadas con operaciones de espejo."
+    },
+    "instant": {
+      "title": "Procesamiento Instantáneo",
+      "description": "Obtén tus resultados de volteo de imagen inmediatamente con nuestro motor de procesamiento rápido. Sin esperas, sin retrasos al transformar imágenes online."
+    },
+    "fast": {
+      "title": "Súper Rápido",
+      "description": "Procesa imágenes en menos de un segundo con nuestros algoritmos optimizados. Experimenta la velocidad de la tecnología web moderna."
+    },
+    "secure": {
+      "title": "100% Seguro",
+      "description": "Todo el procesamiento ocurre en tu navegador. Tus imágenes nunca salen de tu dispositivo, asegurando completa privacidad al editar online."
+    },
+    "responsive": {
+      "title": "Compatible con Móviles",
+      "description": "Funciona perfectamente en todos los dispositivos - escritorio, tablet y móvil. Voltea imágenes en cualquier lugar, en cualquier momento."
+    },
+    "quality": {
+      "title": "Alta Calidad",
+      "description": "Mantén la calidad de imagen con procesamiento sin pérdidas. Soporte para imágenes de alta resolución y formatos profesionales."
+    },
+    "formats": {
+      "title": "Múltiples Formatos",
+      "description": "Soporte para formatos JPG, PNG y WebP con configuraciones de calidad personalizables para tamaño de archivo óptimo."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Encuentra respuestas a preguntas comunes sobre nuestra herramienta de transformación de imágenes",
+    "q1": {
+      "question": "¿Cómo puedo hacer que una imagen se gire en el iPhone?",
+      "answer": "Entra en la App Store y descarga nuestra aplicación para iOS para voltear las imágenes desde tu móvil. Sube tu imagen y selecciónala. En la barra de herramientas, haz clic en Girar (el icono de flecha que gira). Puedes elegir entre Girar horizontalmente o Girar verticalmente. Una vez hecho, toca fuera del diseño para ocultar la barra de herramientas y guardar tu imagen girada. Como verás, no hace falta tener complejos programas de diseño ni grandes conocimientos para voltear imágenes."
+    },
+    "q2": {
+      "question": "¿Cómo reflejar o voltear una imagen en Android?",
+      "answer": "Ve a Google Play y descarga nuestra app Android para voltear las imágenes de tu teléfono. Sube tu imagen luego tócala; debería aparecer un borde blanco alrededor de la imagen para indicar que ha sido seleccionada. En la barra de herramientas inferior, haz clic en Voltear luego elige entre Voltear horizontal o Voltear vertical. Con nuestra herramienta gratuita de volteo de imagen, tienes todo lo que necesitas en una interfaz simple e intuitiva."
+    },
+    "q3": {
+      "question": "¿Cuándo tengo que voltear una imagen?",
+      "answer": "Voltear una imagen puede ser una buena manera de conseguir que una foto tenga el aspecto que deseas. Una imagen invertida puede tener una simetría añadida o una orientación mejorada, lo que la hace más atractiva que la original. Además, nuestros ojos suelen ir de izquierda a derecha cuando miramos una foto. Al girar una imagen se puede ajustar la dirección y crear una perspectiva más natural."
+    },
+    "q4": {
+      "question": "¿Qué formatos de imagen son soportados?",
+      "answer": "Nuestra herramienta soporta formatos JPG, PNG y WebP. Estos son los formatos de imagen más comunes usados en la web y proporcionan excelente calidad. Todos los formatos mantienen calidad perfecta durante el procesamiento."
+    },
+    "q5": {
+      "question": "¿Hay un límite de tamaño de archivo?",
+      "answer": "Sí, el tamaño máximo de archivo es 50MB por imagen. Este límite asegura procesamiento rápido mientras acomoda la mayoría de fotos de alta resolución. Para archivos más grandes, considera comprimir tu imagen primero."
+    },
+    "q6": {
+      "question": "¿Son seguros y privados mis datos de imagen?",
+      "answer": "¡Absolutamente! Todo el procesamiento de imagen ocurre directamente en tu navegador usando tecnologías web avanzadas. Tus imágenes nunca salen de tu dispositivo, asegurando completa privacidad y seguridad. No almacenamos ni tenemos acceso a ninguna de tus imágenes."
+    },
+    "q7": {
+      "question": "¿Es gratis usar este volteador de imágenes?",
+      "answer": "¡Sí! Nuestro volteador de imágenes es completamente gratis de usar sin tarifas ocultas o suscripción requerida. Puedes voltear, rotar y descargar imágenes ilimitadas sin marcas de agua o restricciones."
+    },
+    "q8": {
+      "question": "¿Puedo usar esto como herramienta de espejo de imagen?",
+      "answer": "¡Absolutamente! Nuestra herramienta funciona perfectamente como volteador de espejo de imagen. Simplemente sube tu imagen y usa la opción de volteo horizontal para crear un efecto de espejo perfecto de tu foto."
+    },
+    "q9": {
+      "question": "¿Cómo volteo una imagen 90 grados?",
+      "answer": "Para voltear una imagen 90 grados, sube tu foto y selecciona la opción de rotación de 90° desde nuestros controles de rotación. Puedes rotar en sentido horario o antihorario para lograr la orientación perfecta."
+    },
+    "q10": {
+      "question": "¿Cómo voltear una imagen en computadora?",
+      "answer": "Nuestro volteador de imágenes basado en web funciona directamente en tu navegador - ¡no se necesita instalación de software! Solo visita nuestro sitio web, sube tu imagen, aplica el volteo o rotación que quieras, y descarga el resultado. Funciona en cualquier computadora con un navegador web."
+    }
+  }
+}

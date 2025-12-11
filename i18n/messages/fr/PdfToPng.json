@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Convertisseur gratuit de PDF en PNG en ligne",
+    "description": "Convertissez des fichiers PDF en fichiers PNG et partagez-les sur n'importe quelle plateforme à l'aide du convertisseur PDF-PNG gratuit de Smallpdf.",
+    "keywords": "pdf vers png, convertir pdf vers png, pdf vers image, pdf vers jpeg, pdf vers jpg, extraire images de pdf, convertisseur pdf, pdf vers png en ligne, convertisseur gratuit pdf vers png"
+  },
+  "hero": {
+    "title": "Convertisseur gratuit de PDF en PNG",
+    "uploadTitle": "PDF en PNG",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "pages PDF",
+      "line3": "en PNG",
+      "line4": ""
+    },
+    "description": "Transformez vos documents PDF en un contenu riche que vous pouvez facilement partager sur des plateformes en ligne et auquel vous pouvez accéder sur n'importe quel appareil en les convertissant en images PNG à l'aide du convertisseur gratuit de PDF en PNG en ligne de Smallpdf.",
+    "dragText": "Glissez-déposez le fichier PDF ici",
+    "selectText": "ou cliquez pour sélectionner un fichier",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "Fichiers PDF",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "Formato PDF",
+    "maxSize": "Max 50MB"
+  },
+  "preview": {
+    "title": "Aperçu des pages PDF ({current} / {total})",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter un fichier PDF",
+    "addMore": "Ajouter plus",
+    "downloadAll": "TÉLÉCHARGER TOUT EN ZIP",
+    "downloadSingle": "TÉLÉCHARGER",
+    "page": "Page"
+  },
+  "upload": "Télécharger",
+  "imageQuality": {
+    "label": "Qualité d'image",
+    "placeholder": "Sélectionner la qualité",
+    "low": "Basse (Taille de fichier plus petite)",
+    "medium": "Moyenne (Équilibrée)",
+    "high": "Haute (Taille de fichier plus grande)"
+  },
+  "convertButton": "Convertir en PNG",
+  "processing": {
+    "title": "Conversion PDF vers PNG...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "fileAdded": "Fichier PDF ajouté avec succès",
+    "convertSuccess": "{count} page(s) convertie(s) avec succès en PNG"
+  },
+  "errors": {
+    "notPdf": "Veuillez sélectionner un fichier PDF",
+    "unsupportedFormat": "Format de fichier non pris en charge. Veuillez sélectionner un fichier PDF.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFile": "Veuillez sélectionner un fichier PDF",
+    "processFileFailed": "Échec du traitement du fichier PDF",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que le fichier PDF est valide",
+    "readFileFailed": "Échec de la lecture du fichier PDF",
+    "createZipFailed": "Échec de la création du fichier ZIP"
+  },
+  "features": {
+    "title": "Quelles sont les fonctionnalités du convertisseur PDF vers PNG?",
+    "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur PDF vers PNG en raison de ses fonctionnalités exceptionnelles.",
+    "feature1": {
+      "title": "Convertir PDF en PNG en quelques secondes",
+      "description": "Téléchargez votre fichier PDF et extrayez toutes les pages comme images PNG de haute qualité en quelques secondes. Notre outil PDF vers PNG assure une conversion rapide avec une excellente préservation de la qualité d'image.",
+      "button": "Commencer la conversion"
+    },
+    "feature2": {
+      "title": "Sortie d'image de haute qualité",
+      "description": "Obtenez des images PNG nettes et claires de vos pages PDF. Le format PNG fournit une compression sans perte, parfait pour préserver la qualité d'image et la transparence.",
+      "button": "Essayer le convertisseur >>"
+    },
+    "feature3": {
+      "title": "Téléchargement par lots de toutes les pages",
+      "description": "Téléchargez toutes les pages PDF comme images PNG individuelles, ou obtenez-les toutes dans un fichier ZIP pratique. Parfait pour extraire des images de documents, présentations ou rapports.",
+      "button": "Convertir maintenant"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages d'utilisateurs sur le convertisseur PDF vers PNG",
+    "subtitle": "De nombreux utilisateurs ont beaucoup loué notre outil PDF vers PNG après l'avoir utilisé.",
+    "testimonial1": {
+      "content": "J'avais besoin d'extraire des images d'un PDF de 50 pages pour une présentation. Cet outil a converti toutes les pages en PNG en moins d'une minute. La qualité de l'image était excellente et le téléchargement ZIP l'a rendu super pratique.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Parfait pour extraire des pages de documents PDF. Le format PNG préserve la transparence, ce qui est crucial pour mon travail de design. Aucune inscription requise, fonctionne très bien!",
+      "role": "Étudiant"
+    },
+    "testimonial3": {
+      "content": "J'utilise régulièrement cela pour convertir des pages PDF en images pour des publications sur les réseaux sociaux. Rapide, fiable et les images PNG ont toujours l'air géniales avec une qualité parfaite. Très recommandé!",
+      "role": "Créateur de contenu"
+    }
+  },
+  "howToUse": {
+    "label": "Comment utiliser",
+    "title": "Comment convertir PDF en PNG",
+    "subtitle": "Suivez ces étapes simples pour convertir vos pages PDF en images PNG",
+    "step": "Étape",
+    "step1": {
+      "title": "Téléchargez votre fichier PDF",
+      "description": "Glissez-déposez votre fichier PDF dans la zone de téléchargement ou cliquez pour sélectionner un fichier. Notre outil prend en charge les fichiers PDF jusqu'à 50MB."
+    },
+    "step2": {
+      "title": "Sélectionnez la qualité d'image",
+      "description": "Choisissez votre paramètre de qualité d'image préféré: Basse pour des tailles de fichier plus petites, Moyenne pour une qualité équilibrée, ou Haute pour une clarté maximale."
+    },
+    "step3": {
+      "title": "Aperçu et téléchargement",
+      "description": "Visualisez toutes les pages converties dans la zone d'aperçu. Téléchargez des images PNG individuelles ou obtenez toutes les pages à la fois dans un fichier ZIP pratique."
+    }
+  },
+  "faq": {
+    "title": "FAQ PDF vers PNG",
+    "q1": {
+      "question": "Comment convertir PDF en PNG?",
+      "answer": "Les fichiers PNG sont pris en charge universellement, ils sont donc idéaux pour la visualisation, le partage et le téléchargement faciles de fichiers. Convertissez PDF en PNG en utilisant notre convertisseur gratuit PDF vers PNG en ligne. Vous pouvez facilement améliorer ou ajouter des embellissements à votre conception, puis télécharger votre travail comme un fichier PNG."
+    },
+    "q2": {
+      "question": "Puis-je convertir PDF en PNG?",
+      "answer": "Absolument! Téléchargez simplement votre fichier PDF dans notre convertisseur gratuit PDF vers PNG et regardez la magie opérer. Vous pouvez même rendre vos images plus attrayantes en utilisant notre éditeur intégré pour améliorer vos images et ajouter des éléments de conception accrocheurs à votre travail."
+    },
+    "q3": {
+      "question": "En quoi PNG diffère-t-il de PDF?",
+      "answer": "Par rapport à un fichier PDF, les images PNG sont conçues pour être partagées sur des plateformes numériques car elles peuvent préserver la qualité d'un fichier même avec leur taille de fichier considérablement plus petite. Les images PNG prennent également en charge la transparence, vous pouvez donc incorporer des éléments de conception ou superposer votre image sur d'autres ressources que vous partagerez."
+    }
+  }
+}
+

@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Convertisseur gratuit de PDF en WebP en ligne",
+    "description": "Convertissez des fichiers PDF en fichiers WebP et partagez-les sur n'importe quelle plateforme à l'aide du convertisseur PDF-WebP gratuit.",
+    "keywords": "pdf vers webp, convertir pdf vers webp, pdf vers image, pdf vers jpeg, pdf vers jpg, pdf vers png, extraire images de pdf, convertisseur pdf, pdf vers webp en ligne, convertisseur gratuit pdf vers webp"
+  },
+  "hero": {
+    "title": "Convertisseur gratuit de PDF en WebP",
+    "uploadTitle": "PDF vers WebP",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "pages PDF",
+      "line3": "en WebP",
+      "line4": ""
+    },
+    "description": "Transformez vos documents PDF en un contenu riche que vous pouvez facilement partager sur des plateformes en ligne et auquel vous pouvez accéder sur n'importe quel appareil en les convertissant en images WebP à l'aide du convertisseur gratuit de PDF en WebP en ligne.",
+    "dragText": "Glissez-déposez le fichier PDF ici",
+    "selectText": "ou cliquez pour sélectionner un fichier",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "Fichiers PDF",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "Formato PDF",
+    "maxSize": "Max 50MB"
+  },
+  "preview": {
+    "title": "Aperçu des pages PDF ({current} / {total})",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter un fichier PDF",
+    "addMore": "Ajouter plus",
+    "downloadAll": "TÉLÉCHARGER TOUT EN ZIP",
+    "downloadSingle": "TÉLÉCHARGER",
+    "page": "Page"
+  },
+  "upload": "Télécharger",
+  "imageQuality": {
+    "label": "Qualité d'image",
+    "placeholder": "Sélectionner la qualité",
+    "low": "Basse (Taille de fichier plus petite)",
+    "medium": "Moyenne (Équilibrée)",
+    "high": "Haute (Taille de fichier plus grande)"
+  },
+  "convertButton": "Convertir en WebP",
+  "processing": {
+    "title": "Conversion PDF vers WebP...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "fileAdded": "Fichier PDF ajouté avec succès",
+    "convertSuccess": "{count} page(s) convertie(s) avec succès en WebP"
+  },
+  "errors": {
+    "notPdf": "Veuillez sélectionner un fichier PDF",
+    "unsupportedFormat": "Format de fichier non pris en charge. Veuillez sélectionner un fichier PDF.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFile": "Veuillez sélectionner un fichier PDF",
+    "processFileFailed": "Échec du traitement du fichier PDF",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que le fichier PDF est valide",
+    "readFileFailed": "Échec de la lecture du fichier PDF",
+    "createZipFailed": "Échec de la création du fichier ZIP"
+  },
+  "features": {
+    "title": "Quelles sont les fonctionnalités du convertisseur PDF vers WebP?",
+    "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur PDF vers WebP en raison de ses fonctionnalités exceptionnelles.",
+    "feature1": {
+      "title": "Convertir PDF en WebP en quelques secondes",
+      "description": "Téléchargez votre fichier PDF et extrayez toutes les pages comme images WebP de haute qualité en quelques secondes. Notre outil PDF vers WebP assure une conversion rapide avec une excellente préservation de la qualité d'image.",
+      "button": "Commencer la conversion"
+    },
+    "feature2": {
+      "title": "Sortie d'image de haute qualité",
+      "description": "Obtenez des images WebP nettes et claires de vos pages PDF. Le format WebP fournit une compression supérieure avec une excellente qualité, parfait pour préserver la qualité d'image tout en maintenant des tailles de fichier plus petites.",
+      "button": "Essayer le convertisseur >>"
+    },
+    "feature3": {
+      "title": "Téléchargement par lots de toutes les pages",
+      "description": "Téléchargez toutes les pages PDF comme images WebP individuelles, ou obtenez-les toutes dans un fichier ZIP pratique. Parfait pour extraire des images de documents, présentations ou rapports.",
+      "button": "Convertir maintenant"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages d'utilisateurs sur le convertisseur PDF vers WebP",
+    "subtitle": "De nombreux utilisateurs ont beaucoup loué notre outil PDF vers WebP après l'avoir utilisé.",
+    "testimonial1": {
+      "content": "J'avais besoin d'extraire des images d'un PDF de 50 pages pour une présentation. Cet outil a converti toutes les pages en WebP en moins d'une minute. La qualité de l'image était excellente et les tailles de fichier étaient beaucoup plus petites que PNG. Très recommandé!",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Parfait pour extraire des pages de documents PDF. Le format WebP me donne le meilleur équilibre entre qualité et taille de fichier. Aucune inscription requise, fonctionne très bien!",
+      "role": "Étudiant"
+    },
+    "testimonial3": {
+      "content": "J'utilise régulièrement cela pour convertir des pages PDF en images pour des projets web. Le format WebP est parfait pour les sites web modernes - chargement rapide et excellente qualité. Le téléchargement ZIP l'a rendu super pratique.",
+      "role": "Développeur Web"
+    }
+  },
+  "howToUse": {
+    "label": "Comment utiliser",
+    "title": "Comment convertir PDF en WebP",
+    "subtitle": "Suivez ces étapes simples pour convertir vos pages PDF en images WebP",
+    "step": "Étape",
+    "step1": {
+      "title": "Téléchargez votre fichier PDF",
+      "description": "Glissez-déposez votre fichier PDF dans la zone de téléchargement ou cliquez pour sélectionner un fichier. Notre outil prend en charge les fichiers PDF jusqu'à 50MB."
+    },
+    "step2": {
+      "title": "Sélectionnez la qualité d'image",
+      "description": "Choisissez votre paramètre de qualité d'image préféré: Basse pour des tailles de fichier plus petites, Moyenne pour une qualité équilibrée, ou Haute pour une clarté maximale."
+    },
+    "step3": {
+      "title": "Aperçu et téléchargement",
+      "description": "Visualisez toutes les pages converties dans la zone d'aperçu. Téléchargez des images WebP individuelles ou obtenez toutes les pages à la fois dans un fichier ZIP pratique."
+    }
+  },
+  "faq": {
+    "title": "FAQ PDF vers WebP",
+    "q1": {
+      "question": "Comment convertir PDF en WebP?",
+      "answer": "Les fichiers WebP sont pris en charge universellement, ils sont donc idéaux pour la visualisation, le partage et le téléchargement faciles de fichiers. Convertissez PDF en WebP en utilisant notre convertisseur gratuit PDF vers WebP en ligne. Vous pouvez facilement améliorer ou ajouter des embellissements à votre conception, puis télécharger votre travail comme un fichier WebP."
+    },
+    "q2": {
+      "question": "Puis-je convertir PDF en WebP?",
+      "answer": "Absolument! Téléchargez simplement votre fichier PDF dans notre convertisseur gratuit PDF vers WebP et regardez la magie opérer. Vous pouvez même rendre vos images plus attrayantes en utilisant notre éditeur intégré pour améliorer vos images et ajouter des éléments de conception accrocheurs à votre travail."
+    },
+    "q3": {
+      "question": "En quoi WebP diffère-t-il de PDF?",
+      "answer": "Par rapport à un fichier PDF, les images WebP sont conçues pour être partagées sur des plateformes numériques car elles peuvent préserver la qualité d'un fichier même avec leur taille de fichier considérablement plus petite. Les images WebP prennent également en charge la transparence et fournissent une compression supérieure, ce qui les rend parfaites pour l'utilisation web et les applications modernes."
+    }
+  }
+}
+

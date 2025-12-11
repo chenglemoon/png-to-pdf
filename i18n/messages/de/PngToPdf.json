@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "PNG zu PDF hochladen",
+    "uploadTitle": "PNG zu PDF",
+    "mainTitle": {
+      "line1": "PNG-Bilder",
+      "line2": "in PDF-",
+      "line3": "Dokumente",
+      "line4": "umwandeln"
+    },
+    "dragText": "PNG-Bilder hier ablegen",
+    "selectText": "oder klicken, um Dateien auszuwählen (mehrere Dateien unterstützt)",
+    "clickToSelect": "Klicken Sie, um eine Datei auszuwählen oder ziehen Sie sie hierher",
+    "fileTypes": "PDFs oder Bilder",
+    "privacy": "Ihre Dateien verlassen niemals Ihr Gerät.",
+    "format": "PNG-Format",
+    "maxSize": "Max. 50MB"
+  },
+  "fileList": {
+    "title": "{count} Datei(en) ausgewählt",
+    "clearAll": "Alle löschen",
+    "addMore": "Weitere Dateien hinzufügen"
+  },
+  "pdfQuality": {
+    "label": "PDF-Qualität",
+    "placeholder": "Qualität auswählen",
+    "low": "Niedrige Qualität (Kleinere Dateigröße)",
+    "medium": "Mittlere Qualität (Ausgewogen)",
+    "high": "Hohe Qualität (Größere Dateigröße)",
+    "description": "Steuert die Bildkomprimierung beim Einbetten in PDF"
+  },
+  "convertButton": "In PDF konvertieren",
+  "processing": {
+    "title": "PDF aus PNGs erstellen...",
+    "subtitle": "Bitte warten Sie, dies kann einige Sekunden dauern"
+  },
+  "messages": {
+    "filesAdded": "{count} Datei(en) hinzugefügt",
+    "convertSuccess": "{count} PNG-Datei(en) erfolgreich in PDF konvertiert"
+  },
+  "errors": {
+    "notPng": "Bitte wählen Sie PNG-Format-Bilddateien aus",
+    "unsupportedFormat": "Nicht unterstütztes Bildformat. Bitte wählen Sie JPG-, PNG-, WebP-, BMP-, TIFF-, SVG- oder HEIC/HEIF-Dateien aus.",
+    "fileTooLarge": "Die Dateigröße darf 50MB nicht überschreiten",
+    "noFiles": "Bitte wählen Sie mindestens eine Bilddatei aus",
+    "processFileFailed": "Datei {fileName} konnte nicht verarbeitet werden",
+    "convertFailed": "Konvertierung fehlgeschlagen. Bitte stellen Sie sicher, dass alle Dateien gültige Bilddateien sind"
+  },
+  "preview": {
+    "title": "Bildvorschau ({current} / 50)",
+    "clearAll": "ALLE LÖSCHEN",
+    "uploadPlaceholder": "Klicken oder ziehen, um Bilder hinzuzufügen",
+    "addMore": "Mehr hinzufügen",
+    "downloadPdf": "PDF HERUNTERLADEN"
+  },
+  "pageSize": {
+    "label": "Seitengröße",
+    "placeholder": "Seitengröße auswählen",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "An Bild anpassen"
+  },
+  "orientation": {
+    "label": "Ausrichtung",
+    "placeholder": "Ausrichtung auswählen",
+    "portrait": "Hochformat",
+    "landscape": "Querformat"
+  }
+}
+

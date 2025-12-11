@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Convertitore Immagine in PDF | Converti le tue immagini in PDF online",
+    "description": "Converti immagini JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF in file PDF gratuitamente. Il nostro strumento di conversione Immagine in PDF online crea un PDF da immagini o foto con pochi clic. Nessuna registrazione richiesta.",
+    "keywords": "immagine in pdf, converti immagine in pdf, jpg in pdf, png in pdf, webp in pdf, bmp in pdf, tiff in pdf, svg in pdf, heic in pdf, convertitore immagine in pdf, immagine in pdf online, convertitore gratuito immagine in pdf"
+  },
+  "hero": {
+    "title": "Converti Immagini in PDF",
+    "uploadTitle": "Immagine in PDF",
+    "mainTitle": {
+      "line1": "Trasforma",
+      "line2": "immagini",
+      "line3": "in PDF",
+      "line4": ""
+    },
+    "description": "Converti le tue immagini (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF) in documenti PDF universalmente compatibili senza sforzo e senza costi.",
+    "dragText": "Trascina e rilascia le immagini qui (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "o clicca per selezionare i file (supportati più file)",
+    "clickToSelect": "Clicca per selezionare un file o trascina e rilascia",
+    "fileTypes": "PDF o Immagini",
+    "privacy": "I tuoi file non lasciano mai il tuo dispositivo.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "{count} file selezionato/i",
+    "clearAll": "Cancella tutto",
+    "addMore": "Aggiungi più file"
+  },
+  "preview": {
+    "title": "Anteprima immagini ({current} / 50)",
+    "clearAll": "CANCELLA TUTTO",
+    "uploadPlaceholder": "Clicca o trascina per aggiungere immagini",
+    "addMore": "Aggiungi di più",
+    "downloadPdf": "SCARICA PDF"
+  },
+  "pageSize": {
+    "label": "Dimensione pagina",
+    "placeholder": "Seleziona dimensione pagina",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Adatta all'immagine"
+  },
+  "orientation": {
+    "label": "Orientamento",
+    "placeholder": "Seleziona orientamento",
+    "portrait": "Verticale",
+    "landscape": "Orizzontale"
+  },
+  "pdfQuality": {
+    "label": "Qualità PDF",
+    "placeholder": "Seleziona qualità",
+    "low": "Bassa qualità (Dimensione file più piccola)",
+    "medium": "Qualità media (Bilanciata)",
+    "high": "Alta qualità (Dimensione file più grande)",
+    "description": "Controlla la compressione dell'immagine durante l'incorporamento in PDF"
+  },
+  "convertButton": "Converti in PDF",
+  "processing": {
+    "title": "Creazione PDF da Immagini...",
+    "subtitle": "Attendere, potrebbe richiedere alcuni secondi"
+  },
+  "messages": {
+    "filesAdded": "Aggiunto/i {count} file",
+    "convertSuccess": "Convertito/i con successo {count} file immagine in PDF"
+  },
+  "errors": {
+    "notImage": "Seleziona file immagine",
+    "unsupportedFormat": "Formato immagine non supportato. Seleziona file JPG, PNG, WebP, BMP, TIFF, SVG o HEIC/HEIF.",
+    "fileTooLarge": "La dimensione del file non può superare 50MB",
+    "noFiles": "Seleziona almeno un file immagine",
+    "processFileFailed": "Impossibile elaborare il file {fileName}",
+    "convertFailed": "Conversione fallita. Assicurati che tutti i file siano file immagine validi"
+  },
+  "features": {
+    "title": "Quali sono le caratteristiche del convertitore Immagine in PDF?",
+    "subtitle": "Più di 300k utenti scelgono di utilizzare il nostro convertitore Immagine in PDF per le sue caratteristiche eccezionali.",
+    "feature1": {
+      "title": "Converti Immagini in file PDF in 1 secondo",
+      "description": "Carica una o più immagini e ottieni un PDF pronto all'uso in solo un secondo. Il nostro strumento Immagine in PDF garantisce una conversione ultra-veloce con un'esperienza WYSIWYG perfetta.",
+      "button": "Carica le tue immagini"
+    },
+    "feature2": {
+      "title": "Il convertitore Immagine in PDF supporta più formati di immagine",
+      "description": "Il convertitore Immagine in PDF supporta completamente formati di immagine comuni come Webp, JPG, PNG, BMP, ecc., soddisfacendo le esigenze di conversione multi-scena e facilitando l'operazione.",
+      "button": "Carica la tua immagine >>"
+    },
+    "feature3": {
+      "title": "Crea PDF stampabile con strumento Immagine in PDF",
+      "description": "Dopo aver creato più immagini, puoi utilizzare direttamente il nostro convertitore Immagine in PDF per creare un documento PDF. Questo è semplice e conveniente, senza dover trovare un convertitore PDF separato. Connessione perfetta, migliora l'efficienza 10 volte.",
+      "button": "Crea un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonianze degli utenti sul convertitore Immagine in PDF",
+    "subtitle": "Molti utenti hanno elogiato molto il nostro strumento Immagine in PDF dopo averlo utilizzato.",
+    "testimonial1": {
+      "content": "Ho caricato più di una dozzina di immagini e la conversione è stata completata in meno di due secondi—super veloce! Il layout PDF era pulito e la qualità dell'immagine è rimasta intatta. Davvero un'ottima esperienza utente.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Ho testato immagini in diversi formati, inclusi PNG e TIFF, e tutto si è convertito senza problemi. Nessuna registrazione richiesta, nessuna pubblicità e l'interfaccia è pulita—perfetto per l'uso quotidiano in ufficio.",
+      "role": "Assistente"
+    },
+    "testimonial3": {
+      "content": "Raccolgo spesso disegni a tratto per mio figlio e questo strumento mi permette di trasformarli in PDF stampabili con un clic. Super conveniente per creare libri da colorare per bambini.",
+      "role": "Genitore"
+    }
+  },
+  "faq": {
+    "title": "FAQ Immagine in PDF",
+    "q1": {
+      "question": "Cos'è un convertitore Immagine in PDF?",
+      "answer": "È un convertitore di file online progettato per convertire più immagini in file PDF secondo la dimensione della pagina specificata."
+    },
+    "q2": {
+      "question": "Quali formati di immagine posso convertire?",
+      "answer": "Quasi tutti i formati di immagine sono supportati, inclusi ma non limitati a Webp, JPG e PNG."
+    },
+    "q3": {
+      "question": "Posso personalizzare il layout del PDF?",
+      "answer": "Certamente, puoi regolare la dimensione della pagina, generalmente A4, e puoi anche regolare il layout della pagina."
+    },
+    "q4": {
+      "question": "Posso caricare più immagini contemporaneamente?",
+      "answer": "Certamente, puoi caricare 1 immagine o puoi caricare 10 immagini contemporaneamente. Seleziona semplicemente le foto da caricare in base alle tue esigenze."
+    },
+    "q5": {
+      "question": "Posso provare il tuo convertitore Immagine in PDF gratuitamente?",
+      "answer": "Certamente, offriamo servizi online completamente gratuiti, 100% gratuiti da utilizzare."
+    }
+  }
+}
+

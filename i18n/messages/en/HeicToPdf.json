@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "HEIC to PDF Converter | Convert Your HEIC Images to PDF Online",
+    "description": "Quickly turn HEIC files into high-quality PDFs that you can share anywhere. It’s fast & free to get started. No registration required. Privacy guaranteed.",
+    "keywords": "heic to pdf, heif to pdf, convert heic to pdf, convert heif to pdf, heic to pdf converter, image to pdf, heic images to pdf, online heic to pdf, free heic to pdf converter, heic converter, pdf converter"
+  },
+  "hero": {
+    "title": "Free HEIC to PDF Converter",
+    "uploadTitle": "HEIC to PDF",
+    "mainTitle": {
+      "line1": "Transform HEIC Images",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "Do you take and create images on your Apple devices? Make them easily accessible and shareable with the free HEIC to PDF converter.",
+    "dragText": "Drag and drop images here (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from HEIC images...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} image file(s) to PDF"
+  },
+  "errors": {
+    "notHeic": "Please select HEIC/HEIF format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "features": {
+    "title": "What Are Features of HEIC to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our HEIC to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert HEIC Images to PDF File in 1 Second",
+      "description": "Upload one or multiple HEIC images and get a ready-to-use PDF in just about one second. Our HEIC to PDF tool ensures lightning-fast conversion with a seamless, WYSIWYG experience.",
+      "button": "Upload Your Images"
+    },
+    "feature2": {
+      "title": "HEIC to PDF Converter Supports High Quality",
+      "description": "HEIC to PDF converter fully supports HEIC/HEIF format with high quality preservation, meeting the needs of professional conversion and making operation easier.",
+      "button": "Upload Your Image >>"
+    },
+    "feature3": {
+      "title": "Create Printable PDF with HEIC-to-PDF Tool",
+      "description": "After you have created multiple HEIC images, you can directly use our HEIC to PDF converter to make a PDF document. This is simple and convenient, without having to find a separate PDF converter. Seamless connection, improve 10x efficiency.",
+      "button": "Making A PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About HEIC to PDF Converter",
+    "subtitle": "Many users have highly praised our HEIC to PDF tool after using it.",
+    "testimonial1": {
+      "content": "This HEIC to PDF converter is such a life changing tool! One of the most well thought out websites I've ever seen. I use it to convert my iPhone photos and it never ceases to amaze me! Kudos for all the love and effort you've put into its development!",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Omg I love you guys! Thanks for making it so easy for me to convert my HEIC files. There's so many options and your site is very easy to use and navigate!!!",
+      "role": "Photographer"
+    },
+    "testimonial3": {
+      "content": "I don't know where I was without this HEIC to PDF converter. They have absolutely great conversion quality for any device. Whether it be iPhone photos, iPad images or whatever you want to convert. Let this tool make the conversion process easier for you.",
+      "role": "Developer"
+    }
+  },
+  "faq": {
+    "title": "Convert HEIC to PDF FAQs",
+    "q1": {
+      "question": "How do I view an HEIC file?",
+      "answer": "You can open HEIC files on an Apple device or with third-party programs. You can also convert HEIC files to more accessible formats such as JPG, PNG, or PDF for easy viewing on any device."
+    },
+    "q2": {
+      "question": "What is HEIC, and why convert it to PDF?",
+      "answer": "HEIC stands for \"High Efficiency Image Container,\" an image format developed by Apple to save space while maintaining high quality. HEIC files are not widely compatible or accessible outside of Apple's ecosystem. Converting HEIC to PDF enables both Apple and non-Apple users to access, use, and archive the document."
+    },
+    "q3": {
+      "question": "How do I convert a HEIC to PDF?",
+      "answer": "The conversion process is simple: upload the HEIC file into a design project and download it in the desired PDF format. You can also edit the file before downloading or customize the PDF to make it more professional-looking."
+    },
+    "q4": {
+      "question": "Why convert HEIC to PDF?",
+      "answer": "HEIC files that are converted to PDF become easy to share, open, and download across different devices and operating systems. That is because PDF is an open file format. Converting HEIC images to PDF also compresses their file size, freeing up storage space and saving you the cost of paying for more. And despite their reduced size, PDF files retain the quality and details of the original images after conversion."
+    },
+    "q5": {
+      "question": "How to convert multiple HEIC files to PDF?",
+      "answer": "Our online HEIC to PDF converter lets you convert multiple HEIC files to a single PDF document. Simply drag and drop the HEIC images you want to convert into your design project. Add multiple pages and arrange their layout according to how you want them to appear or based on your selected project template. Edit each image then download your design in PDF Standard or PDF Print format."
+    }
+  }
+}
+

@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Télécharger PNG vers PDF",
+    "uploadTitle": "PNG vers PDF",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "les images PNG",
+      "line3": "en PDF",
+      "line4": ""
+    },
+    "dragText": "Glissez-déposez les images PNG ici",
+    "selectText": "ou cliquez pour sélectionner des fichiers (plusieurs fichiers pris en charge)",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "PDFs ou Images",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "Format PNG",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "{count} fichier(s) sélectionné(s)",
+    "clearAll": "Tout effacer",
+    "addMore": "Ajouter plus de fichiers"
+  },
+  "pdfQuality": {
+    "label": "Qualité PDF",
+    "placeholder": "Sélectionner la qualité",
+    "low": "Basse qualité (Taille de fichier plus petite)",
+    "medium": "Qualité moyenne (Équilibrée)",
+    "high": "Haute qualité (Taille de fichier plus grande)",
+    "description": "Contrôle la compression d'image lors de l'intégration dans PDF"
+  },
+  "convertButton": "Convertir en PDF",
+  "processing": {
+    "title": "Création du PDF à partir des PNG...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "filesAdded": "{count} fichier(s) ajouté(s)",
+    "convertSuccess": "{count} fichier(s) PNG converti(s) avec succès en PDF"
+  },
+  "errors": {
+    "notPng": "Veuillez sélectionner des fichiers d'image au format PNG",
+    "unsupportedFormat": "Format d'image non pris en charge. Veuillez sélectionner des fichiers JPG, PNG, WebP, BMP, TIFF, SVG ou HEIC/HEIF.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFiles": "Veuillez sélectionner au moins un fichier d'image",
+    "processFileFailed": "Échec du traitement du fichier {fileName}",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que tous les fichiers sont des fichiers d'image valides"
+  },
+  "preview": {
+    "title": "Aperçu des images ({current} / 50)",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter des images",
+    "addMore": "Ajouter plus",
+    "downloadPdf": "TÉLÉCHARGER PDF"
+  },
+  "pageSize": {
+    "label": "Taille de page",
+    "placeholder": "Sélectionner la taille de page",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Ajuster à l'image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Sélectionner l'orientation",
+    "portrait": "Portrait",
+    "landscape": "Paysage"
+  }
+}
+

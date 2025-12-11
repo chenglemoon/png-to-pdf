@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "TIFF转PDF转换器 | 在线将TIFF图片转换为PDF",
+    "description": "免费将TIFF图片转换为PDF文件。我们的在线TIFF转PDF转换工具只需点击几下即可从TIFF图片创建PDF。无需注册。",
+    "keywords": "tiff转pdf, tif转pdf, 将tiff转换为pdf, 将tif转换为pdf, tiff转pdf转换器, 图片转pdf, tiff图片转pdf, 在线tiff转pdf, 免费tiff转pdf转换器, tiff转换器, pdf转换器"
+  },
+  "hero": {
+    "title": "将TIFF转换为PDF",
+    "uploadTitle": "TIFF转PDF",
+    "mainTitle": {
+      "line1": "将TIFF",
+      "line2": "图片转换为",
+      "line3": "PDF",
+      "line4": "文档"
+    },
+    "description": "轻松免费地将您的图片（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF）转换为普遍兼容的PDF文档。",
+    "dragText": "在此拖放图片（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF）",
+    "selectText": "或点击选择文件（支持多个文件）",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "PDF或图片",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF",
+    "maxSize": "最大50MB"
+  },
+  "fileList": {
+    "title": "已选择{count}个文件",
+    "clearAll": "清除全部",
+    "addMore": "添加更多文件"
+  },
+  "preview": {
+    "title": "图片预览（{current} / 50）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加图片",
+    "addMore": "添加更多",
+    "downloadPdf": "下载PDF"
+  },
+  "pageSize": {
+    "label": "页面大小",
+    "placeholder": "选择页面大小",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "适应图片"
+  },
+  "orientation": {
+    "label": "方向",
+    "placeholder": "选择方向",
+    "portrait": "纵向",
+    "landscape": "横向"
+  },
+  "pdfQuality": {
+    "label": "PDF质量",
+    "placeholder": "选择质量",
+    "low": "低质量（文件大小较小）",
+    "medium": "中等质量（平衡）",
+    "high": "高质量（文件大小较大）",
+    "description": "控制嵌入PDF时的图像压缩"
+  },
+  "convertButton": "转换为PDF",
+  "processing": {
+    "title": "正在从TIFF图片创建PDF...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "filesAdded": "已添加{count}个文件",
+    "convertSuccess": "成功将{count}个图片文件转换为PDF"
+  },
+  "errors": {
+    "notTiff": "请选择TIFF/TIF格式的图片文件",
+    "unsupportedFormat": "不支持的图片格式。请选择JPG、PNG、WebP、BMP、TIFF、SVG或HEIC/HEIF文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFiles": "请至少选择一个图片文件",
+    "processFileFailed": "处理文件{fileName}失败",
+    "convertFailed": "转换失败。请确保所有文件都是有效的图片文件"
+  },
+  "features": {
+    "title": "TIFF转PDF转换器的功能是什么？",
+    "subtitle": "超过30万用户选择使用我们的TIFF转PDF转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "1秒内将TIFF图片转换为PDF文件",
+      "description": "上传一个或多个TIFF图片，只需约一秒钟即可获得可用的PDF。我们的TIFF转PDF工具确保超快速转换，提供完美的WYSIWYG体验。",
+      "button": "上传您的图片"
+    },
+    "feature2": {
+      "title": "TIFF转PDF转换器支持高质量",
+      "description": "TIFF转PDF转换器完全支持TIFF/TIF格式，保持高质量，满足专业转换需求，使操作更加简单。",
+      "button": "上传您的图片 >>"
+    },
+    "feature3": {
+      "title": "使用TIFF转PDF工具创建可打印的PDF",
+      "description": "创建多个TIFF图片后，您可以直接使用我们的TIFF转PDF转换器制作PDF文档。这简单方便，无需寻找单独的PDF转换器。无缝连接，效率提高10倍。",
+      "button": "制作PDF"
+    }
+  },
+  "testimonials": {
+    "title": "用户对TIFF转PDF转换器的评价",
+    "subtitle": "许多用户在使用我们的TIFF转PDF工具后给予了高度评价。",
+    "testimonial1": {
+      "content": "我上传了十几个TIFF图片，转换在不到两秒内完成—超快！PDF布局干净，图片质量保持完整。真是很棒的用户体验。",
+      "role": "设计师"
+    },
+    "testimonial2": {
+      "content": "我测试了不同大小的TIFF图片，一切都转换顺利。无需注册，无广告，界面干净—非常适合日常办公使用。",
+      "role": "助理"
+    },
+    "testimonial3": {
+      "content": "我经常为我的项目收集TIFF图片，这个工具让我可以一键将它们转换为可打印的PDF。制作专业文档非常方便。",
+      "role": "摄影师"
+    }
+  },
+  "faq": {
+    "title": "TIFF转PDF常见问题",
+    "q1": {
+      "question": "我可以将多个TIFF图片转换为一个PDF吗？",
+      "answer": "可以！我们的工具允许您将多个TIFF图片合并到一个PDF文档中。只需在转换前选择所有要包含的TIFF图片即可。"
+    },
+    "q2": {
+      "question": "将TIFF转换为PDF时我的数据安全吗？",
+      "answer": "您的文件受到高级TLS加密保护。为了您的安全，所有图片在处理后一小时后会自动从我们的服务器中删除。"
+    },
+    "q3": {
+      "question": "PDF标准和PDF打印有什么区别？",
+      "answer": "使用我们的免费TIFF转PDF转换器，您可以在将TIFF图片保存为PDF之前在线编辑它们。您还可以选择将图片转换为哪种PDF格式。为数字目的下载您的设计为PDF标准，特别是用于移动使用和云存储，因为它们不会占用太多空间。PDF打印非常适合打印，因为它比PDF标准具有更高的分辨率，并允许您添加裁剪标记和出血，以获得专业外观的打印。"
+    },
+    "q4": {
+      "question": "为什么将TIFF转换为PDF？",
+      "answer": "转换为PDF的TIFF文件变得易于在不同设备和操作系统之间共享、打开和下载。这是因为PDF是一种开放的文件格式。将TIFF图片转换为PDF还会压缩它们的文件大小，释放存储空间并节省您支付更多费用的成本。尽管文件大小减小，PDF文件在转换后仍保持原始图片的质量和细节。"
+    },
+    "q5": {
+      "question": "如何将多个TIFF文件转换为PDF？",
+      "answer": "我们的在线TIFF转PDF转换器允许您将多个TIFF文件转换为单个PDF文档。只需将您要转换的TIFF图片拖放到您的设计项目中。添加多个页面并根据您希望它们出现的方式或基于您选择的项目模板排列它们的布局。编辑每个图片，然后以PDF标准或PDF打印格式下载您的设计。"
+    }
+  }
+}
+

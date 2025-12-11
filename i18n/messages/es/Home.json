@@ -1,0 +1,161 @@
+{
+  "title": "PNG a PDF – Convertir imágenes PNG a documentos PDF",
+  "description": "Convierta una o más imágenes PNG en un solo archivo PDF. Gratis, rápido y seguro: todo el procesamiento se realiza en su navegador.",
+  "tagLine": "Convertidor profesional de PNG a PDF",
+  "pageData": {
+    "description": "Convierta una o más imágenes PNG en un solo archivo PDF. Gratis, rápido y seguro: todo el procesamiento se realiza en su navegador."
+  },
+  "howToUse": {
+    "label": "Cómo usar",
+    "title": "¿Cómo convertir múltiples imágenes a PDF en línea?",
+    "subtitle": "El proceso de convertir imágenes a PDF es muy simple y se puede completar con solo unos pocos clics.",
+    "step1": {
+      "label": "1.Subir imágenes",
+      "title": "1.Subir imágenes",
+      "description": "Suba una o más imágenes PNG a nuestro convertidor de PNG a PDF."
+    },
+    "step2": {
+      "label": "2.Convertir a PDF",
+      "title": "2.Convertir a PDF",
+      "description": "Haga clic en el botón 'Convertir a PDF' para iniciar el proceso de conversión."
+    },
+    "step3": {
+      "label": "3.Descargar archivos PDF",
+      "title": "3.Descargar archivos PDF",
+      "description": "Una vez completado, el archivo PDF se descargará automáticamente."
+    }
+  },
+  "features": {
+    "title": "¿Cuáles son las características del convertidor de PNG a PDF?",
+    "subtitle": "Más de 300k usuarios eligen usar nuestro convertidor de imagen a PDF debido a sus características sobresalientes.",
+    "feature1": {
+      "title": "Convertir imágenes a archivo PDF en 1 segundo",
+      "description": "Suba una o múltiples imágenes y obtenga un PDF listo para usar en solo un segundo. Nuestra herramienta de imagen a PDF garantiza una conversión ultrarrápida con una experiencia WYSIWYG perfecta.",
+      "button": "Subir sus imágenes"
+    },
+    "feature2": {
+      "title": "El convertidor de imagen a PDF admite múltiples formatos de imagen",
+      "description": "El convertidor de imagen a PDF admite completamente formatos de imagen comunes como Webp, JPG, PNG, BMP, etc., satisfaciendo las necesidades de conversión multi-escena y facilitando la operación.",
+      "button": "Subir su imagen >>"
+    },
+    "feature3": {
+      "title": "Crear PDF imprimible con herramienta de imagen a PDF",
+      "description": "Después de haber creado múltiples imágenes, puede usar directamente nuestro convertidor de imagen a PDF para hacer un documento PDF. Esto es simple y conveniente, sin tener que buscar un convertidor de PDF separado. Conexión perfecta, mejora la eficiencia 10 veces.",
+      "button": "Crear un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonios de usuarios sobre el convertidor de imagen a PDF",
+    "subtitle": "Muchos usuarios han elogiado mucho nuestra herramienta de imagen a PDF después de usarla.",
+    "testimonial1": {
+      "content": "Subí más de una docena de imágenes y la conversión se completó en menos de dos segundos—¡súper rápido! El diseño del PDF estaba limpio y la calidad de la imagen se mantuvo intacta. Realmente una gran experiencia de usuario.",
+      "role": "Diseñador"
+    },
+    "testimonial2": {
+      "content": "Probé imágenes en diferentes formatos, incluidos PNG y TIFF, y todo se convirtió sin problemas. No se requiere registro, sin anuncios y la interfaz está limpia—perfecto para uso diario en la oficina.",
+      "role": "Asistente"
+    },
+    "testimonial3": {
+      "content": "A menudo recojo dibujos de líneas para mi hijo, y esta herramienta me permite convertirlos en PDFs imprimibles con un clic. Súper conveniente para hacer libros para colorear para niños.",
+      "role": "Padre"
+    }
+  },
+  "faq": {
+    "label": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "subtitle": "¿Tiene una pregunta? Estamos aquí para ayudar. ¿Todavía busca respuestas? Visite nuestro Centro de soporte.",
+    "q1": {
+      "question": "¿Qué es un convertidor de imagen a PDF?",
+      "answer": "Es un convertidor de archivos en línea diseñado para convertir múltiples imágenes en archivos PDF según el tamaño de página especificado."
+    },
+    "q2": {
+      "question": "¿Qué formatos de imagen puedo convertir?",
+      "answer": "Se admiten casi todos los formatos de imagen, incluidos, entre otros, Webp, JPG y PNG."
+    },
+    "q3": {
+      "question": "¿Puedo ajustar el diseño del PDF?",
+      "answer": "Por supuesto, puede ajustar el tamaño de página, generalmente A4, y también puede ajustar el diseño de página."
+    },
+    "q4": {
+      "question": "¿Puedo subir múltiples imágenes a la vez?",
+      "answer": "Por supuesto, puede subir 1 imagen o puede subir 10 imágenes a la vez. Simplemente elija las fotos para subir según sus necesidades."
+    },
+    "q5": {
+      "question": "¿Puedo probar su convertidor de imagen a PDF gratis?",
+      "answer": "Por supuesto, proporcionamos servicios en línea completamente gratis, 100% gratis de usar."
+    }
+  },
+  "getStartedWithTools": {
+    "title": "Comenzar con herramientas",
+    "subtitle": "Haga clic en una herramienta para abrir el cargador de archivos",
+    "searchPlaceholder": "Buscar una herramienta (por ejemplo, 'dividir', 'organizar'...)",
+    "categories": {
+      "convertToPdf": {
+        "name": "Convertir a PDF",
+        "tools": {
+          "imageToPdf": {
+            "name": "Imagen a PDF",
+            "subtitle": "Convierta JPG, PNG, WebP, BMP, TIFF, SVG, HEIC a PDF."
+          },
+          "jpgToPdf": {
+            "name": "JPG a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes JPG."
+          },
+          "pngToPdf": {
+            "name": "PNG a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes PNG."
+          },
+          "webpToPdf": {
+            "name": "WebP a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes WebP."
+          },
+          "svgToPdf": {
+            "name": "SVG a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes SVG."
+          },
+          "bmpToPdf": {
+            "name": "BMP a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes BMP."
+          },
+          "heicToPdf": {
+            "name": "HEIC a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes HEIC."
+          },
+          "tiffToPdf": {
+            "name": "TIFF a PDF",
+            "subtitle": "Cree un PDF a partir de una o más imágenes TIFF."
+          },
+          "textToPdf": {
+            "name": "Texto a PDF",
+            "subtitle": "Convierta un archivo de texto plano en un PDF."
+          }
+        }
+      },
+      "convertFromPdf": {
+        "name": "Convertir desde PDF",
+        "tools": {
+          "pdfToJpg": {
+            "name": "PDF a JPG",
+            "subtitle": "Convierta cada página PDF en una imagen JPG."
+          },
+          "pdfToPng": {
+            "name": "PDF a PNG",
+            "subtitle": "Convierta cada página PDF en una imagen PNG."
+          },
+          "pdfToWebp": {
+            "name": "PDF a WebP",
+            "subtitle": "Convierta cada página PDF en una imagen WebP."
+          },
+          "pdfToBmp": {
+            "name": "PDF a BMP",
+            "subtitle": "Convierta cada página PDF en una imagen BMP."
+          },
+          "pdfToTiff": {
+            "name": "PDF a TIFF",
+            "subtitle": "Convierta cada página PDF en una imagen TIFF."
+          }
+        }
+      }
+    }
+  }
+}

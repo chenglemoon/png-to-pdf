@@ -1,0 +1,434 @@
+{
+  "LanguageDetection": {
+    "title": "语言建议",
+    "description": "我们注意到您的浏览器语言与当前网站语言不同。您可以随时切换语言 👉",
+    "countdown": "{countdown}秒后关闭"
+  },
+  "Header": {
+    "title": "PNG转PDF",
+    "links": [
+      {
+        "href": "/image-to-pdf",
+        "name": "图片转PDF"
+      },
+      {
+        "href": "/merge-jpg",
+        "name": "JPG转PDF"
+      },
+      {
+        "href": "/pdf-to-jpg",
+        "name": "PDF转JPG"
+      },
+      {
+        "href": "/pdf-to-png",
+        "name": "PDF转PNG"
+      }
+    ]
+  },
+  "Footer": {
+    "title": "PNG转PDF",
+    "tagLine": "免费在线PNG转PDF转换器",
+    "Copyright": "版权所有 © {year} {name} 保留所有权利。",
+    "PrivacyPolicy": "隐私政策",
+    "TermsOfService": "服务条款",
+    "Links": {
+      "groups": [
+        {
+          "title": "产品",
+          "links": [
+            {
+              "href": "/",
+              "name": "PNG转PDF"
+            }
+          ]
+        },
+        {
+          "title": "支持",
+          "links": [
+            {
+              "href": "mailto:hi@png-to-pdf.online",
+              "name": "联系我们"
+            }
+          ]
+        },
+        {
+          "title": "语言",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/ru",
+              "name": "Русский",
+              "useA": true
+            },
+            {
+              "href": "/zh",
+              "name": "中文",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "将PNG转换为PDF",
+    "tagLine": "专业PNG转PDF转换器",
+    "description": "将一个或多个PNG图片转换为单个PDF文件。免费、快速、安全 - 所有处理都在您的浏览器中完成。",
+    "keywords": "png转pdf, 将png转换为pdf, png转pdf转换器, 图片转pdf, png图片转pdf, 在线png转pdf, 免费png转pdf转换器, png转换器, pdf转换器, 图片转换器",
+    "meta": {
+      "title": "PNG转PDF – 将PNG图片转换为PDF文档",
+      "description": "将一个或多个PNG图片转换为单个PDF文件。免费、快速、安全 - 所有处理都在您的浏览器中完成。"
+    },
+    "pageData": {
+      "tagLine": "专业PNG转PDF转换器",
+      "description": "将一个或多个PNG图片转换为单个PDF文件。免费、快速、安全 - 所有处理都在您的浏览器中完成。"
+    },
+    "ctaButton": "PNG转PDF",
+    "howToUse": {
+      "label": "使用方法",
+      "title": "如何在线将多张图片转换为PDF？",
+      "subtitle": "将图片转换为PDF的过程非常简单，只需点击几下即可完成。",
+      "step1": {
+        "label": "1.上传图片",
+        "title": "1.上传图片",
+        "description": "向我们的PNG转PDF转换器上传一张或多张PNG图片。"
+      },
+      "step2": {
+        "label": "2.转换为PDF",
+        "title": "2.转换为PDF",
+        "description": "点击转换为PDF按钮开始转换过程。"
+      },
+      "step3": {
+        "label": "3.下载PDF文件",
+        "title": "3.下载PDF文件",
+        "description": "完成后，PDF文件将自动下载。"
+      }
+    },
+    "features": {
+      "title": "PNG转PDF转换器有哪些功能？",
+      "subtitle": "超过30万用户选择使用我们的图片转PDF转换器，因为它具有出色的功能。",
+      "feature1": {
+        "title": "1秒内将图片转换为PDF文件",
+        "description": "上传一张或多张图片，只需大约一秒钟即可获得可用的PDF。我们的图片转PDF工具确保闪电般快速的转换，提供无缝的所见即所得体验。",
+        "button": "上传您的图片"
+      },
+      "feature2": {
+        "title": "图片转PDF转换器支持多种图片格式",
+        "description": "图片转PDF转换器完全支持常见的图片格式，如Webp、JPG、PNG、BMP等，满足多场景转换需求，使操作更加便捷。",
+        "button": "上传您的图片 >>"
+      },
+      "feature3": {
+        "title": "使用图片转PDF工具创建可打印的PDF",
+        "description": "创建多张图片后，您可以直接使用我们的图片转PDF转换器制作PDF文档。这简单方便，无需寻找单独的PDF转换器。无缝连接，效率提升10倍。",
+        "button": "制作PDF"
+      }
+    },
+    "testimonials": {
+      "title": "用户对图片转PDF转换器的评价",
+      "subtitle": "许多用户在使用我们的图片转PDF工具后都给予了高度评价。",
+      "testimonial1": {
+        "content": "我上传了十几张图片，转换在不到两秒内完成——超级快！PDF布局整洁，图片质量保持完整。用户体验真的很棒。",
+        "role": "设计师"
+      },
+      "testimonial2": {
+        "content": "我测试了不同格式的图片，包括PNG和TIFF，所有内容都转换顺利。无需注册，无广告，界面简洁——非常适合日常办公使用。",
+        "role": "助理"
+      },
+      "testimonial3": {
+        "content": "我经常为我的孩子收集线条图，这个工具让我可以一键将它们转换为可打印的PDF。制作儿童涂色书非常方便。",
+        "role": "家长"
+      }
+    },
+    "faq": {
+      "label": "常见问题",
+      "title": "常见问题",
+      "subtitle": "有问题？我们随时为您提供帮助。还在寻找答案？请访问我们的支持中心。",
+      "q1": {
+        "question": "什么是图片转PDF转换器？",
+        "answer": "这是一个在线文件转换器，旨在根据指定的页面大小将多张图片转换为PDF文件。"
+      },
+      "q2": {
+        "question": "我可以转换哪些图片格式？",
+        "answer": "几乎支持所有图片格式，包括但不限于Webp、JPG和PNG。"
+      },
+      "q3": {
+        "question": "我可以调整PDF的布局吗？",
+        "answer": "当然可以，您可以调整页面大小（通常是A4），也可以调整页面布局。"
+      },
+      "q4": {
+        "question": "我可以一次上传多张图片吗？",
+        "answer": "当然可以，您可以上传1张图片，也可以一次上传10张图片。只需根据您的需要选择要上传的照片。"
+      },
+      "q5": {
+        "question": "我可以免费试用您的图片转PDF转换器吗？",
+        "answer": "当然可以，我们完全免费提供在线服务，100%免费使用。"
+      }
+    },
+    "getStartedWithTools": {
+      "title": "开始使用工具",
+      "subtitle": "点击工具打开文件上传器",
+      "searchPlaceholder": "搜索工具（例如：'分割'、'整理'...）",
+      "categories": {
+        "popularTools": {
+          "name": "热门工具",
+          "tools": {
+            "pdfMultiTool": {
+              "name": "PDF多功能工具",
+              "subtitle": "在统一界面中合并、分割、整理、删除、旋转、添加空白页、提取和复制。"
+            },
+            "mergePdf": {
+              "name": "合并PDF",
+              "subtitle": "将多个PDF合并为一个文件。保留书签。"
+            },
+            "splitPdf": {
+              "name": "分割PDF",
+              "subtitle": "将一系列页面提取到新的PDF中。"
+            },
+            "compressPdf": {
+              "name": "压缩PDF",
+              "subtitle": "减小PDF的文件大小。"
+            },
+            "pdfEditor": {
+              "name": "PDF编辑器",
+              "subtitle": "注释、高亮、编辑、评论、添加形状/图片、搜索和查看PDF"
+            },
+            "jpgToPdf": {
+              "name": "JPG转PDF",
+              "subtitle": "从一张或多张JPG图片创建PDF。"
+            },
+            "signPdf": {
+              "name": "签署PDF",
+              "subtitle": "绘制、输入或上传您的签名。"
+            },
+            "cropPdf": {
+              "name": "裁剪PDF",
+              "subtitle": "修剪PDF中每页的边距。"
+            },
+            "extractPages": {
+              "name": "提取页面",
+              "subtitle": "将选定的页面保存为新文件。"
+            },
+            "duplicateOrganize": {
+              "name": "复制和整理",
+              "subtitle": "复制、重新排序和删除页面。"
+            },
+            "deletePages": {
+              "name": "删除页面",
+              "subtitle": "从文档中删除特定页面。"
+            }
+          }
+        },
+        "editAnnotate": {
+          "name": "编辑和注释",
+          "tools": {
+            "pdfEditor": {
+              "name": "PDF编辑器",
+              "subtitle": "注释、高亮、编辑、评论、添加形状/图片、搜索和查看PDF。"
+            },
+            "editBookmarks": {
+              "name": "编辑书签",
+              "subtitle": "添加、编辑、导入、删除和提取PDF书签。"
+            },
+            "tableOfContents": {
+              "name": "目录",
+              "subtitle": "从PDF书签生成目录页。"
+            },
+            "pageNumbers": {
+              "name": "页码",
+              "subtitle": "在文档中插入页码。"
+            },
+            "addWatermark": {
+              "name": "添加水印",
+              "subtitle": "在PDF页面上加盖文本或图片。"
+            },
+            "headerFooter": {
+              "name": "页眉和页脚",
+              "subtitle": "在页面顶部和底部添加文本。"
+            },
+            "invertColors": {
+              "name": "反转颜色",
+              "subtitle": "创建PDF的暗色模式版本。"
+            },
+            "backgroundColor": {
+              "name": "背景颜色",
+              "subtitle": "更改PDF的背景颜色。"
+            },
+            "changeTextColor": {
+              "name": "更改文本颜色",
+              "subtitle": "更改PDF中文本的颜色。"
+            },
+            "signPdf": {
+              "name": "签署PDF",
+              "subtitle": "绘制、输入或上传您的签名。"
+            },
+            "addStamps": {
+              "name": "添加图章",
+              "subtitle": "使用注释工具栏向PDF添加图片图章。"
+            },
+            "removeAnnotations": {
+              "name": "删除注释",
+              "subtitle": "删除评论、高亮和链接。"
+            },
+            "cropPdf": {
+              "name": "裁剪PDF",
+              "subtitle": "修剪PDF中每页的边距。"
+            },
+            "pdfFormFiller": {
+              "name": "PDF表单填充器",
+              "subtitle": "直接在浏览器中填写表单。还支持XFA表单。"
+            },
+            "createPdfForm": {
+              "name": "创建PDF表单",
+              "subtitle": "使用拖放文本字段创建可填写的PDF表单。"
+            },
+            "removeBlankPages": {
+              "name": "删除空白页",
+              "subtitle": "自动检测并删除空白页。"
+            }
+          }
+        },
+        "convertToPdf": {
+          "name": "转换为PDF",
+          "tools": {
+            "imageToPdf": {
+              "name": "图片转PDF",
+              "subtitle": "将JPG、PNG、WebP、BMP、TIFF、SVG、HEIC转换为PDF。"
+            },
+            "jpgToPdf": {
+              "name": "JPG转PDF",
+              "subtitle": "从一张或多张JPG图片创建PDF。"
+            },
+            "pngToPdf": {
+              "name": "PNG转PDF",
+              "subtitle": "从一张或多张PNG图片创建PDF。"
+            },
+            "webpToPdf": {
+              "name": "WebP转PDF",
+              "subtitle": "从一张或多张WebP图片创建PDF。"
+            },
+            "svgToPdf": {
+              "name": "SVG转PDF",
+              "subtitle": "从一张或多张SVG图片创建PDF。"
+            },
+            "bmpToPdf": {
+              "name": "BMP转PDF",
+              "subtitle": "从一张或多张BMP图片创建PDF。"
+            },
+            "heicToPdf": {
+              "name": "HEIC转PDF",
+              "subtitle": "从一张或多张HEIC图片创建PDF。"
+            },
+            "tiffToPdf": {
+              "name": "TIFF转PDF",
+              "subtitle": "从一张或多张TIFF图片创建PDF。"
+            },
+            "textToPdf": {
+              "name": "文本转PDF",
+              "subtitle": "将纯文本文件转换为PDF。"
+            }
+          }
+        },
+        "convertFromPdf": {
+          "name": "从PDF转换",
+          "tools": {
+            "pdfToJpg": {
+              "name": "PDF转JPG",
+              "subtitle": "将每个PDF页面转换为JPG图片。"
+            },
+            "pdfToPng": {
+              "name": "PDF转PNG",
+              "subtitle": "将每个PDF页面转换为PNG图片。"
+            },
+            "pdfToWebp": {
+              "name": "PDF转WebP",
+              "subtitle": "将每个PDF页面转换为WebP图片。"
+            },
+            "pdfToBmp": {
+              "name": "PDF转BMP",
+              "subtitle": "将每个PDF页面转换为BMP图片。"
+            },
+            "pdfToTiff": {
+              "name": "PDF转TIFF",
+              "subtitle": "将每个PDF页面转换为TIFF图片。"
+            },
+            "pdfToGreyscale": {
+              "name": "PDF转灰度",
+              "subtitle": "将所有颜色转换为黑白。"
+            },
+            "pdfToJson": {
+              "name": "PDF转JSON",
+              "subtitle": "将PDF文件转换为JSON格式。"
+            }
+          }
+        }
+      }
+    }
+  },
+  "Blogs": {
+    "title": "PNG转PDF博客",
+    "description": "发现有关PNG转PDF的最新功能、提示和更新 - 您的终极PDF转换工具。",
+    "emptyState": {
+      "title": "没有博客文章",
+      "description": "我们正在创建有关PDF转换的精彩内容，请继续关注！"
+    },
+    "loadMorePostsFailed": "加载更多文章失败",
+    "loadMorePosts": "正在加载更多文章...",
+    "filterPostsFailed": "加载文章失败",
+    "noPostsFoundForThisTag": "此类别未找到文章",
+    "reachedTheEnd": "您已到达所有文章的末尾",
+    "BlogDetail": {
+      "featured": "精选文章",
+      "accessRestricted": "访问受限",
+      "unauthorized": "本文仅对登录用户开放",
+      "premium": "高级内容",
+      "premiumContent": "本文仅限订阅者",
+      "signIn": "登录",
+      "upgrade": "升级",
+      "backToBlogs": "返回博客列表",
+      "notFound": "未找到文章"
+    }
+  },
+  "TermsOfService": {
+    "title": "服务条款",
+    "description": "服务条款"
+  },
+  "PrivacyPolicy": {
+    "title": "隐私政策",
+    "description": "隐私政策"
+  }
+}
+

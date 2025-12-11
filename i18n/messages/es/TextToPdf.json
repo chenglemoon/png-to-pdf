@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "title": "Convertidor de Texto a PDF – Convertidor de archivos TXT a PDF en línea",
+    "description": "Nuestro Texto a PDF es un convertidor de archivos en línea que convierte tus archivos .txt a PDF sin esfuerzo y eficientemente, asegurando que tus documentos estén listos en segundos",
+    "keywords": "texto a pdf, convertir texto a pdf, txt a pdf, convertidor texto a pdf, archivo de texto a pdf, texto a pdf en línea, convertidor gratuito texto a pdf, convertidor de texto, convertidor pdf"
+  },
+  "hero": {
+    "title": "Convertidor de Texto a PDF",
+    "uploadTitle": "Texto a PDF",
+    "mainTitle": {
+      "line1": "Transformar",
+      "line2": "Archivos de Texto",
+      "line3": "en PDF",
+      "line4": ""
+    },
+    "description": "Convierte fácilmente tu texto en PDFs con un aspecto limpio y profesional. Simplemente escribe o pega tu contenido en nuestra herramienta de Texto a PDF, procede a configurar el diseño y orientación de página, luego presiona 'Convertir' para descargar tu archivo PDF.",
+    "dragText": "Arrastra y suelta el archivo TXT aquí",
+    "selectText": "o haz clic para seleccionar archivos (se admiten múltiples archivos)",
+    "clickToSelect": "Haz clic para seleccionar un archivo o arrastra y suelta",
+    "fileTypes": "Archivos de Texto",
+    "privacy": "Tus archivos nunca salen de tu dispositivo.",
+    "format": "Formato TXT",
+    "maxSize": "Máx. 50MB"
+  },
+  "startTyping": "Comienza a escribir...",
+  "startOver": "Empezar de nuevo",
+  "back": "Atrás",
+  "proceed": "Continuar",
+  "convert": "Convertir",
+  "converting": "Convirtiendo",
+  "upload": "Subir",
+  "words": "Palabras",
+  "characters": "Caracteres",
+  "pageOrientation": "Orientación de página",
+  "pageMargin": "Márgen de página",
+  "noMargin": "Sin márgen",
+  "fileList": {
+    "title": "{count} archivo(s) seleccionado(s)",
+    "clearAll": "Limpiar todo",
+    "addMore": "Agregar más archivos"
+  },
+  "preview": {
+    "title": "Vista previa de archivos ({current} / 50)",
+    "clearAll": "LIMPIAR TODO",
+    "uploadPlaceholder": "Haz clic o arrastra para agregar archivos de texto",
+    "addMore": "Agregar más",
+    "downloadPdf": "DESCARGAR PDF"
+  },
+  "pageSize": {
+    "label": "Tamaño de página",
+    "placeholder": "Seleccionar tamaño de página",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3"
+  },
+  "orientation": {
+    "label": "Orientación",
+    "placeholder": "Seleccionar orientación",
+    "portrait": "Vertical",
+    "landscape": "Horizontal"
+  },
+  "fontSize": {
+    "label": "Tamaño de fuente",
+    "placeholder": "Seleccionar tamaño de fuente",
+    "small": "Pequeño (10pt)",
+    "medium": "Mediano (12pt)",
+    "large": "Grande (14pt)",
+    "xlarge": "Extra grande (16pt)"
+  },
+  "convertButton": "Convertir a PDF",
+  "processing": {
+    "title": "Creando PDF desde archivos de texto...",
+    "subtitle": "Por favor espera, esto puede tardar unos segundos"
+  },
+  "messages": {
+    "filesAdded": "Se agregaron {count} archivo(s)",
+    "convertSuccess": "Se convirtieron exitosamente {count} archivo(s) de texto a PDF"
+  },
+  "errors": {
+    "notText": "Por favor selecciona archivos en formato de texto (.txt)",
+    "unsupportedFormat": "Formato de archivo no compatible. Por favor selecciona archivos .txt.",
+    "fileTooLarge": "El tamaño del archivo no puede exceder 50MB",
+    "noFiles": "Por favor selecciona al menos un archivo de texto",
+    "processFileFailed": "Error al procesar el archivo {fileName}",
+    "convertFailed": "La conversión falló. Por favor asegúrate de que todos los archivos sean archivos de texto válidos",
+    "readFileFailed": "Error al leer el archivo {fileName}"
+  },
+  "features": {
+    "title": "¿Cuáles son las características del convertidor de Texto a PDF?",
+    "subtitle": "Más de 300k usuarios eligen usar nuestro convertidor de Texto a PDF debido a sus características destacadas.",
+    "feature1": {
+      "title": "Convierte Texto a PDF en segundos",
+      "description": "Escribe, pega o sube tus archivos de texto y obtén un documento PDF profesional en segundos. Nuestra herramienta de Texto a PDF asegura una conversión ultrarrápida con una experiencia perfecta y fácil de usar. No se requiere instalación o registro.",
+      "button": "Comenzar conversión"
+    },
+    "feature2": {
+      "title": "Editor de texto enriquecido con formato avanzado",
+      "description": "Formatea tu contenido con nuestro potente editor de texto enriquecido. Personaliza el tamaño de fuente, estilo, colores, agrega negrita, cursiva, subrayado, listas, tablas, imágenes y más. Crea documentos de aspecto profesional con facilidad antes de convertir a PDF.",
+      "button": "Probar editor >>"
+    },
+    "feature3": {
+      "title": "Configuración PDF personalizable",
+      "description": "Controla cada aspecto de tu salida PDF. Elige el tamaño de página (A4, Letter, Legal, etc.), orientación (vertical u horizontal) y márgenes. Crea PDFs adaptados a tus necesidades específicas, ya sea para imprimir, compartir o archivar.",
+      "button": "Crear PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonios de usuarios sobre el convertidor de Texto a PDF",
+    "subtitle": "Muchos usuarios han elogiado mucho nuestra herramienta de Texto a PDF después de usarla.",
+    "testimonial1": {
+      "content": "Subí más de una docena de archivos de texto y la conversión se completó en menos de dos segundos—¡súper rápido! El diseño del PDF estaba limpio y el formato se mantuvo intacto. Realmente gran experiencia de usuario.",
+      "role": "Escritor"
+    },
+    "testimonial2": {
+      "content": "Probé archivos de texto en diferentes tamaños, y todo se convirtió sin problemas. No se requiere registro, sin anuncios, y la interfaz está limpia—perfecto para uso diario en la oficina.",
+      "role": "Asistente"
+    },
+    "testimonial3": {
+      "content": "A menudo recojo archivos de texto para mis proyectos, y esta herramienta me permite convertirlos en PDFs imprimibles con un clic. Súper conveniente para hacer documentos profesionales.",
+      "role": "Estudiante"
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre Texto a PDF",
+    "q1": {
+      "question": "¿Cuál es el propósito de convertir Texto a PDF?",
+      "answer": "Los documentos de texto se convierten a PDF para asegurar un formato consistente y una presentación profesional. Además, los PDFs son compatibles con todos los dispositivos, a diferencia de los archivos de procesamiento de texto. Otro propósito común de la conversión de Texto a PDF son las características de seguridad de los PDFs como protección con contraseña y restricciones de edición."
+    },
+    "q2": {
+      "question": "¿Cómo puedo convertir mi texto a PDF?",
+      "answer": "Pega o sube tu texto en nuestro convertidor de Texto a PDF en línea, haz ajustes usando las opciones de edición, y presiona el botón \"Convertir a PDF\". El convertidor procesará inmediatamente y proporcionará un archivo PDF que puedes descargar."
+    },
+    "q3": {
+      "question": "¿Puede la herramienta TXT a PDF convertir mensajes de texto en PDF?",
+      "answer": "Sí, el convertidor TXT a PDF puede convertir mensajes de texto en archivos PDF. El proceso es similar a convertir archivos de texto estándar: simplemente ingresa tus mensajes de texto, y el convertidor de texto copiado a PDF generará un documento PDF para ti."
+    },
+    "q4": {
+      "question": "¿Puedo convertir múltiples archivos de texto a la vez?",
+      "answer": "Sí, nuestro convertidor Txt a PDF es capaz de convertir múltiples archivos de texto simultáneamente con solo un clic."
+    },
+    "q5": {
+      "question": "¿Cómo convertir texto copiado en un PDF?",
+      "answer": "Simplemente, pega el texto copiado en el área de entrada de nuestro convertidor de Texto a PDF. Luego, haz clic en el botón \"Convertir a PDF\" para iniciar la conversión. Nuestra herramienta convertirá rápidamente tu texto copiado y pegado en un archivo PDF."
+    }
+  },
+  "tableDialog": {
+    "title": "Insertar tabla",
+    "description": "Selecciona el número de filas y columnas para la tabla",
+    "rows": "Filas",
+    "cols": "Columnas",
+    "withHeader": "Incluir fila de encabezado",
+    "cancel": "Cancelar",
+    "insert": "Insertar"
+  },
+  "howToUse": {
+    "label": "Cómo usar",
+    "title": "Cómo convertir Texto a PDF",
+    "subtitle": "Sigue estos simples pasos para convertir tus archivos de texto a documentos PDF",
+    "step": "Paso",
+    "step1": {
+      "title": "Escribe, pega o sube tu texto",
+      "description": "Comienza escribiendo directamente en el editor, pegando tu contenido de cualquier fuente, o usando el botón de subir para proporcionar un archivo TXT."
+    },
+    "step2": {
+      "title": "Formatea tu contenido",
+      "description": "Usa el editor de texto enriquecido para formatear tu contenido. Cambia el tamaño de fuente, estilo, agrega efectos de negrita o cursiva, y personaliza la apariencia de tu texto."
+    },
+    "step3": {
+      "title": "Configura opciones de página y convierte",
+      "description": "Haz clic en 'Continuar' para configurar tus opciones PDF incluyendo orientación de página (vertical/horizontal), tamaño de página (A4, Letter, etc.) y márgenes. Luego haz clic en 'Convertir' para generar tu PDF."
+    },
+    "step4": {
+      "title": "Descarga tu PDF",
+      "description": "Una vez que la conversión esté completa, tu archivo PDF se descargará automáticamente. Ahora puedes compartir, imprimir o almacenar tu documento."
+    }
+  }
+}
+

@@ -1,0 +1,178 @@
+{
+  "hero": {
+    "title": "Bilder spiegeln für den perfekten Schnappschuss",
+    "description": "Verwandle deine Fotos von einfachen Bildern in wahre Kunstwerke – mit der kostenlosen Spiegel-Funktion von FlipImage. Drehe dein Bild horizontal oder vertikal, um es seitenverkehrt darzustellen, und lade es dann herunter oder teile es online.",
+    "uploadTitle": "Bild hochladen",
+    "uploadButton": "Bild hochladen",
+    "dragText": "Ziehe dein Bild hierher",
+    "selectText": "oder klicke zum Auswählen",
+    "formats": "Unterstützte Formate: JPG, PNG, WebP",
+    "maxSize": "Maximale Dateigröße: 50 MB",
+    "dropHint": "oder ziehe es hierhin",
+    "processing": "Verarbeitung läuft...",
+    "defaultImageHint": "Beispielbild wird verwendet. Lade dein eigenes Bild für die individuelle Bearbeitung hoch.",
+    "features": {
+      "instant": "Sofortige Verarbeitung",
+      "secure": "100% sicher",
+      "mobile": "Mobilfreundlich",
+      "quality": "Hohe Qualität"
+    },
+    "tryBelow": "Probieren Sie es unten aus",
+    "tryNow": "Jetzt ausprobieren - Laden Sie Ihr Bild hoch",
+    "startFlipping": "Beginnen Sie sofort mit dem Spiegeln Ihrer Bilder. Keine Registrierung erforderlich."
+  },
+  "howToUse": {
+    "title": "So kannst du deine Bilder spiegeln",
+    "subtitle": "Spiegele deine Bilder in 3 einfachen Schritten",
+    "step1": {
+      "title": "Lade dein Bild hoch",
+      "description": "Nutze den Button \"Bild hochladen\" oder ziehe deine Datei in den entsprechenden Bereich."
+    },
+    "step2": {
+      "title": "Spiegle dein Bild",
+      "description": "Drehe dein Bild mit der horizontalen oder vertikalen Spiegel-Funktion und bearbeite es dann mit unserem Foto-Editor."
+    },
+    "step3": {
+      "title": "Lade dein spiegelverkehrtes Bild herunter",
+      "description": "Lade dein Bild als hochauflösendes JPG, PNG oder anderes Dateiformat herunter oder teile es sofort online."
+    },
+    "tips": {
+      "title": "Pro-Tipps",
+      "tip1": "Kombiniere mehrere Transformationen für einzigartige kreative Effekte",
+      "tip2": "Verwende hohe Qualitätseinstellungen für professionelle Drucke",
+      "tip3": "Alle Verarbeitung erfolgt lokal in deinem Browser für vollständige Privatsphäre"
+    }
+  },
+  "options": {
+    "title": "Optionen",
+    "horizontalFlip": "Horizontal spiegeln",
+    "verticalFlip": "Vertikal spiegeln",
+    "rotation": "Rotation",
+    "rotation0": "0°",
+    "rotation90": "90°",
+    "rotation180": "180°",
+    "rotation270": "270°",
+    "downloadButton": "Bild herunterladen",
+    "resetButton": "Zurücksetzen"
+  },
+  "messages": {
+    "uploadSuccess": "Bild erfolgreich hochgeladen!",
+    "downloadSuccess": "Bild erfolgreich heruntergeladen!",
+    "uploadError": "Fehler beim Hochladen des Bildes",
+    "unsupportedFormat": "Nicht unterstütztes Bildformat. Bitte verwende JPG, PNG oder WebP.",
+    "fileTooLarge": "Datei ist zu groß. Maximale Größe: 50 MB.",
+    "processingError": "Fehler bei der Bildverarbeitung",
+    "usingSampleImage": "Beispielbild wird verwendet. Lade dein eigenes Bild hoch, um zu beginnen!",
+    "realTimePreview": "Echtzeit-Vorschau"
+  },
+  "examples": {
+    "badge": "Beispiele",
+    "title": "Bildspiegel-Beispiele",
+    "subtitle": "Sehen Sie, wie einfach es ist, Ihre Bilder mit unserem kostenlosen Online-Tool zu spiegeln, zu spiegeln und zu drehen. Probieren Sie es selbst unten aus!",
+    "before": "VORHER",
+    "after": "NACHHER",
+    "items": {
+      "horizontal": {
+        "title": "Bild horizontal spiegeln",
+        "description": "Erstellen Sie perfekte Spiegeleffekte, indem Sie Bilder von links nach rechts spiegeln, ideal für künstlerische Kompositionen."
+      },
+      "vertical": {
+        "title": "Bild vertikal spiegeln",
+        "description": "Spiegeln Sie Bilder auf den Kopf für kreative Effekte oder um invertierte Fotos zu korrigieren."
+      },
+      "rotate": {
+        "title": "Bild drehen",
+        "description": "Drehen Sie Bilder in 90°-Schritten, um Orientierungsprobleme zu beheben oder dynamische Kompositionen zu erstellen."
+      },
+      "mirror": {
+        "title": "Bild spiegeln",
+        "description": "Erstellen Sie perfekte Spiegeleffekte mit horizontalen und vertikalen Spiegeloptionen."
+      }
+    }
+  },
+  "features": {
+    "title": "Bildspiegel-Funktionen",
+    "coreFeature": "Kernfunktion",
+    "horizontal": {
+      "title": "Horizontal spiegeln",
+      "description": "Erstelle perfekte Spiegeleffekte, wenn du dein Bild horizontal von links nach rechts spiegelst. Ideal für künstlerische Kompositionen und die Korrektur von Selfie-Orientierungen mit professionellen Ergebnissen."
+    },
+    "vertical": {
+      "title": "Vertikal spiegeln",
+      "description": "Spiegle dein Bild auf den Kopf für kreative Effekte oder um umgekehrte Fotos zu korrigieren. Perfekt für Reflexionseffekte und einzigartige Perspektiven mit unserer fortschrittlichen Technologie."
+    },
+    "rotate": {
+      "title": "Bildrotation",
+      "description": "Drehe und spiegle Bilder in 90°-Schritten, um Orientierungsprobleme zu beheben oder dynamische Kompositionen zu erstellen. Unterstützt 90°, 180° und 270° Rotationen kombiniert mit Spiegeloperationen."
+    },
+    "instant": {
+      "title": "Sofortige Verarbeitung",
+      "description": "Erhalte deine Bildspiegel-Ergebnisse sofort mit unserer schnellen Verarbeitungsengine. Kein Warten, keine Verzögerungen beim Transformieren von Bildern online."
+    },
+    "fast": {
+      "title": "Blitzschnell",
+      "description": "Verarbeite Bilder in weniger als einer Sekunde mit unseren optimierten Algorithmen. Erlebe die Geschwindigkeit moderner Web-Technologie."
+    },
+    "secure": {
+      "title": "100% sicher",
+      "description": "Alle Verarbeitung erfolgt in deinem Browser. Deine Bilder verlassen nie dein Gerät und gewährleisten vollständige Privatsphäre beim Online-Bearbeiten."
+    },
+    "responsive": {
+      "title": "Mobilfreundlich",
+      "description": "Funktioniert perfekt auf allen Geräten - Desktop, Tablet und Mobil. Spiegle Bilder überall und jederzeit."
+    },
+    "quality": {
+      "title": "Hohe Qualität",
+      "description": "Behalte die Bildqualität mit verlustfreier Verarbeitung. Unterstützung für hochauflösende Bilder und professionelle Formate."
+    },
+    "formats": {
+      "title": "Mehrere Formate",
+      "description": "Unterstützung für JPG, PNG und WebP Formate mit anpassbaren Qualitätseinstellungen für optimale Dateigröße."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Finde Antworten auf häufige Fragen zu unserem Bildtransformationstool",
+    "q1": {
+      "question": "Wie spiegle ich ein Bild auf dem iPhone?",
+      "answer": "Gehe zum App Store und lade unsere iOS-App herunter, um deine Handy-Bilder zu spiegeln. Lade dein Bild in die App hoch und wähle es aus. Klicke in der Symbolleiste auf \"Umdrehen\" (Pfeil mit kreisförmigem Rückwärtssymbol). Klicke auf \"Horizontal spiegeln\" oder \"Vertikal spiegeln\" und tippe anschließend außerhalb des Layouts, um die Symbolleiste auszublenden und den Spiegeleffekt zu übernehmen. Das war's! In unserer praktischen App gibt es keine versteckten Bedienelemente oder geheimen Tastenkombinationen – alle Funktionen sind leicht zu finden und intuitiv."
+    },
+    "q2": {
+      "question": "Wie erziele ich einen Spiegeleffekt auf Android-Mobilgeräten?",
+      "answer": "Gehe zu Google Play und lade unsere Android-App herunter, um deine Handy-Bilder seitenverkehrt darzustellen. Lade dein Bild hoch und tippe dann darauf. Es sollte ein weißer Rahmen um das Bild herum erscheinen, der anzeigt, dass es ausgewählt wurde. Klicke in der unteren Symbolleiste auf \"Umdrehen\" und wähle dann zwischen \"Horizontal spiegeln\" und \"Vertikal spiegeln\". Unsere kostenlose Spiegel-Funktion bietet dir alles, was du brauchst, um dein Foto spiegelverkehrt darzustellen, auf einer einfachen, intuitiven Oberfläche."
+    },
+    "q3": {
+      "question": "Warum sollte ich ein Bild seitenverkehrt verwenden?",
+      "answer": "Das Spiegeln eines Bildes ist eine Möglichkeit, es nach deinen Vorstellungen zu gestalten. Ein gespiegeltes Bild kann für zusätzliche Symmetrie oder eine verbesserte Ausrichtung sorgen und dadurch schlicht besser aussehen als das Original. Außerdem bewegen wir beim Betrachten eines Fotos unseren Blick oft von links nach rechts. Durch das Spiegeln eines Bildes kann die Richtung angepasst und eine Dynamik erzeugt werden, die sich natürlicher als im Originalbild anfühlt."
+    },
+    "q4": {
+      "question": "Welche Bildformate werden unterstützt?",
+      "answer": "Unser Tool unterstützt JPG, PNG und WebP Formate. Das sind die häufigsten Bildformate im Web und bieten ausgezeichnete Qualität. Alle Formate behalten während der Verarbeitung perfekte Qualität bei."
+    },
+    "q5": {
+      "question": "Gibt es eine Dateigrößenbeschränkung?",
+      "answer": "Ja, die maximale Dateigröße beträgt 50 MB pro Bild. Diese Begrenzung gewährleistet schnelle Verarbeitung und berücksichtigt die meisten hochauflösenden Fotos. Für größere Dateien solltest du dein Bild zuerst komprimieren."
+    },
+    "q6": {
+      "question": "Sind meine Bilddaten sicher und privat?",
+      "answer": "Absolut! Alle Bildverarbeitung erfolgt direkt in deinem Browser mit fortschrittlichen Web-Technologien. Deine Bilder verlassen nie dein Gerät und gewährleisten vollständige Privatsphäre und Sicherheit. Wir speichern oder haben Zugriff auf keine deiner Bilder."
+    },
+    "q7": {
+      "question": "Ist dieser Bildspiegel kostenlos nutzbar?",
+      "answer": "Ja! Unser Bildspiegel ist völlig kostenlos ohne versteckte Gebühren oder Abonnement erforderlich. Du kannst unbegrenzt Bilder spiegeln, drehen und herunterladen ohne Wasserzeichen oder Einschränkungen."
+    },
+    "q8": {
+      "question": "Kann ich dies als Bildspiegel-Tool verwenden?",
+      "answer": "Absolut! Unser Tool funktioniert perfekt als Bildspiegel-Tool. Lade einfach dein Bild hoch und verwende die horizontale Spiegeloption, um einen perfekten Spiegeleffekt deines Fotos zu erstellen."
+    },
+    "q9": {
+      "question": "Wie spiegle ich ein Bild um 90 Grad?",
+      "answer": "Um ein Bild um 90 Grad zu spiegeln, lade dein Foto hoch und wähle die 90° Rotationsoption aus unseren Rotationssteuerungen. Du kannst im Uhrzeigersinn oder gegen den Uhrzeigersinn drehen, um die perfekte Orientierung zu erreichen."
+    },
+    "q10": {
+      "question": "Wie spiegle ich ein Bild auf dem Computer?",
+      "answer": "Unser webbasiertes Bildspiegel-Tool funktioniert direkt in deinem Browser - keine Softwareinstallation erforderlich! Besuche einfach unsere Website, lade dein Bild hoch, wende die gewünschte Spiegelung oder Rotation an und lade das Ergebnis herunter. Es funktioniert auf jedem Computer mit einem Webbrowser."
+    }
+  }
+}
+

@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "title": "Convierte WebP a PDF gratuitamente en segundos",
+    "description": "Convierte rápidamente tus archivos WebP en un documento PDF de alta calidad. Es seguro, rápido y gratuito. No necesitas registrarte ni usar tarjeta de crédito.",
+    "keywords": "webp a pdf, convertir webp a pdf, conversor webp a pdf, imagen a pdf, imágenes webp a pdf, webp a pdf en línea, conversor gratuito webp a pdf, conversor webp, conversor pdf"
+  },
+  "hero": {
+    "title": "Convertir WebP a PDF",
+    "uploadTitle": "WebP a PDF",
+    "mainTitle": {
+      "line1": "Transformar",
+      "line2": "imágenes WebP",
+      "line3": "en PDF",
+      "line4": ""
+    },
+    "description": "Convierte rápidamente tus archivos WebP en un documento PDF de alta calidad. Es seguro, rápido y gratuito. No necesitas registrarte ni usar tarjeta de crédito.",
+    "dragText": "Arrastra y suelta imágenes aquí (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "o haz clic para seleccionar archivos (se admiten múltiples archivos)",
+    "clickToSelect": "Haz clic para seleccionar un archivo o arrastra y suelta",
+    "fileTypes": "PDFs o Imágenes",
+    "privacy": "Tus archivos nunca salen de tu dispositivo.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Máx. 50MB"
+  },
+  "fileList": {
+    "title": "{count} archivo(s) seleccionado(s)",
+    "clearAll": "Limpiar todo",
+    "addMore": "Agregar más archivos"
+  },
+  "preview": {
+    "title": "Vista previa de imágenes ({current} / 50)",
+    "clearAll": "LIMPIAR TODO",
+    "uploadPlaceholder": "Haz clic o arrastra para agregar imágenes",
+    "addMore": "Agregar más",
+    "downloadPdf": "DESCARGAR PDF"
+  },
+  "pageSize": {
+    "label": "Tamaño de página",
+    "placeholder": "Seleccionar tamaño de página",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Ajustar a la imagen"
+  },
+  "orientation": {
+    "label": "Orientación",
+    "placeholder": "Seleccionar orientación",
+    "portrait": "Vertical",
+    "landscape": "Horizontal"
+  },
+  "pdfQuality": {
+    "label": "Calidad PDF",
+    "placeholder": "Seleccionar calidad",
+    "low": "Baja calidad (Tamaño de archivo más pequeño)",
+    "medium": "Calidad media (Equilibrada)",
+    "high": "Alta calidad (Tamaño de archivo más grande)",
+    "description": "Controla la compresión de imagen al incorporar en PDF"
+  },
+  "convertButton": "Convertir a PDF",
+  "processing": {
+    "title": "Creando PDF a partir de imágenes WebP...",
+    "subtitle": "Por favor espera, esto puede tardar unos segundos"
+  },
+  "messages": {
+    "filesAdded": "Agregado(s) {count} archivo(s)",
+    "convertSuccess": "Convertido(s) con éxito {count} archivo(s) de imagen a PDF"
+  },
+  "errors": {
+    "notWebp": "Por favor selecciona archivos de imagen en formato WebP",
+    "unsupportedFormat": "Formato de imagen no admitido. Por favor selecciona archivos JPG, PNG, WebP, BMP, TIFF, SVG o HEIC/HEIF.",
+    "fileTooLarge": "El tamaño del archivo no puede exceder 50MB",
+    "noFiles": "Por favor selecciona al menos un archivo de imagen",
+    "processFileFailed": "Error al procesar archivo {fileName}",
+    "convertFailed": "La conversión falló. Por favor asegúrate de que todos los archivos sean archivos de imagen válidos"
+  },
+  "features": {
+    "title": "¿Cuáles son las características del conversor WebP a PDF?",
+    "subtitle": "Más de 300k usuarios eligen usar nuestro conversor WebP a PDF debido a sus características excepcionales.",
+    "feature1": {
+      "title": "Convertir imágenes WebP a archivo PDF en 1 segundo",
+      "description": "Sube una o múltiples imágenes WebP y obtén un PDF listo para usar en solo un segundo. Nuestra herramienta WebP a PDF garantiza una conversión ultrarrápida con una experiencia WYSIWYG perfecta.",
+      "button": "Sube tus imágenes"
+    },
+    "feature2": {
+      "title": "El conversor WebP a PDF admite alta calidad",
+      "description": "El conversor WebP a PDF admite completamente el formato WebP con preservación de alta calidad, satisfaciendo las necesidades de conversión profesional y facilitando la operación.",
+      "button": "Sube tu imagen >>"
+    },
+    "feature3": {
+      "title": "Crear PDF imprimible con herramienta WebP a PDF",
+      "description": "Después de crear múltiples imágenes WebP, puedes usar directamente nuestro conversor WebP a PDF para hacer un documento PDF. Esto es simple y conveniente, sin tener que encontrar un conversor PDF separado. Conexión perfecta, mejora la eficiencia 10 veces.",
+      "button": "Hacer un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonios de usuarios sobre el conversor WebP a PDF",
+    "subtitle": "Muchos usuarios han elogiado mucho nuestra herramienta WebP a PDF después de usarla.",
+    "testimonial1": {
+      "content": "Subí más de una docena de imágenes WebP y la conversión se completó en menos de dos segundos—¡súper rápido! El diseño del PDF estaba limpio y la calidad de la imagen se mantuvo intacta. Realmente una gran experiencia de usuario.",
+      "role": "Diseñador"
+    },
+    "testimonial2": {
+      "content": "Probé imágenes WebP en diferentes tamaños y todo se convirtió sin problemas. No se requiere registro, sin anuncios y la interfaz está limpia—perfecto para uso diario en la oficina.",
+      "role": "Asistente"
+    },
+    "testimonial3": {
+      "content": "A menudo colecciono imágenes WebP para mis proyectos, y esta herramienta me permite convertirlas en PDFs imprimibles con un clic. Súper conveniente para hacer documentos profesionales.",
+      "role": "Desarrollador"
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre convertir WebP a PDF",
+    "q1": {
+      "question": "¿Puedo convertir múltiples imágenes WebP a un PDF?",
+      "answer": "¡Sí! Nuestra herramienta te permite combinar múltiples imágenes WebP en un solo documento PDF. Simplemente selecciona todas las imágenes WebP que deseas incluir antes de convertir."
+    },
+    "q2": {
+      "question": "¿Mis datos están seguros al convertir WebP a PDF?",
+      "answer": "Tus archivos están protegidos con cifrado TLS avanzado. Para tu seguridad, todas las imágenes se eliminan automáticamente de nuestros servidores una hora después del procesamiento."
+    },
+    "q3": {
+      "question": "¿Cuál es la diferencia entre PDF Estándar y PDF Impresión?",
+      "answer": "Usando nuestro conversor gratuito WebP a PDF, puedes editar tus imágenes WebP en línea antes de guardarlas en PDF. También puedes elegir a qué formato PDF convertir tu imagen. Descarga tu diseño en PDF Estándar para propósitos digitales, especialmente para uso móvil y almacenamiento en la nube ya que no ocupan mucho espacio. PDF Impresión es perfecto para imprimir debido a su mayor resolución que PDF Estándar y te permite agregar marcas de recorte y sangrado para impresiones de aspecto profesional."
+    },
+    "q4": {
+      "question": "¿Por qué convertir WebP a PDF?",
+      "answer": "Los archivos WebP que se convierten a PDF se vuelven fáciles de compartir, abrir y descargar en diferentes dispositivos y sistemas operativos. Eso es porque PDF es un formato de archivo abierto. Convertir imágenes WebP a PDF también comprime su tamaño de archivo, liberando espacio de almacenamiento y ahorrándote el costo de pagar por más. Y a pesar de su tamaño reducido, los archivos PDF conservan la calidad y los detalles de las imágenes originales después de la conversión."
+    }
+  }
+}
+

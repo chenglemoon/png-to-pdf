@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "JPG를 PDF로 무료 변환 도구. JPG 이미지를 PDF로 바꾸기",
+    "description": "파일 제한, 광고 워터마크 없음 - PDF 파일 페이지를 이미지로 변환하거나, PDF 파일에서 개별적으로 이미지를 추출해주는 무료 온라인 툴입니다.",
+    "keywords": "이미지를 pdf로 변환, 이미지를 pdf로 변환하기, jpg를 pdf로 변환, png를 pdf로 변환, webp를 pdf로 변환, bmp를 pdf로 변환, tiff를 pdf로 변환, svg를 pdf로 변환, heic를 pdf로 변환, 이미지를 pdf로 변환하는 변환기, 온라인 이미지를 pdf로 변환, 무료 이미지를 pdf로 변환하는 변환기"
+  },
+  "hero": {
+    "title": "JPG를 PDF로 변환 도구",
+    "uploadTitle": "이미지를 PDF로",
+    "mainTitle": {
+      "line1": "이미지를",
+      "line2": "PDF",
+      "line3": "문서로",
+      "line4": "변환"
+    },
+    "description": "JPG 파일을 PDF로 변환하여 이미지 파일을 효율적으로 관리하고 저장 공간을 확보하세요. Canva(캔바)의 무료 JPG -> PDF 변환 도구를 사용하여 사진을 다듬거나 편집하세요. 품질이 저하되지 않으며 불필요한 워터마크에 관한 걱정을 하지 않아도 됩니다.",
+    "dragText": "이미지를 여기에 끌어다 놓기 (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "또는 클릭하여 파일 선택(여러 파일 지원)",
+    "clickToSelect": "클릭하여 파일을 선택하거나 끌어다 놓기",
+    "fileTypes": "PDF 또는 이미지",
+    "privacy": "파일은 기기를 떠나지 않습니다.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "최대 50MB"
+  },
+  "fileList": {
+    "title": "{count}개 파일 선택됨",
+    "clearAll": "모두 지우기",
+    "addMore": "더 많은 파일 추가"
+  },
+  "preview": {
+    "title": "이미지 미리보기 ({current} / 50)",
+    "clearAll": "모두 지우기",
+    "uploadPlaceholder": "클릭하거나 끌어다 놓아 이미지 추가",
+    "addMore": "더 추가",
+    "downloadPdf": "PDF 다운로드"
+  },
+  "pageSize": {
+    "label": "페이지 크기",
+    "placeholder": "페이지 크기 선택",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "이미지에 맞추기"
+  },
+  "orientation": {
+    "label": "방향",
+    "placeholder": "방향 선택",
+    "portrait": "세로",
+    "landscape": "가로"
+  },
+  "pdfQuality": {
+    "label": "PDF 품질",
+    "placeholder": "품질 선택",
+    "low": "낮은 품질(작은 파일 크기)",
+    "medium": "중간 품질(균형)",
+    "high": "높은 품질(큰 파일 크기)",
+    "description": "PDF에 포함할 때 이미지 압축을 제어합니다"
+  },
+  "convertButton": "PDF로 변환",
+  "processing": {
+    "title": "JPG에서 PDF 생성 중...",
+    "subtitle": "잠시 기다려 주세요. 몇 초 걸릴 수 있습니다"
+  },
+  "messages": {
+    "filesAdded": "{count}개 파일 추가됨",
+    "convertSuccess": "{count}개 이미지 파일을 PDF로 성공적으로 변환했습니다"
+  },
+  "errors": {
+    "notJpg": "JPG 형식 이미지 파일을 선택하세요",
+    "unsupportedFormat": "지원되지 않는 이미지 형식입니다. JPG, PNG, WebP, BMP, TIFF, SVG 또는 HEIC/HEIF 파일을 선택하세요.",
+    "fileTooLarge": "파일 크기는 50MB를 초과할 수 없습니다",
+    "noFiles": "최소한 하나의 이미지 파일을 선택하세요",
+    "processFileFailed": "파일 {fileName} 처리 실패",
+    "convertFailed": "변환 실패. 모든 파일이 유효한 이미지 파일인지 확인하세요"
+  },
+  "faq": {
+    "title": "JPG to PDF 자주 묻는 질문",
+    "q1": {
+      "question": "여러 개의 JPG 파일을 PDF로 변환하려면 어떻게 해야 하나요?",
+      "answer": "당사의 온라인 JPG to PDF 변환 도구를 사용하면 여러 개의 JPG 파일을 업로드하여 하나의 PDF 문서로 변환할 수 있습니다. 변환하려는 이미지를 드래그 앤 드롭하여 디자인 프로젝트에 추가하세요. 여러 페이지를 추가하고 원하는 표시 방법이나 선택한 프로젝트 템플릿에 따라 레이아웃을 정렬한 다음 각 이미지를 편집하고 \"PDF 표준\" 또는 \"PDF 인쇄\" 형식으로 다운로드할 수 있습니다."
+    },
+    "q2": {
+      "question": "PDF 표준과 PDF 인쇄의 차이점은 무엇인가요?",
+      "answer": "당사의 무료 JPG to PDF 변환 도구를 사용하면 JPG 이미지를 온라인에서 편집한 후 PDF로 저장할 수 있습니다. 변환할 PDF 형식을 선택할 수도 있습니다. 디지털 사용의 경우, 특히 모바일 기기나 드라이브 저장에 적합한 \"PDF 표준\" 형식으로 다운로드하는 것이 좋습니다. 공간을 덜 차지하기 때문입니다. 반면 \"PDF 인쇄\"는 PDF 표준보다 해상도가 높아 인쇄에 이상적이며 전문적인 인쇄를 위한 트림 마크와 블리드를 추가할 수 있습니다."
+    },
+    "q3": {
+      "question": "JPG를 PDF로 변환하는 이유는 무엇인가요?",
+      "answer": "JPG 파일을 PDF로 변환하면 PDF는 개방형 파일 형식이기 때문에 다양한 기기와 운영 체제에서 쉽게 공유, 열기 및 다운로드할 수 있습니다. JPG 이미지를 PDF로 변환하면 파일 크기도 압축되어 저장 공간을 절약하고 추가 비용을 지불할 필요가 없습니다. 또한 파일 크기가 줄어들어도 PDF 파일은 변환 후에도 원본 이미지의 품질과 세부 사항을 유지합니다."
+    },
+    "q4": {
+      "question": "Mac 또는 Windows PC에서 JPG를 PDF로 변환하는 방법은 무엇인가요?",
+      "answer": "매우 간단합니다. 페이지 상단의 변환기에 JPG 파일을 드래그 앤 드롭하기만 하면 됩니다. 이미지를 생성하는 방법을 선택한 다음 \"변환\"을 클릭하세요. 새 PDF 파일을 즉시 다운로드할 수 있습니다."
+    },
+    "q5": {
+      "question": "JPG를 PDF로 변환할 때 데이터가 보호되나요?",
+      "answer": "네. 당사는 최신 TLS 암호화 기술을 사용하여 업로드 및 다운로드 과정에서 파일을 안전하게 보호합니다. 사용자가 보안 서버에 파일을 저장하도록 선택하지 않는 한, 모든 문서는 처리 후 1시간 이내에 서버에서 자동으로 삭제됩니다."
+    },
+    "q6": {
+      "question": "JPG to PDF 변환기가 정말 무료인가요?",
+      "answer": "네. 무료 계정으로 모든 문서 유형을 변환할 수 있습니다. PDF, 이미지, MS Office 파일을 포함하여 필요한 모든 것을 제공합니다. 무료 플랜에는 일부 제한이 있지만 Pro 구독을 통해 무제한 변환과 30개 이상의 PDF 도구에 액세스할 수 있습니다. 현재 7일 무료 체험이 제공되며, 체험 기간 중 언제든지 무료로 취소할 수 있습니다."
+    }
+  },
+  "features": {
+    "title": "JPG to PDF 변환기의 기능은 무엇인가요?",
+    "subtitle": "30만 명 이상의 사용자가 뛰어난 기능 때문에 당사 JPG to PDF 변환기를 사용하기로 선택했습니다.",
+    "feature1": {
+      "title": "1초 만에 JPG 이미지를 PDF 파일로 변환",
+      "description": "하나 이상의 JPG 이미지를 업로드하고 약 1초 만에 사용할 수 있는 PDF를 얻으세요. 당사 JPG to PDF 도구는 완벽한 WYSIWYG 경험으로 초고속 변환을 보장합니다.",
+      "button": "이미지 업로드"
+    },
+    "feature2": {
+      "title": "JPG to PDF 변환기는 여러 이미지 형식을 지원합니다",
+      "description": "JPG to PDF 변환기는 Webp, JPG, PNG, BMP, TIFF, SVG, HEIC/HEIF 등 일반적인 이미지 형식을 완전히 지원하여 다중 시나리오 변환 요구를 충족하고 작업을 더 쉽게 만듭니다.",
+      "button": "이미지 업로드 >>"
+    },
+    "feature3": {
+      "title": "JPG to PDF 도구로 인쇄 가능한 PDF 만들기",
+      "description": "여러 이미지를 만든 후 당사 JPG to PDF 변환기를 직접 사용하여 PDF 문서를 만들 수 있습니다. 이것은 간단하고 편리하며 별도의 PDF 변환기를 찾을 필요가 없습니다. 완벽한 연결로 효율성을 10배 향상시킵니다.",
+      "button": "PDF 만들기"
+    }
+  },
+  "testimonials": {
+    "title": "JPG to PDF 변환기에 대한 사용자 후기",
+    "subtitle": "많은 사용자가 당사 JPG to PDF 도구를 사용한 후 높이 평가했습니다.",
+    "testimonial1": {
+      "content": "10개 이상의 JPG 이미지를 업로드했고 변환은 2초 미만에 완료되었습니다—초고속입니다! PDF 레이아웃이 깔끔하고 이미지 품질이 그대로 유지되었습니다. 정말 훌륭한 사용자 경험입니다.",
+      "role": "디자이너"
+    },
+    "testimonial2": {
+      "content": "다양한 형식의 JPG 이미지를 테스트했고 모든 것이 원활하게 변환되었습니다. 가입 불필요, 광고 없음, 인터페이스가 깔끔합니다—일상적인 사무실 사용에 완벽합니다.",
+      "role": "어시스턴트"
+    },
+    "testimonial3": {
+      "content": "아이를 위해 JPG 이미지를 자주 수집하는데 이 도구를 사용하면 한 번의 클릭으로 인쇄 가능한 PDF로 변환할 수 있습니다. 어린이용 색칠하기 책을 만드는 데 매우 편리합니다.",
+      "role": "부모"
+    }
+  }
+}

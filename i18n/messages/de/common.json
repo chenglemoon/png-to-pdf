@@ -1,0 +1,302 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "title": "PNG in PDF",
+    "links": [
+      {
+        "href": "/image-to-pdf",
+        "name": "Bilder zu PDF"
+      },
+      {
+        "href": "/merge-jpg",
+        "name": "JPG zu PDF"
+      },
+      {
+        "href": "/pdf-to-jpg",
+        "name": "PDF zu JPG"
+      },
+      {
+        "href": "/pdf-to-png",
+        "name": "PDF zu PNG"
+      }
+    ]
+  },
+  "Footer": {
+    "title": "PNG in PDF",
+    "tagLine": "Kostenloser Online PNG-zu-PDF-Konverter",
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "PNG in PDF"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@png-to-pdf.online",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/ru",
+              "name": "Русский",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "PNG-Datei in PDF umwandeln kostenlos",
+    "tagLine": "Professioneller PNG-zu-PDF-Konverter",
+    "description": "Mit dem kostenlosen Online-PNG-zu-PDF-Converter von Canva kannst du kinderleicht PNG-Dateien in PDF umwandeln, sie optimieren, anpassen und schließlich teilen.",
+    "keywords": "png zu pdf, png in pdf konvertieren, png zu pdf konverter, bild zu pdf, png bilder zu pdf, online png zu pdf, kostenloser png zu pdf konverter, png konverter, pdf konverter, bild konverter",
+    "meta": {
+      "title": "PNG-Datei in PDF umwandeln kostenlos",
+      "description": "Mit dem kostenlosen Online-PNG-zu-PDF-Converter von Canva kannst du kinderleicht PNG-Dateien in PDF umwandeln, sie optimieren, anpassen und schließlich teilen."
+    },
+    "pageData": {
+      "tagLine": "Professioneller PNG-zu-PDF-Konverter",
+      "description": "Mit dem kostenlosen Online-PNG-zu-PDF-Converter von Canva kannst du kinderleicht PNG-Dateien in PDF umwandeln, sie optimieren, anpassen und schließlich teilen."
+    },
+    "ctaButton": "PNG zu PDF",
+    "howToUse": {
+      "label": "So verwenden Sie es",
+      "title": "Wie konvertiert man mehrere Bilder online in PDF?",
+      "subtitle": "Der Prozess der Konvertierung von Bildern in PDF ist sehr einfach und kann mit nur wenigen Klicks abgeschlossen werden.",
+      "step1": {
+        "label": "1.Bilder hochladen",
+        "title": "1.Bilder hochladen",
+        "description": "Laden Sie ein oder mehrere PNG-Bilder in unseren PNG-zu-PDF-Konverter hoch."
+      },
+      "step2": {
+        "label": "2.In PDF konvertieren",
+        "title": "2.In PDF konvertieren",
+        "description": "Klicken Sie auf die Schaltfläche 'In PDF konvertieren', um den Konvertierungsprozess zu starten."
+      },
+      "step3": {
+        "label": "3.PDF-Dateien herunterladen",
+        "title": "3.PDF-Dateien herunterladen",
+        "description": "Nach Abschluss wird die PDF-Datei automatisch heruntergeladen."
+      }
+    },
+    "features": {
+      "title": "Was sind die Funktionen des PNG-zu-PDF-Konverters?",
+      "subtitle": "Mehr als 300.000 Benutzer wählen unseren Bild-zu-PDF-Konverter aufgrund seiner herausragenden Funktionen.",
+      "feature1": {
+        "title": "Bilder in 1 Sekunde in PDF-Dateien konvertieren",
+        "description": "Laden Sie ein oder mehrere Bilder hoch und erhalten Sie in nur etwa einer Sekunde eine einsatzbereite PDF. Unser Bild-zu-PDF-Tool gewährleistet eine blitzschnelle Konvertierung mit einer nahtlosen WYSIWYG-Erfahrung.",
+        "button": "Ihre Bilder hochladen"
+      },
+      "feature2": {
+        "title": "Bild-zu-PDF-Konverter unterstützt mehrere Bildformate",
+        "description": "Der Bild-zu-PDF-Konverter unterstützt vollständig gängige Bildformate wie Webp, JPG, PNG, BMP usw., erfüllt die Anforderungen der Multi-Szenen-Konvertierung und macht die Bedienung einfacher.",
+        "button": "Ihr Bild hochladen >>"
+      },
+      "feature3": {
+        "title": "Druckbares PDF mit Bild-zu-PDF-Tool erstellen",
+        "description": "Nachdem Sie mehrere Bilder erstellt haben, können Sie unseren Bild-zu-PDF-Konverter direkt verwenden, um ein PDF-Dokument zu erstellen. Dies ist einfach und bequem, ohne einen separaten PDF-Konverter finden zu müssen. Nahtlose Verbindung, 10-fache Effizienzsteigerung.",
+        "button": "PDF erstellen"
+      }
+    },
+    "testimonials": {
+      "title": "Benutzerbewertungen zum Bild-zu-PDF-Konverter",
+      "subtitle": "Viele Benutzer haben unser Bild-zu-PDF-Tool nach der Verwendung sehr gelobt.",
+      "testimonial1": {
+        "content": "Ich wüsste nicht, was ich ohne diesen PNG-zu-PDF-Konverter machen würde. Die beste Lösung für jede Situation - ob mehrere Bilder in einem PDF kombinieren, Dokumente erstellen oder etwas ganz anderes. Mit diesem Tool ist die Konvertierung so einfach.",
+        "role": "@IGchef_andrewb"
+      },
+      "testimonial2": {
+        "content": "Dieser PNG-zu-PDF-Konverter hat mein Leben verändert! Noch nie war ich auf einer Webseite, die so gut durchdacht ist. Ich nutze das Tool, um anderen meine Arbeit zu präsentieren, und freue mich jedes Mal aufs Neue darüber! Man merkt, wie viel Liebe zum Detail in die Entwicklung geflossen ist. Hut ab!",
+        "role": "@mahimagirdhar"
+      },
+      "testimonial3": {
+        "content": "Dieser PNG-zu-PDF-Konverter ist eine unglaubliche App, mit der man quasi für alles ein PDF erstellen kann! So viele Möglichkeiten – es gibt unzählige Optionen. Und auch das Hochladen, Konvertieren und Herunterladen ist ganz einfach. Beste App seit Langem. Ich kann sie nur weiterempfehlen!",
+        "role": "@SpotOnDomain"
+      }
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Haben Sie eine Frage? Wir sind hier, um zu helfen. Suchen Sie noch nach Antworten? Besuchen Sie unser Support-Center.",
+      "q1": {
+        "question": "Worin unterscheiden sich PNG, PDF und JPG?",
+        "answer": "Die Hauptunterschiede zwischen diesen Dateiformaten betreffen ihre Daten, Bildqualität und Dateigröße. JPG-Dateien haben eine der kleinsten Dateigrößen und eignen sich ideal zum Hochladen oder als E-Mail-Anhänge. Da das Bild jedoch für eine kleinere Dateigröße komprimiert wird, verliert es einige Daten und folglich etwas Bildqualität im Vergleich zum unkomprimierten Original. PNGs sind dafür bekannt, die Qualität des Originalbildes bis ins kleinste Detail zu erhalten. Sie können auch Transparenz speichern. Ihr Hauptnachteil ist, dass sie aufgrund ihrer größeren Dateigröße oft mehr Speicherplatz benötigen. PDF-Dateien sind weder so beliebt noch so ideal für Bilddateien wie Icons, Logos oder einfache Grafiken wie die anderen beiden Formate. Sie sind jedoch das perfekte Format zum Teilen von Screenshots oder Dokumenten, mit oder ohne Bilder, da sie das Erscheinungsbild und Layout des ursprünglichen Textes und der Bilder darin erhalten."
+      },
+      "q2": {
+        "question": "Wie kann ich mehrere PNG-Dateien in ein einziges PDF umwandeln?",
+        "answer": "Dies ist sehr einfach mit unserem PNG-zu-PDF-Konverter: Laden Sie alle Ihre PNG-Dateien hoch. Die Dateien werden automatisch in ein einzelnes PDF-Dokument kombiniert. Laden Sie Ihr Design als PDF-Datei herunter."
+      },
+      "q3": {
+        "question": "Sind meine Dateien sicher, wenn ich mit dem PNG-zu-PDF-Converter PNG in PDF umwandle?",
+        "answer": "Ja, unser PNG-zu-PDF-Konverter ist sicher und geschützt. Alle Verarbeitungen erfolgen direkt in Ihrem Browser. Ihre Dateien werden nicht auf unseren Servern gespeichert und werden nach der Konvertierung automatisch gelöscht."
+      },
+      "q4": {
+        "question": "Welche anderen Dateiformate abseits von PNG kann ich in PDF umwandeln?",
+        "answer": "Neben PNG können Sie auch die meisten anderen Bilddateien in PDF konvertieren, zum Beispiel JPG zu PDF, WebP zu PDF, BMP zu PDF, TIFF zu PDF, SVG zu PDF und HEIC zu PDF."
+      },
+      "q5": {
+        "question": "Kann ich Ihren Bild-zu-PDF-Konverter kostenlos ausprobieren?",
+        "answer": "Natürlich bieten wir Online-Dienste völlig kostenlos an, 100% kostenlos zu verwenden."
+      }
+    },
+    "getStartedWithTools": {
+      "title": "Erste Schritte mit Tools",
+      "subtitle": "Klicken Sie auf ein Tool, um den Datei-Uploader zu öffnen",
+      "searchPlaceholder": "Nach einem Tool suchen (z.B. 'teilen', 'organisieren'...)",
+      "categories": {
+        "convertToPdf": {
+          "name": "In PDF konvertieren",
+          "tools": {
+            "imageToPdf": {
+              "name": "Bild in PDF",
+              "subtitle": "Konvertieren Sie JPG, PNG, WebP, BMP, TIFF, SVG, HEIC in PDF."
+            },
+            "jpgToPdf": {
+              "name": "JPG in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren JPG-Bildern."
+            },
+            "pngToPdf": {
+              "name": "PNG in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren PNG-Bildern."
+            },
+            "webpToPdf": {
+              "name": "WebP in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren WebP-Bildern."
+            },
+            "svgToPdf": {
+              "name": "SVG in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren SVG-Bildern."
+            },
+            "bmpToPdf": {
+              "name": "BMP in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren BMP-Bildern."
+            },
+            "heicToPdf": {
+              "name": "HEIC in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren HEIC-Bildern."
+            },
+            "tiffToPdf": {
+              "name": "TIFF in PDF",
+              "subtitle": "Erstellen Sie ein PDF aus einem oder mehreren TIFF-Bildern."
+            },
+            "textToPdf": {
+              "name": "Text in PDF",
+              "subtitle": "Konvertieren Sie eine reine Textdatei in ein PDF."
+            }
+          }
+        },
+        "convertFromPdf": {
+          "name": "Von PDF konvertieren",
+          "tools": {
+            "pdfToJpg": {
+              "name": "PDF in JPG umwandeln",
+              "subtitle": "Konvertieren Sie jede PDF-Seite in ein JPG-Bild."
+            },
+            "pdfToPng": {
+              "name": "PDF in PNG umwandeln",
+              "subtitle": "Konvertieren Sie jede PDF-Seite in ein PNG-Bild."
+            },
+            "pdfToWebp": {
+              "name": "PDF in WebP umwandeln",
+              "subtitle": "Konvertieren Sie jede PDF-Seite in ein WebP-Bild."
+            },
+            "pdfToBmp": {
+              "name": "PDF in BMP umwandeln",
+              "subtitle": "Konvertieren Sie jede PDF-Seite in ein BMP-Bild."
+            },
+            "pdfToTiff": {
+              "name": "PDF in TIFF umwandeln",
+              "subtitle": "Konvertieren Sie jede PDF-Seite in ein TIFF-Bild."
+            }
+          }
+        }
+      }
+    }
+  },
+  "Blogs": {
+    "title": "PNG in PDF Blog",
+    "description": "Entdecken Sie die neuesten Funktionen, Tipps und Updates über PNG in PDF - Ihr ultimatives PDF-Konvertierungstool.",
+    "emptyState": {
+      "title": "Keine Blog-Beiträge",
+      "description": "Wir erstellen spannende Inhalte über PDF-Konvertierung, bleiben Sie dran!"
+    },
+    "loadMorePostsFailed": "Fehler beim Laden weiterer Beiträge",
+    "loadMorePosts": "Lade weitere Beiträge...",
+    "filterPostsFailed": "Fehler beim Laden der Beiträge",
+    "noPostsFoundForThisTag": "Keine Artikel für diese Kategorie gefunden",
+    "reachedTheEnd": "Sie haben das Ende aller Beiträge erreicht",
+    "BlogDetail": {
+      "featured": "Empfohlener Beitrag",
+      "accessRestricted": "Zugriff eingeschränkt",
+      "unauthorized": "Dieser Artikel ist nur für angemeldete Benutzer verfügbar",
+      "premium": "Premium-Inhalt",
+      "premiumContent": "Dieser Artikel ist exklusiv für Abonnenten",
+      "signIn": "Anmelden",
+      "upgrade": "Upgrade",
+      "backToBlogs": "Zurück zur Blog-Liste",
+      "notFound": "Artikel nicht gefunden"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

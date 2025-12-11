@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "SVG to PDF Converter | Convert Your SVG Images to PDF Online",
+    "description": "Get any SVG images converted to PDF format online, quickly and easily, without having to install any software.",
+    "keywords": "svg to pdf, convert svg to pdf, svg to pdf converter, image to pdf, svg images to pdf, online svg to pdf, free svg to pdf converter, svg converter, pdf converter"
+  },
+  "hero": {
+    "title": "Convert SVG to PDF",
+    "uploadTitle": "SVG to PDF",
+    "mainTitle": {
+      "line1": "Transform SVG Images",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "SVG to PDF converter. Best way to convert SVG to PDF online at the highest quality. This tool is free, secure, and works on any web browser.",
+    "dragText": "Drag and drop images here (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from SVG images...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} image file(s) to PDF"
+  },
+  "errors": {
+    "notSvg": "Please select SVG format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "features": {
+    "title": "What Are Features of SVG to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our SVG to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert SVG Images to PDF File in 1 Second",
+      "description": "Upload one or multiple SVG images and get a ready-to-use PDF in just about one second. Our SVG to PDF tool ensures lightning-fast conversion with a seamless, WYSIWYG experience.",
+      "button": "Upload Your Images"
+    },
+    "feature2": {
+      "title": "SVG to PDF Converter Supports High Quality",
+      "description": "SVG to PDF converter fully supports SVG format with high quality preservation, meeting the needs of professional conversion and making operation easier.",
+      "button": "Upload Your Image >>"
+    },
+    "feature3": {
+      "title": "Create Printable PDF with SVG-to-PDF Tool",
+      "description": "After you have created multiple SVG images, you can directly use our SVG to PDF converter to make a PDF document. This is simple and convenient, without having to find a separate PDF converter. Seamless connection, improve 10x efficiency.",
+      "button": "Making A PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About SVG to PDF Converter",
+    "subtitle": "Many users have highly praised our SVG to PDF tool after using it.",
+    "testimonial1": {
+      "content": "I uploaded over a dozen SVG images and the conversion was done in less than two seconds—super fast! The PDF layout was clean and the image quality remained intact. Really great user experience.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "I tested SVG images in different sizes, and everything converted smoothly. No registration required, no ads, and the interface is clean—perfect for everyday office use.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "I often collect SVG images for my projects, and this tool lets me turn them into printable PDFs in one click. Super convenient for making professional documents.",
+      "role": "Developer"
+    }
+  },
+  "faq": {
+    "title": "Convert SVG to PDF FAQs",
+    "q1": {
+      "question": "Can I convert multiple SVG images to one PDF?",
+      "answer": "Yes! Our tool allows you to combine multiple SVG images into a single PDF document. Simply select all the SVG images you want to include before converting."
+    },
+    "q2": {
+      "question": "Is my data secure when converting SVG to PDF?",
+      "answer": "Your files are protected with advanced TLS encryption. For your security, all images are automatically deleted from our servers one hour after processing."
+    },
+    "q3": {
+      "question": "What is the difference between PDF Standard and PDF Print?",
+      "answer": "Using our free SVG to PDF converter, you can edit your SVG images online before saving them in PDF. You also get to choose which PDF format to convert your image to. Download your design in PDF Standard for digital purposes, especially for mobile use and drive storage since they don't take up much space. PDF Print is perfect for printing because of its higher resolution than PDF Standard and allows you to add crop marks and bleed for professional-looking prints."
+    },
+    "q4": {
+      "question": "Why convert SVG to PDF?",
+      "answer": "SVG files that are converted to PDF become easy to share, open, and download across different devices and operating systems. That is because PDF is an open file format. Converting SVG images to PDF also compresses their file size, freeing up storage space and saving you the cost of paying for more. And despite their reduced size, PDF files retain the quality and details of the original images after conversion."
+    },
+    "q5": {
+      "question": "How to convert multiple SVG files to PDF?",
+      "answer": "Our online SVG to PDF converter lets you convert multiple SVG files to a single PDF document. Simply drag and drop the SVG images you want to convert into your design project. Add multiple pages and arrange their layout according to how you want them to appear or based on your selected project template. Edit each image then download your design in PDF Standard or PDF Print format."
+    }
+  }
+}
+

@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "title": "JPG to PDF : convertir un JPG en PDF gratuitement",
+    "description": "Convertir un JPG en PDF, c’est facile et gratuit avec l’outil « JPG to PDF » pour transformer un JPG en PDF et conserver vos photos.",
+    "keywords": "image vers pdf, convertir image vers pdf, jpg vers pdf, png vers pdf, webp vers pdf, bmp vers pdf, tiff vers pdf, svg vers pdf, heic vers pdf, convertisseur image vers pdf, image vers pdf en ligne, convertisseur gratuit image vers pdf"
+  },
+  "hero": {
+    "title": "Convertir un JPG en PDF gratuitement en ligne",
+    "uploadTitle": "Image vers PDF",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "les images",
+      "line3": "en PDF",
+      "line4": ""
+    },
+    "description": "Aucun téléchargement, publicité superposée - un outil en ligne gratuit pour convertir vos pages PDF en images ou extraire des images de vos PDFs.",
+    "dragText": "Glissez-déposez les images ici (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "ou cliquez pour sélectionner des fichiers (plusieurs fichiers pris en charge)",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "PDFs ou Images",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "{count} fichier(s) sélectionné(s)",
+    "clearAll": "Tout effacer",
+    "addMore": "Ajouter plus de fichiers"
+  },
+  "preview": {
+    "title": "Aperçu des images ({current} / 50)",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter des images",
+    "addMore": "Ajouter plus",
+    "downloadPdf": "TÉLÉCHARGER PDF"
+  },
+  "pageSize": {
+    "label": "Taille de page",
+    "placeholder": "Sélectionner la taille de page",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Ajuster à l'image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Sélectionner l'orientation",
+    "portrait": "Portrait",
+    "landscape": "Paysage"
+  },
+  "pdfQuality": {
+    "label": "Qualité PDF",
+    "placeholder": "Sélectionner la qualité",
+    "low": "Basse qualité (Taille de fichier plus petite)",
+    "medium": "Qualité moyenne (Équilibrée)",
+    "high": "Haute qualité (Taille de fichier plus grande)",
+    "description": "Contrôle la compression d'image lors de l'intégration dans PDF"
+  },
+  "convertButton": "Convertir en PDF",
+  "processing": {
+    "title": "Création du PDF à partir des JPG...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "filesAdded": "{count} fichier(s) ajouté(s)",
+    "convertSuccess": "{count} fichier(s) d'image converti(s) avec succès en PDF"
+  },
+  "errors": {
+    "notJpg": "Veuillez sélectionner des fichiers d'image au format JPG",
+    "unsupportedFormat": "Format d'image non pris en charge. Veuillez sélectionner des fichiers JPG, PNG, WebP, BMP, TIFF, SVG ou HEIC/HEIF.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFiles": "Veuillez sélectionner au moins un fichier d'image",
+    "processFileFailed": "Échec du traitement du fichier {fileName}",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que tous les fichiers sont des fichiers d'image valides"
+  },
+  "faq": {
+    "title": "FAQ sur la conversion de JPG en PDF",
+    "q1": {
+      "question": "Est-ce que je peux convertir plusieurs images JPG en un seul PDF?",
+      "answer": "Oui! Notre outil JPG en PDF te permet de combiner plusieurs images JPG en un seul document PDF et de les enregistrer facilement. C'est une fonctionnalité Pro, mais tu peux la tester gratuitement pendant 7 jours. Notre offre gratuite te permet de convertir des images JPG individuelles en fichiers PDF de haute qualité. Il te suffit de télécharger tes JPG et de sélectionner ce dont tu as besoin."
+    },
+    "q2": {
+      "question": "Est-ce que la qualité de mes images sera affectée si je les convertis en PDF?",
+      "answer": "Non! Notre convertisseur JPG en PDF te livre des fichiers PDF en haute résolution, ce qui fait qu'ils restent nets, clairs et de qualité professionnelle."
+    },
+    "q3": {
+      "question": "Comment convertir des JPG en PDF sur un Mac ou un ordinateur Windows?",
+      "answer": "C'est facile! Il te suffit de déposer tes JPG dans le convertisseur au sommet de cette page. Choisis comment tu veux créer ton PDF et clique sur « Convertir ». Ton nouveau PDF sera prêt à télécharger en un clin d'œil."
+    },
+    "q4": {
+      "question": "Est-ce que mes données sont en sécurité lorsque je les convertis de JPG en PDF?",
+      "answer": "Absolument! Nous utilisons un cryptage TLS sophistiqué pour protéger tes fichiers pendant leur téléchargement. Tous les documents sont automatiquement effacés de nos serveurs une heure après leur traitement, sauf si tu choisis de les enregistrer sur nos serveurs sécurisés."
+    },
+    "q5": {
+      "question": "Est-ce que le convertisseur JPG en PDF est vraiment gratuit?",
+      "answer": "Oui! Tu peux convertir tous les types de document avec un compte gratuit. PDF, images, fichiers MS Office – nous proposons tout ce qu'il te faut. L'offre gratuite présente des restrictions, mais tu peux obtenir un nombre illimité de conversions, ainsi que plus de 30 outils PDF, avec un abonnement Pro. Teste-le pendant 7 jours. Tu peux le résilier à tout moment sans frais pendant la période d'essai."
+    },
+    "q6": {
+      "question": "Pourquoi convertir une image en PDF?",
+      "answer": "Les fichiers convertis JPG en PDF sont plus faciles à partager, ouvrir et télécharger sur différents appareils et systèmes d'exploitation pour la simple et bonne raison que le format PDF est un format ouvert. Convertir un JPG en PDF permet également de les compresser afin de libérer de l'espace de stockage et d'ainsi faire des économies. Malgré leur taille compressée, les fichiers PDF ne nuisent pas à la qualité et aux détails des images d'origine."
+    }
+  },
+  "features": {
+    "title": "Quelles sont les fonctionnalités du convertisseur JPG vers PDF?",
+    "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur JPG vers PDF en raison de ses fonctionnalités exceptionnelles.",
+    "feature1": {
+      "title": "Convertir les images JPG en fichier PDF en 1 seconde",
+      "description": "Téléchargez une ou plusieurs images JPG et obtenez un PDF prêt à l'emploi en seulement une seconde. Notre outil JPG vers PDF assure une conversion ultra-rapide avec une expérience WYSIWYG parfaite.",
+      "button": "Téléchargez vos images"
+    },
+    "feature2": {
+      "title": "Le convertisseur JPG vers PDF prend en charge plusieurs formats d'image",
+      "description": "Le convertisseur JPG vers PDF prend entièrement en charge les formats d'image courants tels que Webp, JPG, PNG, BMP, TIFF, SVG, HEIC/HEIF, etc., répondant aux besoins de conversion multi-scènes et facilitant l'opération.",
+      "button": "Téléchargez votre image >>"
+    },
+    "feature3": {
+      "title": "Créer un PDF imprimable avec l'outil JPG vers PDF",
+      "description": "Après avoir créé plusieurs images, vous pouvez utiliser directement notre convertisseur JPG vers PDF pour créer un document PDF. C'est simple et pratique, sans avoir à trouver un convertisseur PDF séparé. Connexion parfaite, améliore l'efficacité 10 fois.",
+      "button": "Créer un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages d'utilisateurs sur le convertisseur JPG vers PDF",
+    "subtitle": "De nombreux utilisateurs ont beaucoup loué notre outil JPG vers PDF après l'avoir utilisé.",
+    "testimonial1": {
+      "content": "J'ai téléchargé plus d'une douzaine d'images JPG et la conversion a été effectuée en moins de deux secondes—super rapide! La mise en page PDF était propre et la qualité de l'image est restée intacte. Vraiment excellente expérience utilisateur.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "J'ai testé des images JPG dans différents formats, et tout s'est converti sans problème. Aucune inscription requise, pas de publicités, et l'interface est propre—parfait pour un usage quotidien au bureau.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "Je collectionne souvent des images JPG pour mon enfant, et cet outil me permet de les transformer en PDFs imprimables en un clic. Super pratique pour créer des livres de coloriage pour enfants.",
+      "role": "Parent"
+    }
+  }
+}
+

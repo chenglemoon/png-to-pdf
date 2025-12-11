@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "PDFをTIFFに変換。無料オンラインツールでPDFをTIFF画像に変更",
+    "description": "この無料のオンラインツールは、ソフトウェアをインストールすることなく、PDF文書を一連の最適化されたTIFF画像に変換することができます。",
+    "keywords": "pdfをtiffに変換, pdfをtiffに変換する, pdfを画像に変換, pdfをjpegに変換, pdfをjpgに変換, pdfをpngに変換, pdfをwebpに変換, pdfをbmpに変換, pdfから画像を抽出, pdfコンバーター, オンラインpdfをtiffに変換, 無料pdfをtiffに変換するコンバーター"
+  },
+  "hero": {
+    "title": "無料でPDFをTIFF変換",
+    "uploadTitle": "PDF to TIFF",
+    "mainTitle": {
+      "line1": "PDFページを",
+      "line2": "TIFF画像に",
+      "line3": "変換",
+      "line4": ""
+    },
+    "description": "この無料のオンライン画像変換ツールを使用して、画質を落とさずに画像や文書をPDFに変換しましょう。",
+    "dragText": "PDFファイルをここにドラッグ＆ドロップ",
+    "selectText": "またはクリックしてファイルを選択",
+    "clickToSelect": "クリックしてファイルを選択するか、ドラッグ＆ドロップ",
+    "fileTypes": "PDFファイル",
+    "privacy": "ファイルはデバイスから離れることはありません。",
+    "format": "PDF形式",
+    "maxSize": "最大50MB"
+  },
+  "preview": {
+    "title": "PDFページプレビュー（{current} / {total}）",
+    "clearAll": "すべてクリア",
+    "uploadPlaceholder": "クリックまたはドラッグしてPDFファイルを追加",
+    "addMore": "さらに追加",
+    "downloadAll": "すべてZIPとしてダウンロード",
+    "downloadSingle": "ダウンロード",
+    "page": "ページ"
+  },
+  "upload": "アップロード",
+  "imageQuality": {
+    "label": "画像品質",
+    "placeholder": "品質を選択",
+    "low": "低（ファイルサイズが小さい）",
+    "medium": "中（バランス型）",
+    "high": "高（ファイルサイズが大きい）"
+  },
+  "convertButton": "TIFFに変換",
+  "processing": {
+    "title": "PDFをTIFFに変換中...",
+    "subtitle": "お待ちください。数秒かかる場合があります"
+  },
+  "messages": {
+    "fileAdded": "PDFファイルが正常に追加されました",
+    "convertSuccess": "{count}ページをTIFFに正常に変換しました"
+  },
+  "errors": {
+    "notPdf": "PDFファイルを選択してください",
+    "unsupportedFormat": "サポートされていないファイル形式です。PDFファイルを選択してください。",
+    "fileTooLarge": "ファイルサイズは50MBを超えることはできません",
+    "noFile": "PDFファイルを選択してください",
+    "processFileFailed": "PDFファイルの処理に失敗しました",
+    "convertFailed": "変換に失敗しました。PDFファイルが有効であることを確認してください",
+    "readFileFailed": "PDFファイルの読み取りに失敗しました",
+    "createZipFailed": "ZIPファイルの作成に失敗しました"
+  },
+  "features": {
+    "title": "PDF to TIFFコンバーターの機能は何ですか？",
+    "subtitle": "30万人以上のユーザーが、優れた機能のために当社のPDF to TIFFコンバーターを使用することを選択しています。",
+    "feature1": {
+      "title": "数秒でPDFをTIFFに変換",
+      "description": "PDFファイルをアップロードし、すべてのページを高品質なTIFF画像として数秒で抽出します。当社のPDF to TIFFツールは、優れた画像品質の保持で高速変換を保証します。",
+      "button": "変換を開始"
+    },
+    "feature2": {
+      "title": "高品質な画像出力",
+      "description": "PDFページから鮮明でクリアなTIFF画像を取得します。TIFF形式は可逆圧縮オプションを提供し、プロフェッショナルな使用のために最大の画像品質と詳細を保持するのに最適です。",
+      "button": "コンバーターを試す >>"
+    },
+    "feature3": {
+      "title": "すべてのページを一括ダウンロード",
+      "description": "すべてのPDFページを個別のTIFF画像としてダウンロードするか、便利なZIPファイルですべてを取得します。文書、プレゼンテーション、またはレポートから画像を抽出するのに最適です。",
+      "button": "今すぐ変換"
+    }
+  },
+  "testimonials": {
+    "title": "PDF to TIFFコンバーターに関するユーザーの声",
+    "subtitle": "多くのユーザーが、当社のPDF to TIFFツールを使用した後、高く評価しています。",
+    "testimonial1": {
+      "content": "プロフェッショナルな印刷用に50ページのPDFから画像を抽出する必要がありました。このツールは1分未満ですべてのページをTIFFに変換しました。画像品質は優れており、非圧縮で、私のニーズに最適でした。",
+      "role": "印刷プロフェッショナル"
+    },
+    "testimonial2": {
+      "content": "PDF文書からページを抽出するのに最適です。TIFF形式は可逆画像を提供するため、アーカイブ作業に重要です。登録不要、素晴らしく機能します！",
+      "role": "アーキビスト"
+    },
+    "testimonial3": {
+      "content": "プロフェッショナルなスキャンワークフローのためにPDFページを画像に変換するためにこれを定期的に使用しています。TIFF形式は圧縮アーティファクトなしで最大品質を保証します。強くお勧めします！",
+      "role": "ドキュメントスペシャリスト"
+    }
+  },
+  "howToUse": {
+    "label": "使い方",
+    "title": "PDFをTIFFに変換する方法",
+    "subtitle": "これらの簡単な手順に従って、PDFページをTIFF画像に変換します",
+    "step": "ステップ",
+    "step1": {
+      "title": "PDFファイルをアップロード",
+      "description": "PDFファイルをアップロード領域にドラッグ＆ドロップするか、クリックしてファイルを選択します。当社のツールは最大50MBのPDFファイルをサポートします。"
+    },
+    "step2": {
+      "title": "画像品質を選択",
+      "description": "希望する画像品質設定を選択します：ファイルサイズを小さくする場合は低、バランスの取れた品質の場合は中、最大の明瞭さの場合は高。"
+    },
+    "step3": {
+      "title": "プレビューとダウンロード",
+      "description": "プレビュー領域で変換されたすべてのページを表示します。個別のTIFF画像をダウンロードするか、便利なZIPファイルですべてのページを一度に取得します。"
+    }
+  },
+  "faq": {
+    "title": "PDF to TIFFよくある質問",
+    "q1": {
+      "question": "PDFをTIFFに変換するにはどうすればよいですか？",
+      "answer": "TIFFファイルは普遍的にサポートされているため、ファイルの表示、共有、アップロードに最適です。無料のオンラインPDF to TIFFコンバーターを使用してPDFをTIFFに変換します。デザインを簡単に改善または装飾を追加してから、TIFFファイルとして作業をダウンロードできます。"
+    },
+    "q2": {
+      "question": "PDFをTIFFに変換できますか？",
+      "answer": "はい！無料のPDF to TIFFコンバーターにPDFファイルをアップロードするだけで、魔法が起こります。組み込みのエディターを使用して画像を強化し、作業に魅力的なデザイン要素を追加することで、画像をより魅力的にすることもできます。"
+    },
+    "q3": {
+      "question": "TIFFはPDFとどう違いますか？",
+      "answer": "PDFファイルと比較して、TIFF画像はデジタルプラットフォームで共有するように設計されています。これは、ファイルサイズが大幅に小さくてもファイルの品質を保持できるためです。TIFF画像は可逆圧縮もサポートしているため、デザイン要素を組み込んだり、画像を共有する他のアセットに重ねたりできます。"
+    }
+  }
+}
+

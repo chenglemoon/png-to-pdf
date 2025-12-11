@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Convert TIFF to PDF Online for Free",
+    "description": "Quickly turn your TIFF image files into high-quality PDFs. Fast, secure, and free file conversions. No signup or credit card needed.",
+    "keywords": "tiff to pdf, tif to pdf, convert tiff to pdf, convert tif to pdf, tiff to pdf converter, image to pdf, tiff images to pdf, online tiff to pdf, free tiff to pdf converter, tiff converter, pdf converter"
+  },
+  "hero": {
+    "title": "Convert TIFF to PDF",
+    "uploadTitle": "TIFF to PDF",
+    "mainTitle": {
+      "line1": "Transform TIFF Images",
+      "line2": "into PDF",
+      "line3": "Documents",
+      "line4": ""
+    },
+    "description": "Turn your TIFF image files into high-quality PDFs. Fast, secure, and free file conversions. No signup or credit card needed.",
+    "dragText": "Drag and drop images here (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "or click to select files (multiple files supported)",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDFs or Images",
+    "privacy": "Your files never leave your device.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "Selected {count} file(s)",
+    "clearAll": "Clear All",
+    "addMore": "Add More Files"
+  },
+  "preview": {
+    "title": "Images Preview ({current} / 50)",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add images",
+    "addMore": "Add More",
+    "downloadPdf": "DOWNLOAD PDF"
+  },
+  "pageSize": {
+    "label": "Page Size",
+    "placeholder": "Select page size",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Fit to Image"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Select orientation",
+    "portrait": "Portrait",
+    "landscape": "Landscape"
+  },
+  "pdfQuality": {
+    "label": "PDF Quality",
+    "placeholder": "Select quality",
+    "low": "Low Quality (Smaller file size)",
+    "medium": "Medium Quality (Balanced)",
+    "high": "High Quality (Larger file size)",
+    "description": "Controls image compression when embedding into PDF"
+  },
+  "convertButton": "Convert to PDF",
+  "processing": {
+    "title": "Creating PDF from TIFF images...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "filesAdded": "Added {count} file(s)",
+    "convertSuccess": "Successfully converted {count} image file(s) to PDF"
+  },
+  "errors": {
+    "notTiff": "Please select TIFF/TIF format image files",
+    "unsupportedFormat": "Unsupported image format. Please select JPG, PNG, WebP, BMP, TIFF, SVG, or HEIC/HEIF files.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFiles": "Please select at least one image file",
+    "processFileFailed": "Failed to process file {fileName}",
+    "convertFailed": "Conversion failed. Please ensure all files are valid image files"
+  },
+  "features": {
+    "title": "What Are Features of TIFF to PDF Converter?",
+    "subtitle": "More than 300k users choose to use our TIFF to PDF converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert TIFF Images to PDF File in 1 Second",
+      "description": "Upload one or multiple TIFF images and get a ready-to-use PDF in just about one second. Our TIFF to PDF tool ensures lightning-fast conversion with a seamless, WYSIWYG experience.",
+      "button": "Upload Your Images"
+    },
+    "feature2": {
+      "title": "TIFF to PDF Converter Supports High Quality",
+      "description": "TIFF to PDF converter fully supports TIFF/TIF format with high quality preservation, meeting the needs of professional conversion and making operation easier.",
+      "button": "Upload Your Image >>"
+    },
+    "feature3": {
+      "title": "Create Printable PDF with TIFF-to-PDF Tool",
+      "description": "After you have created multiple TIFF images, you can directly use our TIFF to PDF converter to make a PDF document. This is simple and convenient, without having to find a separate PDF converter. Seamless connection, improve 10x efficiency.",
+      "button": "Making A PDF"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About TIFF to PDF Converter",
+    "subtitle": "Many users have highly praised our TIFF to PDF tool after using it.",
+    "testimonial1": {
+      "content": "I uploaded over a dozen TIFF images and the conversion was done in less than two seconds—super fast! The PDF layout was clean and the image quality remained intact. Really great user experience.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "I tested TIFF images in different sizes, and everything converted smoothly. No registration required, no ads, and the interface is clean—perfect for everyday office use.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "I often collect TIFF images for my projects, and this tool lets me turn them into printable PDFs in one click. Super convenient for making professional documents.",
+      "role": "Photographer"
+    }
+  },
+  "faq": {
+    "title": "Convert TIFF to PDF FAQs",
+    "q1": {
+      "question": "Can I convert multiple TIFF images to one PDF?",
+      "answer": "Yes! Our tool allows you to combine multiple TIFF images into a single PDF document. Simply select all the TIFF images you want to include before converting."
+    },
+    "q2": {
+      "question": "Is my data secure when converting TIFF to PDF?",
+      "answer": "Your files are protected with advanced TLS encryption. For your security, all images are automatically deleted from our servers one hour after processing."
+    },
+    "q3": {
+      "question": "What is the difference between PDF Standard and PDF Print?",
+      "answer": "Using our free TIFF to PDF converter, you can edit your TIFF images online before saving them in PDF. You also get to choose which PDF format to convert your image to. Download your design in PDF Standard for digital purposes, especially for mobile use and drive storage since they don't take up much space. PDF Print is perfect for printing because of its higher resolution than PDF Standard and allows you to add crop marks and bleed for professional-looking prints."
+    },
+    "q4": {
+      "question": "Why convert TIFF to PDF?",
+      "answer": "TIFF files that are converted to PDF become easy to share, open, and download across different devices and operating systems. That is because PDF is an open file format. Converting TIFF images to PDF also compresses their file size, freeing up storage space and saving you the cost of paying for more. And despite their reduced size, PDF files retain the quality and details of the original images after conversion."
+    },
+    "q5": {
+      "question": "How to convert multiple TIFF files to PDF?",
+      "answer": "Our online TIFF to PDF converter lets you convert multiple TIFF files to a single PDF document. Simply drag and drop the TIFF images you want to convert into your design project. Add multiple pages and arrange their layout according to how you want them to appear or based on your selected project template. Edit each image then download your design in PDF Standard or PDF Print format."
+    }
+  }
+}
+

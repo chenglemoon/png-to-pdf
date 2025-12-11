@@ -1,0 +1,281 @@
+{
+  "LanguageDetection": {
+    "title": "언어 제안",
+    "description": "브라우저 언어가 현재 사이트 언어와 다릅니다. 언제든지 언어를 전환할 수 있습니다 👉",
+    "countdown": "{countdown}초 후 닫힘"
+  },
+  "Home": {
+    "title": "PNG를 PDF로 – PNG 이미지를 PDF 문서로 변환",
+    "tagLine": "전문 PNG to PDF 변환기",
+    "description": "하나 이상의 PNG 이미지를 단일 PDF 파일로 변환하세요. 무료, 빠르고 안전합니다 - 모든 처리는 브라우저에서 이루어집니다.",
+    "keywords": "png pdf 변환, png를 pdf로 변환, png pdf 변환기, 이미지 pdf 변환, png 이미지 pdf 변환, 온라인 png pdf 변환, 무료 png pdf 변환기, png 변환기, pdf 변환기, 이미지 변환기",
+    "meta": {
+      "title": "PNG를 PDF로 – PNG 이미지를 PDF 문서로 변환",
+      "description": "하나 이상의 PNG 이미지를 단일 PDF 파일로 변환하세요. 무료, 빠르고 안전합니다 - 모든 처리는 브라우저에서 이루어집니다."
+    },
+    "pageData": {
+      "tagLine": "전문 PNG to PDF 변환기",
+      "description": "하나 이상의 PNG 이미지를 단일 PDF 파일로 변환하세요. 무료, 빠르고 안전합니다 - 모든 처리는 브라우저에서 이루어집니다."
+    },
+    "ctaButton": "PNG를 PDF로",
+    "howToUse": {
+      "label": "사용 방법",
+      "title": "여러 이미지를 온라인에서 PDF로 변환하는 방법은?",
+      "subtitle": "이미지를 PDF로 변환하는 과정은 매우 간단하며 몇 번의 클릭만으로 완료할 수 있습니다.",
+      "step1": {
+        "label": "1.이미지 업로드",
+        "title": "1.이미지 업로드",
+        "description": "PNG to PDF 변환기에 하나 이상의 PNG 이미지를 업로드하세요."
+      },
+      "step2": {
+        "label": "2.PDF로 변환",
+        "title": "2.PDF로 변환",
+        "description": "'PDF로 변환' 버튼을 클릭하여 변환 프로세스를 시작하세요."
+      },
+      "step3": {
+        "label": "3.PDF 파일 다운로드",
+        "title": "3.PDF 파일 다운로드",
+        "description": "완료되면 PDF 파일이 자동으로 다운로드됩니다."
+      }
+    },
+    "features": {
+      "title": "PNG to PDF 변환기의 기능은 무엇인가요?",
+      "subtitle": "30만 명 이상의 사용자가 뛰어난 기능으로 인해 당사의 이미지 to PDF 변환기를 사용하기로 선택했습니다.",
+      "feature1": {
+        "title": "1초 만에 이미지를 PDF 파일로 변환",
+        "description": "하나 이상의 이미지를 업로드하면 약 1초 만에 사용 가능한 PDF를 얻을 수 있습니다. 당사의 이미지 to PDF 도구는 원활한 WYSIWYG 경험으로 번개처럼 빠른 변환을 보장합니다.",
+        "button": "이미지 업로드"
+      },
+      "feature2": {
+        "title": "이미지 to PDF 변환기는 여러 이미지 형식을 지원합니다",
+        "description": "이미지 to PDF 변환기는 Webp, JPG, PNG, BMP 등 일반적인 이미지 형식을 완전히 지원하여 다중 장면 변환의 요구를 충족하고 작업을 더 쉽게 만듭니다.",
+        "button": "이미지 업로드 >>"
+      },
+      "feature3": {
+        "title": "이미지 to PDF 도구로 인쇄 가능한 PDF 만들기",
+        "description": "여러 이미지를 만든 후 당사의 이미지 to PDF 변환기를 직접 사용하여 PDF 문서를 만들 수 있습니다. 이것은 간단하고 편리하며 별도의 PDF 변환기를 찾을 필요가 없습니다. 원활한 연결, 효율성 10배 향상.",
+        "button": "PDF 만들기"
+      }
+    },
+    "testimonials": {
+      "title": "이미지 to PDF 변환기에 대한 사용자 평가",
+      "subtitle": "많은 사용자가 당사의 이미지 to PDF 도구를 사용한 후 매우 높이 평가했습니다.",
+      "testimonial1": {
+        "content": "10개 이상의 이미지를 업로드했고 변환이 2초 미만으로 완료되었습니다—매우 빠릅니다! PDF 레이아웃이 깔끔하고 이미지 품질이 그대로 유지되었습니다. 정말 훌륭한 사용자 경험입니다.",
+        "role": "디자이너"
+      },
+      "testimonial2": {
+        "content": "PNG와 TIFF를 포함한 다양한 형식의 이미지를 테스트했으며 모든 것이 원활하게 변환되었습니다. 등록 불필요, 광고 없음, 인터페이스 깔끔함—일상적인 사무실 사용에 완벽합니다.",
+        "role": "어시스턴트"
+      },
+      "testimonial3": {
+        "content": "아이를 위해 선화를 자주 수집하는데, 이 도구를 사용하면 한 번의 클릭으로 인쇄 가능한 PDF로 변환할 수 있습니다. 어린이 색칠 공부 책을 만드는 데 매우 편리합니다.",
+        "role": "부모"
+      }
+    },
+    "faq": {
+      "label": "자주 묻는 질문",
+      "title": "자주 묻는 질문",
+      "subtitle": "질문이 있으신가요? 도와드리겠습니다. 아직 답을 찾고 계신가요? 지원 센터를 방문하세요.",
+      "q1": {
+        "question": "이미지 to PDF 변환기가 무엇인가요?",
+        "answer": "지정된 페이지 크기에 따라 여러 이미지를 PDF 파일로 변환하도록 설계된 온라인 파일 변환기입니다."
+      },
+      "q2": {
+        "question": "어떤 이미지 형식을 변환할 수 있나요?",
+        "answer": "Webp, JPG, PNG를 포함하여 거의 모든 이미지 형식이 지원됩니다."
+      },
+      "q3": {
+        "question": "PDF의 레이아웃을 조정할 수 있나요?",
+        "answer": "물론, 페이지 크기(보통 A4)를 조정할 수 있으며 페이지 레이아웃도 조정할 수 있습니다."
+      },
+      "q4": {
+        "question": "한 번에 여러 이미지를 업로드할 수 있나요?",
+        "answer": "물론, 1개의 사진을 업로드하거나 한 번에 10개의 사진을 업로드할 수 있습니다. 필요에 따라 업로드할 사진을 선택하세요."
+      },
+      "q5": {
+        "question": "이미지 to PDF 변환기를 무료로 사용해 볼 수 있나요?",
+        "answer": "물론, 온라인 서비스를 완전히 무료로 제공하며 100% 무료로 사용할 수 있습니다."
+      }
+    },
+    "getStartedWithTools": {
+      "title": "도구 시작하기",
+      "subtitle": "도구를 클릭하여 파일 업로더 열기",
+      "searchPlaceholder": "도구 검색(예: '분할', '정리'...)",
+      "categories": {
+        "convertToPdf": {
+          "name": "PDF로 변환",
+          "tools": {
+            "imageToPdf": {
+              "name": "이미지를 PDF로",
+              "subtitle": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC를 PDF로 변환."
+            },
+            "jpgToPdf": {
+              "name": "JPG를 PDF로",
+              "subtitle": "하나 이상의 JPG 이미지에서 PDF 만들기."
+            },
+            "pngToPdf": {
+              "name": "PNG를 PDF로",
+              "subtitle": "하나 이상의 PNG 이미지에서 PDF 만들기."
+            },
+            "webpToPdf": {
+              "name": "WebP를 PDF로",
+              "subtitle": "하나 이상의 WebP 이미지에서 PDF 만들기."
+            },
+            "svgToPdf": {
+              "name": "SVG를 PDF로",
+              "subtitle": "하나 이상의 SVG 이미지에서 PDF 만들기."
+            },
+            "bmpToPdf": {
+              "name": "BMP를 PDF로",
+              "subtitle": "하나 이상의 BMP 이미지에서 PDF 만들기."
+            },
+            "heicToPdf": {
+              "name": "HEIC를 PDF로",
+              "subtitle": "하나 이상의 HEIC 이미지에서 PDF 만들기."
+            },
+            "tiffToPdf": {
+              "name": "TIFF를 PDF로",
+              "subtitle": "하나 이상의 TIFF 이미지에서 PDF 만들기."
+            },
+            "textToPdf": {
+              "name": "텍스트를 PDF로",
+              "subtitle": "일반 텍스트 파일을 PDF로 변환."
+            }
+          }
+        },
+        "convertFromPdf": {
+          "name": "PDF에서 변환",
+          "tools": {
+            "pdfToJpg": {
+              "name": "PDF를 JPG로",
+              "subtitle": "각 PDF 페이지를 JPG 이미지로 변환."
+            },
+            "pdfToPng": {
+              "name": "PDF를 PNG로",
+              "subtitle": "각 PDF 페이지를 PNG 이미지로 변환."
+            },
+            "pdfToWebp": {
+              "name": "PDF를 WebP로",
+              "subtitle": "각 PDF 페이지를 WebP 이미지로 변환."
+            },
+            "pdfToBmp": {
+              "name": "PDF를 BMP로",
+              "subtitle": "각 PDF 페이지를 BMP 이미지로 변환."
+            },
+            "pdfToTiff": {
+              "name": "PDF를 TIFF로",
+              "subtitle": "각 PDF 페이지를 TIFF 이미지로 변환."
+            }
+          }
+        }
+      }
+    }
+  },
+  "Header": {
+    "title": "PNG를 PDF로",
+    "links": [
+      {
+        "href": "/image-to-pdf",
+        "name": "이미지 PDF"
+      },
+      {
+        "href": "/merge-jpg",
+        "name": "JPG PDF"
+      },
+      {
+        "href": "/pdf-to-jpg",
+        "name": "PDF JPG"
+      },
+      {
+        "href": "/pdf-to-png",
+        "name": "PDF PNG"
+      },
+      {
+        "href": "/blog",
+        "name": "블로그"
+      }
+    ]
+  },
+  "Footer": {
+    "title": "PNG를 PDF로",
+    "tagLine": "무료 온라인 PNG to PDF 변환기",
+    "Copyright": "Copyright © {year} {name} 모든 권리 보유.",
+    "PrivacyPolicy": "개인정보 보호정책",
+    "TermsOfService": "서비스 약관",
+    "Links": {
+      "groups": [
+        {
+          "title": "제품",
+          "links": [
+            {
+              "href": "/",
+              "name": "PNG를 PDF로"
+            }
+          ]
+        },
+        {
+          "title": "지원",
+          "links": [
+            {
+              "href": "mailto:hi@png-to-pdf.online",
+              "name": "문의하기"
+            }
+          ]
+        },
+        {
+          "title": "언어",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Blogs": {
+    "title": "PNG를 PDF로 블로그"
+  },
+  "TermsOfService": {
+    "title": "서비스 약관",
+    "description": "서비스 약관"
+  },
+  "PrivacyPolicy": {
+    "title": "개인정보 보호정책",
+    "description": "개인정보 보호정책"
+  }
+}
+

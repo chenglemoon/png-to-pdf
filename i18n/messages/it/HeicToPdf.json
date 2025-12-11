@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Converti gratis i file HEIC in PDF online",
+    "description": "Converti velocemente i tuoi file HEIC in PDF di alta qualità che puoi condividere con chi vuoi. Cominciare è gratis e veloce. Nessuna registrazione richiesta. Riservatezza assicurata.",
+    "keywords": "heic in pdf, heif in pdf, converti heic in pdf, converti heif in pdf, convertitore heic in pdf, immagine in pdf, immagini heic in pdf, heic in pdf online, convertitore gratuito heic in pdf, convertitore heic, convertitore pdf"
+  },
+  "hero": {
+    "title": "Converti un file HEIC in PDF",
+    "uploadTitle": "HEIC in PDF",
+    "mainTitle": {
+      "line1": "Trasforma",
+      "line2": "immagini HEIC",
+      "line3": "in PDF",
+      "line4": ""
+    },
+    "description": "Converti velocemente i tuoi file HEIC in PDF di alta qualità che puoi condividere con chi vuoi. Cominciare è gratis e veloce. Nessuna registrazione richiesta. Riservatezza assicurata.",
+    "dragText": "Trascina e rilascia le immagini qui (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF)",
+    "selectText": "o clicca per selezionare i file (supportati più file)",
+    "clickToSelect": "Clicca per selezionare un file o trascina e rilascia",
+    "fileTypes": "PDF o Immagini",
+    "privacy": "I tuoi file non lasciano mai il tuo dispositivo.",
+    "format": "JPG, PNG, WebP, BMP, TIFF, SVG, HEIC/HEIF",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "{count} file selezionato/i",
+    "clearAll": "Cancella tutto",
+    "addMore": "Aggiungi più file"
+  },
+  "preview": {
+    "title": "Anteprima immagini ({current} / 50)",
+    "clearAll": "CANCELLA TUTTO",
+    "uploadPlaceholder": "Clicca o trascina per aggiungere immagini",
+    "addMore": "Aggiungi di più",
+    "downloadPdf": "SCARICA PDF"
+  },
+  "pageSize": {
+    "label": "Dimensione pagina",
+    "placeholder": "Seleziona dimensione pagina",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Adatta all'immagine"
+  },
+  "orientation": {
+    "label": "Orientamento",
+    "placeholder": "Seleziona orientamento",
+    "portrait": "Verticale",
+    "landscape": "Orizzontale"
+  },
+  "pdfQuality": {
+    "label": "Qualità PDF",
+    "placeholder": "Seleziona qualità",
+    "low": "Bassa qualità (Dimensione file più piccola)",
+    "medium": "Qualità media (Bilanciata)",
+    "high": "Alta qualità (Dimensione file più grande)",
+    "description": "Controlla la compressione dell'immagine durante l'incorporamento in PDF"
+  },
+  "convertButton": "Converti in PDF",
+  "processing": {
+    "title": "Creazione PDF da immagini HEIC...",
+    "subtitle": "Attendere, potrebbe richiedere alcuni secondi"
+  },
+  "messages": {
+    "filesAdded": "Aggiunto/i {count} file",
+    "convertSuccess": "Convertito/i con successo {count} file immagine in PDF"
+  },
+  "errors": {
+    "notHeic": "Seleziona file immagine in formato HEIC/HEIF",
+    "unsupportedFormat": "Formato immagine non supportato. Seleziona file JPG, PNG, WebP, BMP, TIFF, SVG o HEIC/HEIF.",
+    "fileTooLarge": "La dimensione del file non può superare 50MB",
+    "noFiles": "Seleziona almeno un file immagine",
+    "processFileFailed": "Impossibile elaborare il file {fileName}",
+    "convertFailed": "Conversione fallita. Assicurati che tutti i file siano file immagine validi"
+  },
+  "features": {
+    "title": "Quali sono le caratteristiche del convertitore HEIC in PDF?",
+    "subtitle": "Più di 300k utenti scelgono di utilizzare il nostro convertitore HEIC in PDF per le sue caratteristiche eccezionali.",
+    "feature1": {
+      "title": "Converti immagini HEIC in file PDF in 1 secondo",
+      "description": "Carica una o più immagini HEIC e ottieni un PDF pronto all'uso in solo un secondo. Il nostro strumento HEIC in PDF garantisce una conversione ultra-veloce con un'esperienza WYSIWYG perfetta.",
+      "button": "Carica le tue immagini"
+    },
+    "feature2": {
+      "title": "Il convertitore HEIC in PDF supporta alta qualità",
+      "description": "Il convertitore HEIC in PDF supporta completamente il formato HEIC/HEIF con preservazione di alta qualità, soddisfacendo le esigenze di conversione professionale e facilitando l'operazione.",
+      "button": "Carica la tua immagine >>"
+    },
+    "feature3": {
+      "title": "Crea PDF stampabile con strumento HEIC in PDF",
+      "description": "Dopo aver creato più immagini HEIC, puoi utilizzare direttamente il nostro convertitore HEIC in PDF per creare un documento PDF. Questo è semplice e conveniente, senza dover trovare un convertitore PDF separato. Connessione perfetta, migliora l'efficienza 10 volte.",
+      "button": "Crea un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonianze degli utenti sul convertitore HEIC in PDF",
+    "subtitle": "Molti utenti hanno elogiato molto il nostro strumento HEIC in PDF dopo averlo utilizzato.",
+    "testimonial1": {
+      "content": "Ho caricato più di una dozzina di immagini HEIC dal mio iPhone e la conversione è stata completata in meno di due secondi—super veloce! Il layout PDF era pulito e la qualità dell'immagine è rimasta intatta. Davvero un'ottima esperienza utente.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Ho testato immagini HEIC in diverse dimensioni e tutto si è convertito senza problemi. Nessuna registrazione richiesta, nessuna pubblicità e l'interfaccia è pulita—perfetto per l'uso quotidiano in ufficio.",
+      "role": "Assistente"
+    },
+    "testimonial3": {
+      "content": "Raccolgo spesso immagini HEIC dal mio telefono, e questo strumento mi permette di trasformarle in PDF stampabili con un clic. Super conveniente per creare documenti professionali.",
+      "role": "Fotografo"
+    }
+  },
+  "faq": {
+    "title": "FAQ HEIC in PDF",
+    "q1": {
+      "question": "Posso convertire più immagini HEIC in un PDF?",
+      "answer": "Sì! Il nostro strumento ti consente di combinare più immagini HEIC in un unico documento PDF. Seleziona semplicemente tutte le immagini HEIC che desideri includere prima di convertire."
+    },
+    "q2": {
+      "question": "I miei dati sono sicuri durante la conversione HEIC in PDF?",
+      "answer": "I tuoi file sono protetti con crittografia TLS avanzata. Per la tua sicurezza, tutte le immagini vengono eliminate automaticamente dai nostri server un'ora dopo l'elaborazione."
+    },
+    "q3": {
+      "question": "Qual è la differenza tra PDF Standard e PDF Stampa?",
+      "answer": "Utilizzando il nostro convertitore gratuito HEIC in PDF, puoi modificare le tue immagini HEIC online prima di salvarle in PDF. Puoi anche scegliere in quale formato PDF convertire la tua immagine. Scarica il tuo design in PDF Standard per scopi digitali, specialmente per l'uso mobile e lo storage cloud poiché non occupano molto spazio. PDF Stampa è perfetto per la stampa grazie alla sua risoluzione più elevata rispetto a PDF Standard e ti consente di aggiungere segni di taglio e bleed per stampe dall'aspetto professionale."
+    },
+    "q4": {
+      "question": "Perché convertire HEIC in PDF?",
+      "answer": "I file HEIC convertiti in PDF diventano facili da condividere, aprire e scaricare su diversi dispositivi e sistemi operativi. Questo perché PDF è un formato di file aperto. La conversione di immagini HEIC in PDF comprime anche la loro dimensione del file, liberando spazio di archiviazione e risparmiando il costo di pagare per più. E nonostante le loro dimensioni ridotte, i file PDF mantengono la qualità e i dettagli delle immagini originali dopo la conversione."
+    },
+    "q5": {
+      "question": "Come convertire più file HEIC in PDF?",
+      "answer": "Il nostro convertitore HEIC in PDF online ti consente di convertire più file HEIC in un unico documento PDF. Trascina e rilascia semplicemente le immagini HEIC che desideri convertire nel tuo progetto di design. Aggiungi più pagine e organizza il loro layout in base a come vuoi che appaiano o in base al modello di progetto selezionato. Modifica ogni immagine e quindi scarica il tuo design in formato PDF Standard o PDF Stampa."
+    }
+  }
+}
+

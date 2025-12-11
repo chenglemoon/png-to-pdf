@@ -1,0 +1,302 @@
+{
+  "LanguageDetection": {
+    "title": "Language Suggestion",
+    "description": "We noticed your browser language differs from the current site language. You can switch languages anytime 👉",
+    "countdown": "Closing in {countdown} seconds"
+  },
+  "Header": {
+    "title": "PNG vers PDF",
+    "links": [
+      {
+        "href": "/image-to-pdf",
+        "name": "Image vers PDF"
+      },
+      {
+        "href": "/merge-jpg",
+        "name": "JPG vers PDF"
+      },
+      {
+        "href": "/pdf-to-jpg",
+        "name": "PDF vers JPG"
+      },
+      {
+        "href": "/pdf-to-png",
+        "name": "PDF vers PNG"
+      }
+    ]
+  },
+  "Footer": {
+    "title": "PNG vers PDF",
+    "tagLine": "Convertisseur gratuit de PNG en PDF en ligne",
+    "Copyright": "Copyright © {year} {name} All rights reserved.",
+    "PrivacyPolicy": "Privacy Policy",
+    "TermsOfService": "Terms of Service",
+    "Links": {
+      "groups": [
+        {
+          "title": "Products",
+          "links": [
+            {
+              "href": "/",
+              "name": "PNG vers PDF"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "links": [
+            {
+              "href": "mailto:hi@png-to-pdf.online",
+              "name": "Contact Us"
+            }
+          ]
+        },
+        {
+          "title": "Languages",
+          "links": [
+            {
+              "href": "/",
+              "name": "English",
+              "useA": true
+            },
+            {
+              "href": "/de",
+              "name": "Deutsch",
+              "useA": true
+            },
+            {
+              "href": "/es",
+              "name": "Español",
+              "useA": true
+            },
+            {
+              "href": "/fr",
+              "name": "Français",
+              "useA": true
+            },
+            {
+              "href": "/it",
+              "name": "Italiano",
+              "useA": true
+            },
+            {
+              "href": "/ja",
+              "name": "日本語",
+              "useA": true
+            },
+            {
+              "href": "/ko",
+              "name": "한국어",
+              "useA": true
+            },
+            {
+              "href": "/ru",
+              "name": "Русский",
+              "useA": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "Home": {
+    "title": "PNG en PDF – Convertir des images PNG au format PDF",
+    "tagLine": "Convertisseur professionnel PNG en PDF",
+    "description": "Ce convertisseur PNG en PDF en ligne gratuit vous permet de combiner plusieurs images PNG (ainsi que JPG, BMP, GIF et TIFF) en un seul fichier PDF.",
+    "keywords": "png en pdf, convertir png en pdf, convertisseur png en pdf, image en pdf, images png en pdf, png en pdf en ligne, convertisseur gratuit png en pdf, convertisseur png, convertisseur pdf, convertisseur d'image",
+    "meta": {
+      "title": "PNG en PDF – Convertir des images PNG au format PDF",
+      "description": "Ce convertisseur PNG en PDF en ligne gratuit vous permet de combiner plusieurs images PNG (ainsi que JPG, BMP, GIF et TIFF) en un seul fichier PDF."
+    },
+    "pageData": {
+      "tagLine": "Convertisseur professionnel PNG en PDF",
+      "description": "Ce convertisseur PNG en PDF en ligne gratuit vous permet de combiner plusieurs images PNG (ainsi que JPG, BMP, GIF et TIFF) en un seul fichier PDF."
+    },
+    "ctaButton": "PNG en PDF",
+    "howToUse": {
+      "label": "Comment utiliser",
+      "title": "Comment convertir plusieurs images en PDF en ligne ?",
+      "subtitle": "Le processus de conversion d'images en PDF est très simple et peut être complété en quelques clics seulement.",
+      "step1": {
+        "label": "1.Télécharger des images",
+        "title": "1.Télécharger des images",
+        "description": "Téléchargez une ou plusieurs images PNG dans notre convertisseur PNG en PDF."
+      },
+      "step2": {
+        "label": "2.Convertir en PDF",
+        "title": "2.Convertir en PDF",
+        "description": "Cliquez sur le bouton 'Convertir en PDF' pour démarrer le processus de conversion."
+      },
+      "step3": {
+        "label": "3.Télécharger les fichiers PDF",
+        "title": "3.Télécharger les fichiers PDF",
+        "description": "Une fois terminé, le fichier PDF sera automatiquement téléchargé."
+      }
+    },
+    "features": {
+      "title": "Quelles sont les fonctionnalités du convertisseur PNG en PDF ?",
+      "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur d'image en PDF en raison de ses fonctionnalités exceptionnelles.",
+      "feature1": {
+        "title": "Convertir des images en fichier PDF en 1 seconde",
+        "description": "Téléchargez une ou plusieurs images et obtenez un PDF prêt à l'emploi en seulement une seconde environ. Notre outil d'image en PDF assure une conversion ultra-rapide avec une expérience WYSIWYG fluide.",
+        "button": "Télécharger vos images"
+      },
+      "feature2": {
+        "title": "Le convertisseur d'image en PDF prend en charge plusieurs formats d'image",
+        "description": "Le convertisseur d'image en PDF prend entièrement en charge les formats d'image courants tels que Webp, JPG, PNG, BMP, etc., répondant aux besoins de conversion multi-scènes et facilitant l'opération.",
+        "button": "Télécharger votre image >>"
+      },
+      "feature3": {
+        "title": "Créer un PDF imprimable avec l'outil image en PDF",
+        "description": "Après avoir créé plusieurs images, vous pouvez utiliser directement notre convertisseur d'image en PDF pour créer un document PDF. C'est simple et pratique, sans avoir à trouver un convertisseur PDF séparé. Connexion fluide, amélioration de l'efficacité de 10 fois.",
+        "button": "Créer un PDF"
+      }
+    },
+    "testimonials": {
+      "title": "Témoignages d'utilisateurs sur le convertisseur d'image en PDF",
+      "subtitle": "De nombreux utilisateurs ont très apprécié notre outil d'image en PDF après l'avoir utilisé.",
+      "testimonial1": {
+        "content": "J'ai téléchargé plus d'une douzaine d'images et la conversion a été effectuée en moins de deux secondes—super rapide ! La mise en page PDF était propre et la qualité de l'image est restée intacte. Vraiment une excellente expérience utilisateur.",
+        "role": "Designer"
+      },
+      "testimonial2": {
+        "content": "J'ai testé des images dans différents formats, y compris PNG et TIFF, et tout s'est converti sans problème. Aucune inscription requise, pas de publicités et l'interface est propre—parfait pour un usage quotidien au bureau.",
+        "role": "Assistant"
+      },
+      "testimonial3": {
+        "content": "Je collectionne souvent des dessins au trait pour mon enfant, et cet outil me permet de les transformer en PDFs imprimables en un clic. Super pratique pour créer des livres de coloriage pour enfants.",
+        "role": "Parent"
+      }
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Questions fréquemment posées",
+      "subtitle": "Vous avez une question ? Nous sommes là pour vous aider. Vous cherchez encore des réponses ? Visitez notre Centre d'assistance.",
+      "q1": {
+        "question": "Qu'est-ce qu'un convertisseur d'image en PDF ?",
+        "answer": "C'est un convertisseur de fichiers en ligne conçu pour convertir plusieurs images en fichiers PDF selon la taille de page spécifiée."
+      },
+      "q2": {
+        "question": "Quels formats d'image puis-je convertir ?",
+        "answer": "Presque tous les formats d'image sont pris en charge, y compris, mais sans s'y limiter, Webp, JPG et PNG."
+      },
+      "q3": {
+        "question": "Puis-je ajuster la mise en page du PDF ?",
+        "answer": "Bien sûr, vous pouvez ajuster la taille de la page, généralement A4, et vous pouvez également ajuster la mise en page de la page."
+      },
+      "q4": {
+        "question": "Puis-je télécharger plusieurs images à la fois ?",
+        "answer": "Bien sûr, vous pouvez télécharger 1 image ou vous pouvez télécharger 10 images à la fois. Choisissez simplement les photos à télécharger selon vos besoins."
+      },
+      "q5": {
+        "question": "Puis-je essayer votre convertisseur d'image en PDF gratuitement ?",
+        "answer": "Bien sûr, nous fournissons des services en ligne complètement gratuits, 100% gratuits à utiliser."
+      }
+    },
+    "getStartedWithTools": {
+      "title": "Commencer avec les outils",
+      "subtitle": "Cliquez sur un outil pour ouvrir le chargeur de fichiers",
+      "searchPlaceholder": "Rechercher un outil (par exemple, 'diviser', 'organiser'...)",
+      "categories": {
+        "convertToPdf": {
+          "name": "Convertir en PDF",
+          "tools": {
+            "imageToPdf": {
+              "name": "Image en PDF",
+              "subtitle": "Convertissez JPG, PNG, WebP, BMP, TIFF, SVG, HEIC en PDF."
+            },
+            "jpgToPdf": {
+              "name": "JPG en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images JPG."
+            },
+            "pngToPdf": {
+              "name": "PNG en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images PNG."
+            },
+            "webpToPdf": {
+              "name": "WebP en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images WebP."
+            },
+            "svgToPdf": {
+              "name": "SVG en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images SVG."
+            },
+            "bmpToPdf": {
+              "name": "BMP en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images BMP."
+            },
+            "heicToPdf": {
+              "name": "HEIC en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images HEIC."
+            },
+            "tiffToPdf": {
+              "name": "TIFF en PDF",
+              "subtitle": "Créez un PDF à partir d'une ou plusieurs images TIFF."
+            },
+            "textToPdf": {
+              "name": "Texte en PDF",
+              "subtitle": "Convertissez un fichier texte brut en PDF."
+            }
+          }
+        },
+        "convertFromPdf": {
+          "name": "Convertir depuis PDF",
+          "tools": {
+            "pdfToJpg": {
+              "name": "PDF en JPG",
+              "subtitle": "Convertissez chaque page PDF en image JPG."
+            },
+            "pdfToPng": {
+              "name": "PDF en PNG",
+              "subtitle": "Convertissez chaque page PDF en image PNG."
+            },
+            "pdfToWebp": {
+              "name": "PDF en WebP",
+              "subtitle": "Convertissez chaque page PDF en image WebP."
+            },
+            "pdfToBmp": {
+              "name": "PDF en BMP",
+              "subtitle": "Convertissez chaque page PDF en image BMP."
+            },
+            "pdfToTiff": {
+              "name": "PDF en TIFF",
+              "subtitle": "Convertissez chaque page PDF en image TIFF."
+            }
+          }
+        }
+      }
+    }
+  },
+  "Blogs": {
+    "title": "Blog PNG vers PDF",
+    "description": "Découvrez les dernières fonctionnalités, conseils et mises à jour sur PNG vers PDF - votre outil ultime de conversion PDF.",
+    "emptyState": {
+      "title": "Aucun article de blog",
+      "description": "Nous créons du contenu passionnant sur la conversion PDF, restez à l'écoute !"
+    },
+    "loadMorePostsFailed": "Échec du chargement d'autres articles",
+    "loadMorePosts": "Chargement d'autres articles...",
+    "filterPostsFailed": "Échec du chargement des articles",
+    "noPostsFoundForThisTag": "Aucun article trouvé pour cette catégorie",
+    "reachedTheEnd": "Vous avez atteint la fin de tous les articles",
+    "BlogDetail": {
+      "featured": "Article en Vedette",
+      "accessRestricted": "Accès Restreint",
+      "unauthorized": "Cet article n'est disponible que pour les utilisateurs connectés",
+      "premium": "Contenu Premium",
+      "premiumContent": "Cet article est exclusif aux abonnés",
+      "signIn": "Se Connecter",
+      "upgrade": "Mettre à Niveau",
+      "backToBlogs": "Retour à la Liste des Blogs",
+      "notFound": "Article Non Trouvé"
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Privacy Policy"
+  }
+}

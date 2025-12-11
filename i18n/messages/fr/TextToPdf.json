@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "title": "Convertir du texte en pdf - Convertisseur gratuit text to pdf",
+    "description": "Notre convertir texte en pdf est un convertisseur en ligne qui convertit n'importe quel fichier texte en PDF de manière efficace en quelques secondes.",
+    "keywords": "texte vers pdf, convertir texte vers pdf, txt vers pdf, convertisseur texte vers pdf, fichier texte vers pdf, texte vers pdf en ligne, convertisseur gratuit texte vers pdf, convertisseur de texte, convertisseur pdf"
+  },
+  "hero": {
+    "title": "Convertir Texte en PDF",
+    "uploadTitle": "Texte vers PDF",
+    "mainTitle": {
+      "line1": "Transformer",
+      "line2": "les fichiers texte",
+      "line3": "en PDF",
+      "line4": ""
+    },
+    "description": "Dites adieu aux tracas de formatage, utilisez notre convertisseur de texte en PDF pour convertir sans effort plusieurs fichiers texte en PDF de haute qualité.",
+    "dragText": "Glissez-déposez le fichier TXT ici",
+    "selectText": "ou cliquez pour sélectionner des fichiers (plusieurs fichiers pris en charge)",
+    "clickToSelect": "Cliquez pour sélectionner un fichier ou glissez-déposez",
+    "fileTypes": "Fichiers texte",
+    "privacy": "Vos fichiers ne quittent jamais votre appareil.",
+    "format": "Format TXT",
+    "maxSize": "Max 50MB"
+  },
+  "startTyping": "Commencez à taper...",
+  "startOver": "Recommencer",
+  "back": "Retour",
+  "proceed": "Continuer",
+  "convert": "Convertir",
+  "converting": "Conversion",
+  "upload": "Télécharger",
+  "words": "Mots",
+  "characters": "Caractères",
+  "pageOrientation": "Orientation de page",
+  "pageMargin": "Marge de page",
+  "noMargin": "Sans marge",
+  "fileList": {
+    "title": "{count} fichier(s) sélectionné(s)",
+    "clearAll": "Tout effacer",
+    "addMore": "Ajouter plus de fichiers"
+  },
+  "preview": {
+    "title": "Aperçu des fichiers ({current} / 50)",
+    "clearAll": "TOUT EFFACER",
+    "uploadPlaceholder": "Cliquez ou glissez pour ajouter des fichiers texte",
+    "addMore": "Ajouter plus",
+    "downloadPdf": "TÉLÉCHARGER PDF"
+  },
+  "pageSize": {
+    "label": "Taille de page",
+    "placeholder": "Sélectionner la taille de page",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3"
+  },
+  "orientation": {
+    "label": "Orientation",
+    "placeholder": "Sélectionner l'orientation",
+    "portrait": "Portrait",
+    "landscape": "Paysage"
+  },
+  "fontSize": {
+    "label": "Taille de police",
+    "placeholder": "Sélectionner la taille de police",
+    "small": "Petit (10pt)",
+    "medium": "Moyen (12pt)",
+    "large": "Grand (14pt)",
+    "xlarge": "Très grand (16pt)"
+  },
+  "convertButton": "Convertir en PDF",
+  "processing": {
+    "title": "Création du PDF à partir des fichiers texte...",
+    "subtitle": "Veuillez patienter, cela peut prendre quelques secondes"
+  },
+  "messages": {
+    "filesAdded": "{count} fichier(s) ajouté(s)",
+    "convertSuccess": "{count} fichier(s) texte converti(s) avec succès en PDF"
+  },
+  "errors": {
+    "notText": "Veuillez sélectionner des fichiers au format texte (.txt)",
+    "unsupportedFormat": "Format de fichier non pris en charge. Veuillez sélectionner des fichiers .txt.",
+    "fileTooLarge": "La taille du fichier ne peut pas dépasser 50MB",
+    "noFiles": "Veuillez sélectionner au moins un fichier texte",
+    "processFileFailed": "Échec du traitement du fichier {fileName}",
+    "convertFailed": "La conversion a échoué. Veuillez vous assurer que tous les fichiers sont des fichiers texte valides",
+    "readFileFailed": "Échec de la lecture du fichier {fileName}"
+  },
+  "features": {
+    "title": "Quelles sont les fonctionnalités du convertisseur Texte vers PDF?",
+    "subtitle": "Plus de 300k utilisateurs choisissent d'utiliser notre convertisseur Texte vers PDF en raison de ses fonctionnalités exceptionnelles.",
+    "feature1": {
+      "title": "Convertir Texte en PDF en quelques secondes",
+      "description": "Tapez, collez ou téléchargez vos fichiers texte et obtenez un document PDF professionnel en quelques secondes. Notre outil Texte vers PDF assure une conversion ultra-rapide avec une expérience parfaite et conviviale. Aucune installation ou inscription requise.",
+      "button": "Commencer la conversion"
+    },
+    "feature2": {
+      "title": "Éditeur de texte enrichi avec formatage avancé",
+      "description": "Formatez votre contenu avec notre puissant éditeur de texte enrichi. Personnalisez la taille de police, le style, les couleurs, ajoutez du gras, de l'italique, du soulignement, des listes, des tableaux, des images et plus encore. Créez des documents d'aspect professionnel avec facilité avant de convertir en PDF.",
+      "button": "Essayer l'éditeur >>"
+    },
+    "feature3": {
+      "title": "Paramètres PDF personnalisables",
+      "description": "Contrôlez chaque aspect de votre sortie PDF. Choisissez la taille de page (A4, Letter, Legal, etc.), l'orientation (portrait ou paysage) et les marges. Créez des PDFs adaptés à vos besoins spécifiques, que ce soit pour l'impression, le partage ou l'archivage.",
+      "button": "Créer un PDF"
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages d'utilisateurs sur le convertisseur Texte vers PDF",
+    "subtitle": "De nombreux utilisateurs ont beaucoup loué notre outil Texte vers PDF après l'avoir utilisé.",
+    "testimonial1": {
+      "content": "J'ai téléchargé plus d'une douzaine de fichiers texte et la conversion a été effectuée en moins de deux secondes—super rapide! La mise en page PDF était propre et le formatage est resté intact. Vraiment excellente expérience utilisateur.",
+      "role": "Écrivain"
+    },
+    "testimonial2": {
+      "content": "J'ai testé des fichiers texte de différentes tailles, et tout s'est converti sans problème. Aucune inscription requise, pas de publicités, et l'interface est propre—parfait pour un usage quotidien au bureau.",
+      "role": "Assistant"
+    },
+    "testimonial3": {
+      "content": "Je collectionne souvent des fichiers texte pour mes projets, et cet outil me permet de les transformer en PDFs imprimables en un clic. Super pratique pour créer des documents professionnels.",
+      "role": "Étudiant"
+    }
+  },
+  "faq": {
+    "title": "FAQ Texte vers PDF",
+    "q1": {
+      "question": "Quel est le but de convertir Texte en PDF?",
+      "answer": "Les documents texte sont convertis en PDF pour assurer un formatage cohérent et une présentation professionnelle. De plus, les PDFs sont compatibles avec tous les appareils, contrairement aux fichiers de traitement de texte. Un autre objectif commun de la conversion Texte vers PDF est les fonctionnalités de sécurité des PDFs comme la protection par mot de passe et les restrictions d'édition."
+    },
+    "q2": {
+      "question": "Comment puis-je convertir mon texte en PDF?",
+      "answer": "Collez ou téléchargez votre texte dans notre convertisseur Texte vers PDF en ligne, faites des ajustements en utilisant les options d'édition, et appuyez sur le bouton \"Convertir en PDF\". Le convertisseur effectuera un traitement immédiat et fournira un fichier PDF que vous pouvez télécharger."
+    },
+    "q3": {
+      "question": "L'outil TXT vers PDF peut-il convertir les messages texte en PDF?",
+      "answer": "Oui, le convertisseur TXT vers PDF peut convertir les messages texte en fichiers PDF. Le processus est similaire à la conversion de fichiers texte standard: entrez simplement vos messages texte, et le convertisseur de texte copié vers PDF générera un document PDF pour vous."
+    },
+    "q4": {
+      "question": "Puis-je convertir plusieurs fichiers texte à la fois?",
+      "answer": "Oui, notre convertisseur Txt vers PDF est capable de convertir plusieurs fichiers texte simultanément en un seul clic."
+    },
+    "q5": {
+      "question": "Comment convertir le texte copié en PDF?",
+      "answer": "Simplement, collez le texte copié dans la zone de saisie de notre convertisseur Texte vers PDF. Ensuite, cliquez sur le bouton \"Convertir en PDF\" pour démarrer la conversion. Notre outil convertira rapidement votre texte copié et collé en un fichier PDF."
+    }
+  },
+  "tableDialog": {
+    "title": "Insérer un tableau",
+    "description": "Sélectionnez le nombre de lignes et de colonnes pour le tableau",
+    "rows": "Lignes",
+    "cols": "Colonnes",
+    "withHeader": "Inclure la ligne d'en-tête",
+    "cancel": "Annuler",
+    "insert": "Insérer"
+  },
+  "howToUse": {
+    "label": "Comment utiliser",
+    "title": "Comment convertir Texte en PDF",
+    "subtitle": "Suivez ces étapes simples pour convertir vos fichiers texte en documents PDF",
+    "step": "Étape",
+    "step1": {
+      "title": "Tapez, collez ou téléchargez votre texte",
+      "description": "Commencez par taper directement dans l'éditeur, coller votre contenu de n'importe quelle source, ou utiliser le bouton de téléchargement pour fournir un fichier TXT."
+    },
+    "step2": {
+      "title": "Formatez votre contenu",
+      "description": "Utilisez l'éditeur de texte enrichi pour formater votre contenu. Changez la taille de police, le style, ajoutez des effets de gras ou d'italique, et personnalisez l'apparence de votre texte."
+    },
+    "step3": {
+      "title": "Définissez les options de page et convertissez",
+      "description": "Cliquez sur 'Continuer' pour définir vos options PDF incluant l'orientation de page (portrait/paysage), la taille de page (A4, Letter, etc.) et les marges. Ensuite, cliquez sur 'Convertir' pour générer votre PDF."
+    },
+    "step4": {
+      "title": "Téléchargez votre PDF",
+      "description": "Une fois la conversion terminée, votre fichier PDF sera automatiquement téléchargé. Vous pouvez maintenant partager, imprimer ou stocker votre document."
+    }
+  }
+}
+

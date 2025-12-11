@@ -1,0 +1,200 @@
+{
+  "hero": {
+    "title": "Flip Image Online Free - Professional Image Flipper Tool",
+    "description": "Flip image online effortlessly with our advanced free image flipper tool. Mirror and rotate images horizontally, vertically, or rotate them 90°/180°/270°. Perfect for photo editing, social media, and creative projects. No software installation required - process images directly in your browser!",
+    "uploadTitle": "Upload Image",
+    "dragText": "Drag & drop an image here",
+    "selectText": "or click to select a file",
+    "formats": "Supports JPG, PNG, WebP formats",
+    "maxSize": "Max file size: 50MB",
+    "processing": "Processing...",
+    "defaultImageHint": "Using sample image. Upload your own image for custom processing.",
+    "features": {
+      "instant": "Instant Processing",
+      "secure": "100% Secure",
+      "mobile": "Mobile Friendly",
+      "quality": "High Quality"
+    },
+    "tryBelow": "Try it yourself below",
+    "tryNow": "Try It Now - Upload Your Image",
+    "startFlipping": "Start flipping your images instantly. No registration required."
+  },
+  "options": {
+    "title": "Flip Options",
+    "flipOptions": "Flip Options",
+    "horizontalFlip": "Horizontal Flip",
+    "verticalFlip": "Vertical Flip",
+    "rotation": "Rotation",
+    "rotation0": "0° (No rotation)",
+    "rotation90": "90° (Clockwise)",
+    "rotation180": "180° (Half turn)",
+    "rotation270": "270° (Counter-clockwise)",
+    "advancedSettings": "Advanced Settings",
+    "outputFormat": "Output Format",
+    "quality": "Quality",
+    "flipButton": "Flip Image",
+    "resetButton": "Reset to Original",
+    "downloadButton": "Download Image",
+    "selectTransform": "Select at least one transformation to proceed"
+  },
+  "preview": {
+    "title": "Image Preview",
+    "resultTitle": "Flip Result",
+    "clickToUpload": "Click to upload a new image"
+  },
+  "errors": {
+    "unsupportedFormat": "Only JPG, PNG, and WebP formats are supported",
+    "fileTooLarge": "File size must be less than 50MB",
+    "loadFailed": "Failed to load image",
+    "processFailed": "Failed to process image"
+  },
+  "messages": {
+    "flipSuccess": "Image flipped successfully!",
+    "imageDownloaded": "Image downloaded successfully!",
+    "realTimePreview": "Changes are applied in real-time"
+  },
+  "howToUse": {
+    "title": "How to Use - Simple Steps",
+    "step1": {
+      "title": "Upload Your Image",
+      "description": "Drag and drop your image or click to select from your device to flip image. Supports JPG, PNG, and WebP formats up to 50MB."
+    },
+    "step2": {
+      "title": "Choose Transform Options",
+      "description": "Select horizontal flip image, vertical mirror, rotation angle, or combine multiple transformations. Preview changes in real-time before processing."
+    },
+    "step3": {
+      "title": "Download Result",
+      "description": "Download your transformed image instantly after processing. Choose output format and quality settings for optimal results."
+    },
+    "optionsTitle": "Transform Options Explained",
+    "horizontal": {
+      "title": "Horizontal Mirror",
+      "description": "Mirror images left to right when you flip image, creating a perfect reflection effect like looking in a mirror"
+    },
+    "vertical": {
+      "title": "Vertical Mirror",
+      "description": "Mirror images top to bottom, flipping them upside down for creative effects"
+    },
+    "rotate": {
+      "title": "Image Rotation",
+      "description": "Rotate images in 90° increments: 90°, 180°, or 270° combined with flip image operations"
+    },
+    "tips": {
+      "title": "Pro Tips",
+      "tip1": "Combine multiple transformations for unique creative effects",
+      "tip2": "Use high-quality settings for professional prints",
+      "tip3": "All processing happens locally in your browser for complete privacy"
+    }
+  },
+  "examples": {
+    "badge": "Examples",
+    "title": "Image Flipping Examples",
+    "subtitle": "See how easy it is to flip, mirror, and rotate your images with our free online tool. Try it yourself below!",
+    "before": "BEFORE",
+    "after": "AFTER",
+    "items": {
+      "horizontal": {
+        "title": "Flip Image Horizontally",
+        "description": "Create perfect mirror effects by flipping images left to right, ideal for artistic compositions."
+      },
+      "vertical": {
+        "title": "Flip Image Vertically",
+        "description": "Flip images upside down for creative effects or to correct inverted photos."
+      },
+      "rotate": {
+        "title": "Flip Image Rotate Image",
+        "description": "Rotate images in 90° increments to fix orientation or create dynamic compositions."
+      },
+      "mirror": {
+        "title": "Mirror Image",
+        "description": "Create perfect mirror effects with horizontal and vertical flipping options."
+      }
+    }
+  },
+  "features": {
+    "title": "Flip Image Features",
+    "coreFeature": "Core Feature",
+    "horizontal": {
+      "title": "Horizontal Flip",
+      "description": "Create perfect mirror effects when you flip image horizontally left to right. Ideal for artistic compositions and correcting selfie orientations with professional results."
+    },
+    "vertical": {
+      "title": "Vertical Flip",
+      "description": "Flip image upside down for creative effects or to correct inverted photos. Perfect for reflection effects and unique perspectives using our advanced technology."
+    },
+    "rotate": {
+      "title": "Image Rotation",
+      "description": "Rotate and flip image in 90° increments to fix orientation issues or create dynamic compositions. Supports 90°, 180°, and 270° rotations combined with mirror operations."
+    },
+    "instant": {
+      "title": "Instant Processing",
+      "description": "Get your flip image results immediately with our fast processing engine. No waiting, no delays when transforming images online."
+    },
+    "fast": {
+      "title": "Lightning Fast",
+      "description": "Process images in under a second with our optimized algorithms. Experience the speed of modern web technology."
+    },
+    "secure": {
+      "title": "100% Secure",
+      "description": "All processing happens in your browser. Your images never leave your device, ensuring complete privacy when editing online."
+    },
+    "responsive": {
+      "title": "Mobile Friendly",
+      "description": "Works perfectly on all devices - desktop, tablet, and mobile. Flip images anywhere, anytime."
+    },
+    "quality": {
+      "title": "High Quality",
+      "description": "Maintain image quality with lossless processing. Support for high-resolution images and professional formats."
+    },
+    "formats": {
+      "title": "Multiple Formats",
+      "description": "Support for JPG, PNG, and WebP formats with customizable quality settings for optimal file size."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our image transformation tool",
+    "q1": {
+      "question": "How to make an image flip on iPhone?",
+      "answer": "Go to the App Store and download our iOS app to flip your phone images. Upload your image, then select it. On the toolbar, click Flip (arrow circling back icon). Click Flip horizontal or Flip vertical. Once done, tap outside the layout to hide the toolbar and save your flipped image. That's it; no hidden controls or secret keyboard shortcuts necessary with our convenient app."
+    },
+    "q2": {
+      "question": "How to mirror or flip an image on Android?",
+      "answer": "Head over to Google Play and download our Android app to flip your phone images. Upload your image then tap on it; a white border should appear around the image to indicate it has been selected. On the bottom toolbar, click Flip then choose between Flip horizontal or Flip vertical. With our free image flip tool, you've got everything you need in a simple, intuitive interface."
+    },
+    "q3": {
+      "question": "When would you need to flip an image?",
+      "answer": "Flipping an image can be a great way to get a photo to look the way you want it. An image mirror flip can have added symmetry or improved orientation, making it better-looking than the original. Furthermore, our eyes are often drawn from left to right when looking at a photo. Flipping an image can adjust the direction and create a momentum that feels natural and easy."
+    },
+    "q4": {
+      "question": "What image formats are supported?",
+      "answer": "Our tool supports JPG, PNG, and WebP formats. These are the most common image formats used on the web and provide excellent quality. All formats maintain perfect quality during processing."
+    },
+    "q5": {
+      "question": "Is there a file size limit?",
+      "answer": "Yes, the maximum file size is 50MB per image. This limit ensures fast processing while accommodating most high-resolution photos. For larger files, consider compressing your image first."
+    },
+    "q6": {
+      "question": "Is my image data safe and private?",
+      "answer": "Absolutely! All image processing happens directly in your browser using advanced web technologies. Your images never leave your device, ensuring complete privacy and security. We don't store or have access to any of your images."
+    },
+    "q7": {
+      "question": "Is this image flipper free to use?",
+      "answer": "Yes! Our image flipper is completely free to use with no hidden fees or subscription required. You can flip, rotate, and download unlimited images without any watermarks or restrictions."
+    },
+    "q8": {
+      "question": "Can I use this as an image mirror tool?",
+      "answer": "Absolutely! Our tool works perfectly as an image mirror flipper. Simply upload your image and use the horizontal flip option to create a perfect mirror effect of your photo."
+    },
+    "q9": {
+      "question": "How do I flip an image 90 degrees?",
+      "answer": "To flip an image 90 degrees, upload your photo and select the 90° rotation option from our rotation controls. You can rotate clockwise or counter-clockwise to achieve the perfect orientation."
+    },
+    "q10": {
+      "question": "How to flip an image on computer?",
+      "answer": "Our web-based image flipper works directly in your browser - no software installation needed! Just visit our website, upload your image, apply the flip or rotation you want, and download the result. It works on any computer with a web browser."
+    }
+  }
+}
+

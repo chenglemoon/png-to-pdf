@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Convertitore da PDF a TIFF gratis - Convertire PDF in TIFF online",
+    "description": "Converti PDF in TIFF da condividere su qualsiasi piattaforma in alta qualità con il convertitore PDF in TIFF gratuito.",
+    "keywords": "pdf in tiff, converti pdf in tiff, pdf in immagine, pdf in jpeg, pdf in jpg, pdf in png, pdf in webp, pdf in bmp, estrai immagini da pdf, convertitore pdf, pdf in tiff online, convertitore gratuito pdf in tiff"
+  },
+  "hero": {
+    "title": "Convertitore da PDF a TIFF gratis",
+    "uploadTitle": "PDF in TIFF",
+    "mainTitle": {
+      "line1": "Trasforma",
+      "line2": "pagine PDF",
+      "line3": "in TIFF",
+      "line4": ""
+    },
+    "description": "Trasforma PDF in TIFF per convertire contenuti in immagini TIFF online utilizzando il convertitore PDF in TIFF gratuito da qualsiasi dispositivo.",
+    "dragText": "Trascina e rilascia il file PDF qui",
+    "selectText": "o clicca per selezionare un file",
+    "clickToSelect": "Clicca per selezionare un file o trascina e rilascia",
+    "fileTypes": "File PDF",
+    "privacy": "I tuoi file non lasciano mai il tuo dispositivo.",
+    "format": "Formato PDF",
+    "maxSize": "Max 50MB"
+  },
+  "preview": {
+    "title": "Anteprima pagine PDF ({current} / {total})",
+    "clearAll": "CANCELLA TUTTO",
+    "uploadPlaceholder": "Clicca o trascina per aggiungere file PDF",
+    "addMore": "Aggiungi di più",
+    "downloadAll": "SCARICA TUTTO COME ZIP",
+    "downloadSingle": "SCARICA",
+    "page": "Pagina"
+  },
+  "upload": "Carica",
+  "imageQuality": {
+    "label": "Qualità immagine",
+    "placeholder": "Seleziona qualità",
+    "low": "Bassa (Dimensione file più piccola)",
+    "medium": "Media (Bilanciata)",
+    "high": "Alta (Dimensione file più grande)"
+  },
+  "convertButton": "Converti in TIFF",
+  "processing": {
+    "title": "Conversione PDF in TIFF...",
+    "subtitle": "Attendere, potrebbe richiedere alcuni secondi"
+  },
+  "messages": {
+    "fileAdded": "File PDF aggiunto con successo",
+    "convertSuccess": "Convertito/i con successo {count} pagina/e in TIFF"
+  },
+  "errors": {
+    "notPdf": "Seleziona un file PDF",
+    "unsupportedFormat": "Formato file non supportato. Seleziona un file PDF.",
+    "fileTooLarge": "La dimensione del file non può superare 50MB",
+    "noFile": "Seleziona un file PDF",
+    "processFileFailed": "Impossibile elaborare il file PDF",
+    "convertFailed": "Conversione fallita. Assicurati che il file PDF sia valido",
+    "readFileFailed": "Impossibile leggere il file PDF",
+    "createZipFailed": "Impossibile creare il file ZIP"
+  },
+  "features": {
+    "title": "Quali sono le caratteristiche del convertitore PDF in TIFF?",
+    "subtitle": "Più di 300k utenti scelgono di utilizzare il nostro convertitore PDF in TIFF per le sue caratteristiche eccezionali.",
+    "feature1": {
+      "title": "Converti PDF in TIFF in pochi secondi",
+      "description": "Carica il tuo file PDF ed estrai tutte le pagine come immagini TIFF di alta qualità in pochi secondi. Il nostro strumento PDF in TIFF garantisce una conversione rapida con un'eccellente preservazione della qualità dell'immagine.",
+      "button": "Inizia la conversione"
+    },
+    "feature2": {
+      "title": "Uscita immagine di alta qualità",
+      "description": "Ottieni immagini TIFF nitide e chiare dalle tue pagine PDF. Il formato TIFF fornisce opzioni di compressione senza perdita, perfetto per preservare la qualità e i dettagli massimi dell'immagine per uso professionale.",
+      "button": "Prova il convertitore >>"
+    },
+    "feature3": {
+      "title": "Download in batch di tutte le pagine",
+      "description": "Scarica tutte le pagine PDF come immagini TIFF individuali o ottieni tutte in un file ZIP conveniente. Perfetto per estrarre immagini da documenti, presentazioni o rapporti.",
+      "button": "Converti ora"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonianze degli utenti sul convertitore PDF in TIFF",
+    "subtitle": "Molti utenti hanno elogiato molto il nostro strumento PDF in TIFF dopo averlo utilizzato.",
+    "testimonial1": {
+      "content": "Avevo bisogno di estrarre immagini da un PDF di 50 pagine per la stampa professionale. Questo strumento ha convertito tutte le pagine in TIFF in meno di un minuto. La qualità dell'immagine era eccellente e non compressa, perfetta per le mie esigenze.",
+      "role": "Professionista della Stampa"
+    },
+    "testimonial2": {
+      "content": "Perfetto per estrarre pagine da documenti PDF. Il formato TIFF mi dà immagini senza perdita, fondamentale per il mio lavoro di archiviazione. Nessuna registrazione richiesta, funziona alla grande!",
+      "role": "Archivista"
+    },
+    "testimonial3": {
+      "content": "Uso regolarmente questo per convertire pagine PDF in immagini per flussi di lavoro di scansione professionale. Il formato TIFF assicura qualità massima senza artefatti di compressione. Altamente raccomandato!",
+      "role": "Specialista Documenti"
+    }
+  },
+  "howToUse": {
+    "label": "Come usare",
+    "title": "Come convertire PDF in TIFF",
+    "subtitle": "Segui questi semplici passaggi per convertire le tue pagine PDF in immagini TIFF",
+    "step": "Passo",
+    "step1": {
+      "title": "Carica il tuo file PDF",
+      "description": "Trascina e rilascia il tuo file PDF nell'area di caricamento o clicca per selezionare un file. Il nostro strumento supporta file PDF fino a 50MB."
+    },
+    "step2": {
+      "title": "Seleziona la qualità dell'immagine",
+      "description": "Scegli la tua impostazione di qualità dell'immagine preferita: Bassa per dimensioni di file più piccole, Media per qualità bilanciata o Alta per massima chiarezza."
+    },
+    "step3": {
+      "title": "Anteprima e download",
+      "description": "Visualizza tutte le pagine convertite nell'area di anteprima. Scarica immagini TIFF individuali o ottieni tutte le pagine contemporaneamente in un file ZIP conveniente."
+    }
+  },
+  "faq": {
+    "title": "FAQ PDF in TIFF",
+    "q1": {
+      "question": "Come convertire PDF in TIFF?",
+      "answer": "I file TIFF sono supportati universalmente, quindi sono ideali per la visualizzazione, la condivisione e il caricamento facili di file. Converti PDF in TIFF utilizzando il nostro convertitore gratuito PDF in TIFF online. Puoi facilmente migliorare o aggiungere abbellimenti al tuo design, quindi scaricare il tuo lavoro come file TIFF."
+    },
+    "q2": {
+      "question": "Posso convertire PDF in TIFF?",
+      "answer": "Assolutamente! Carica semplicemente il tuo file PDF nel nostro convertitore gratuito PDF in TIFF e guarda la magia. Puoi persino rendere le tue immagini più attraenti usando il nostro editor incorporato per migliorare le tue immagini e aggiungere elementi di design accattivanti al tuo lavoro."
+    },
+    "q3": {
+      "question": "In che modo TIFF differisce da PDF?",
+      "answer": "Rispetto a un file PDF, le immagini TIFF sono progettate per essere condivise su piattaforme digitali perché possono preservare la qualità di un file anche con la loro dimensione di file significativamente più piccola. Le immagini TIFF supportano anche la compressione senza perdita così puoi incorporare elementi di design o sovrapporre la tua immagine su altre risorse che condividerai."
+    }
+  }
+}
+

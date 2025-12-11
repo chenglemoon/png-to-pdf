@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "图片转PDF转换器 | 在线将图片转换为PDF",
+    "description": "免费将JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF图片转换为PDF文件。我们的在线图片转PDF转换工具只需点击几下即可从图片或照片创建PDF。无需注册。",
+    "keywords": "图片转pdf, 将图片转换为pdf, jpg转pdf, png转pdf, webp转pdf, bmp转pdf, tiff转pdf, svg转pdf, heic转pdf, 图片转pdf转换器, 在线图片转pdf, 免费图片转pdf转换器"
+  },
+  "hero": {
+    "title": "将图片转换为PDF",
+    "uploadTitle": "图片转PDF",
+    "mainTitle": {
+      "line1": "将",
+      "line2": "图片转换为",
+      "line3": "PDF",
+      "line4": "文档"
+    },
+    "description": "轻松免费地将您的图片（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF）转换为普遍兼容的PDF文档。",
+    "dragText": "在此拖放图片（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF）",
+    "selectText": "或点击选择文件（支持多个文件）",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "PDF或图片",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF",
+    "maxSize": "最大50MB"
+  },
+  "fileList": {
+    "title": "已选择{count}个文件",
+    "clearAll": "清除全部",
+    "addMore": "添加更多文件"
+  },
+  "preview": {
+    "title": "图片预览（{current} / 50）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加图片",
+    "addMore": "添加更多",
+    "downloadPdf": "下载PDF"
+  },
+  "pageSize": {
+    "label": "页面大小",
+    "placeholder": "选择页面大小",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "适应图片"
+  },
+  "orientation": {
+    "label": "方向",
+    "placeholder": "选择方向",
+    "portrait": "纵向",
+    "landscape": "横向"
+  },
+  "pdfQuality": {
+    "label": "PDF质量",
+    "placeholder": "选择质量",
+    "low": "低质量（文件大小较小）",
+    "medium": "中等质量（平衡）",
+    "high": "高质量（文件大小较大）",
+    "description": "控制嵌入PDF时的图像压缩"
+  },
+  "convertButton": "转换为PDF",
+  "processing": {
+    "title": "正在从图片创建PDF...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "filesAdded": "已添加{count}个文件",
+    "convertSuccess": "成功将{count}个图片文件转换为PDF"
+  },
+  "errors": {
+    "notImage": "请选择图片文件",
+    "unsupportedFormat": "不支持的图片格式。请选择JPG、PNG、WebP、BMP、TIFF、SVG或HEIC/HEIF文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFiles": "请至少选择一个图片文件",
+    "processFileFailed": "处理文件{fileName}失败",
+    "convertFailed": "转换失败。请确保所有文件都是有效的图片文件"
+  },
+  "features": {
+    "title": "图片转PDF转换器的功能是什么？",
+    "subtitle": "超过30万用户选择使用我们的图片转PDF转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "1秒内将图片转换为PDF文件",
+      "description": "上传一个或多个图片，只需约一秒钟即可获得可用的PDF。我们的图片转PDF工具确保超快速转换，提供完美的WYSIWYG体验。",
+      "button": "上传您的图片"
+    },
+    "feature2": {
+      "title": "图片转PDF转换器支持多种图片格式",
+      "description": "图片转PDF转换器完全支持常见图片格式，如Webp、JPG、PNG、BMP等，满足多场景转换需求，使操作更加简单。",
+      "button": "上传您的图片 >>"
+    },
+    "feature3": {
+      "title": "使用图片转PDF工具创建可打印的PDF",
+      "description": "创建多个图片后，您可以直接使用我们的图片转PDF转换器制作PDF文档。这简单方便，无需寻找单独的PDF转换器。无缝连接，效率提高10倍。",
+      "button": "制作PDF"
+    }
+  },
+  "testimonials": {
+    "title": "用户对图片转PDF转换器的评价",
+    "subtitle": "许多用户在使用我们的图片转PDF工具后给予了高度评价。",
+    "testimonial1": {
+      "content": "我上传了十几个图片，转换在不到两秒内完成—超快！PDF布局干净，图片质量保持完整。真是很棒的用户体验。",
+      "role": "设计师"
+    },
+    "testimonial2": {
+      "content": "我测试了不同格式的图片，包括PNG和TIFF，一切都转换顺利。无需注册，无广告，界面干净—非常适合日常办公使用。",
+      "role": "助理"
+    },
+    "testimonial3": {
+      "content": "我经常为我的孩子收集线稿，这个工具让我可以一键将它们转换为可打印的PDF。制作儿童涂色书非常方便。",
+      "role": "家长"
+    }
+  },
+  "faq": {
+    "title": "图片转PDF常见问题",
+    "q1": {
+      "question": "什么是图片转PDF转换器？",
+      "answer": "这是一个在线文件转换器，设计用于根据指定的页面大小将多个图片转换为PDF文件。"
+    },
+    "q2": {
+      "question": "我可以转换哪些图片格式？",
+      "answer": "几乎支持所有图片格式，包括但不限于Webp、JPG和PNG。"
+    },
+    "q3": {
+      "question": "我可以自定义PDF的布局吗？",
+      "answer": "当然，您可以调整页面大小，通常是A4，也可以调整页面布局。"
+    },
+    "q4": {
+      "question": "我可以一次上传多个图片吗？",
+      "answer": "当然，您可以上传1个图片，也可以一次上传10个图片。只需根据您的需要选择要上传的照片即可。"
+    },
+    "q5": {
+      "question": "我可以免费试用您的图片转PDF转换器吗？",
+      "answer": "当然，我们提供完全免费的在线服务，100%免费使用。"
+    }
+  }
+}
+

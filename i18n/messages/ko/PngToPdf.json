@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "title": "PNG를 PDF로 업로드",
+    "uploadTitle": "PNG to PDF",
+    "mainTitle": {
+      "line1": "PNG 이미지를",
+      "line2": "PDF",
+      "line3": "문서로",
+      "line4": "변환"
+    },
+    "dragText": "PNG 이미지를 여기에 끌어다 놓기",
+    "selectText": "또는 클릭하여 파일 선택(여러 파일 지원)",
+    "clickToSelect": "클릭하여 파일을 선택하거나 끌어다 놓기",
+    "fileTypes": "PDF 또는 이미지",
+    "privacy": "파일은 기기를 떠나지 않습니다.",
+    "format": "PNG 형식",
+    "maxSize": "최대 50MB"
+  },
+  "fileList": {
+    "title": "{count}개 파일 선택됨",
+    "clearAll": "모두 지우기",
+    "addMore": "더 많은 파일 추가"
+  },
+  "pdfQuality": {
+    "label": "PDF 품질",
+    "placeholder": "품질 선택",
+    "low": "낮은 품질(작은 파일 크기)",
+    "medium": "중간 품질(균형)",
+    "high": "높은 품질(큰 파일 크기)",
+    "description": "PDF에 포함할 때 이미지 압축을 제어합니다"
+  },
+  "convertButton": "PDF로 변환",
+  "processing": {
+    "title": "PNG에서 PDF 생성 중...",
+    "subtitle": "잠시 기다려 주세요. 몇 초 걸릴 수 있습니다"
+  },
+  "messages": {
+    "filesAdded": "{count}개 파일 추가됨",
+    "convertSuccess": "{count}개 PNG 파일을 PDF로 성공적으로 변환했습니다"
+  },
+  "errors": {
+    "notPng": "PNG 형식 이미지 파일을 선택하세요",
+    "unsupportedFormat": "지원되지 않는 이미지 형식입니다. JPG, PNG, WebP, BMP, TIFF, SVG 또는 HEIC/HEIF 파일을 선택하세요.",
+    "fileTooLarge": "파일 크기는 50MB를 초과할 수 없습니다",
+    "noFiles": "최소한 하나의 이미지 파일을 선택하세요",
+    "processFileFailed": "파일 {fileName} 처리 실패",
+    "convertFailed": "변환 실패. 모든 파일이 유효한 이미지 파일인지 확인하세요"
+  },
+  "preview": {
+    "title": "이미지 미리보기 ({current} / 50)",
+    "clearAll": "모두 지우기",
+    "uploadPlaceholder": "클릭하거나 끌어다 놓아 이미지 추가",
+    "addMore": "더 추가",
+    "downloadPdf": "PDF 다운로드"
+  },
+  "pageSize": {
+    "label": "페이지 크기",
+    "placeholder": "페이지 크기 선택",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "이미지에 맞추기"
+  },
+  "orientation": {
+    "label": "방향",
+    "placeholder": "방향 선택",
+    "portrait": "세로",
+    "landscape": "가로"
+  }
+}

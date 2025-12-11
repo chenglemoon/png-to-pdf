@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "PNGをPDFにアップロード",
+    "uploadTitle": "PNG to PDF",
+    "mainTitle": {
+      "line1": "PNG画像を",
+      "line2": "PDF",
+      "line3": "ドキュメントに",
+      "line4": "変換"
+    },
+    "dragText": "PNG画像をここにドラッグ＆ドロップ",
+    "selectText": "またはクリックしてファイルを選択（複数ファイル対応）",
+    "clickToSelect": "クリックしてファイルを選択するか、ドラッグ＆ドロップ",
+    "fileTypes": "PDFまたは画像",
+    "privacy": "ファイルはデバイスから離れることはありません。",
+    "format": "PNG形式",
+    "maxSize": "最大50MB"
+  },
+  "fileList": {
+    "title": "{count}個のファイルを選択",
+    "clearAll": "すべてクリア",
+    "addMore": "さらにファイルを追加"
+  },
+  "pdfQuality": {
+    "label": "PDF品質",
+    "placeholder": "品質を選択",
+    "low": "低品質（ファイルサイズが小さい）",
+    "medium": "中品質（バランス型）",
+    "high": "高品質（ファイルサイズが大きい）",
+    "description": "PDFへの埋め込み時の画像圧縮を制御します"
+  },
+  "convertButton": "PDFに変換",
+  "processing": {
+    "title": "PNGからPDFを作成中...",
+    "subtitle": "お待ちください。数秒かかる場合があります"
+  },
+  "messages": {
+    "filesAdded": "{count}個のファイルを追加しました",
+    "convertSuccess": "{count}個のPNGファイルをPDFに正常に変換しました"
+  },
+  "errors": {
+    "notPng": "PNG形式の画像ファイルを選択してください",
+    "unsupportedFormat": "サポートされていない画像形式です。JPG、PNG、WebP、BMP、TIFF、SVG、またはHEIC/HEIFファイルを選択してください。",
+    "fileTooLarge": "ファイルサイズは50MBを超えることはできません",
+    "noFiles": "少なくとも1つの画像ファイルを選択してください",
+    "processFileFailed": "ファイル{fileName}の処理に失敗しました",
+    "convertFailed": "変換に失敗しました。すべてのファイルが有効な画像ファイルであることを確認してください"
+  },
+  "preview": {
+    "title": "画像プレビュー（{current} / 50）",
+    "clearAll": "すべてクリア",
+    "uploadPlaceholder": "クリックまたはドラッグして画像を追加",
+    "addMore": "さらに追加",
+    "downloadPdf": "PDFをダウンロード"
+  },
+  "pageSize": {
+    "label": "ページサイズ",
+    "placeholder": "ページサイズを選択",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "画像に合わせる"
+  },
+  "orientation": {
+    "label": "向き",
+    "placeholder": "向きを選択",
+    "portrait": "縦向き",
+    "landscape": "横向き"
+  }
+}
+

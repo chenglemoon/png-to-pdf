@@ -1,0 +1,185 @@
+{
+  "hero": {
+    "title": "Capovolgi le immagini per ottenere il risultato perfetto",
+    "description": "Trasforma la tua foto da semplice scatto a opera d'arte usando lo strumento gratuito per capovolgere immagini di FlipImage. Capovolgi l'immagine a specchio orizzontalmente o verticalmente, quindi scaricala o condividila online.",
+    "tagLine": "Capovolgi, ruota e migliora le tue immagini con facilità.",
+    "uploadTitle": "Carica immagine",
+    "uploadButton": "Carica l'immagine",
+    "dragText": "Trascina la tua immagine qui",
+    "selectText": "o clicca per selezionare",
+    "formats": "Formati supportati: JPG, PNG, WebP",
+    "maxSize": "Dimensione massima: 50 MB",
+    "dropHint": "o trascinala qui",
+    "processing": "Elaborazione...",
+    "defaultImageHint": "Immagine di esempio in uso. Carica la tua immagine per un'elaborazione personalizzata.",
+    "features": {
+      "instant": "Elaborazione istantanea",
+      "secure": "100% sicuro",
+      "mobile": "Mobile friendly",
+      "quality": "Alta qualità"
+    },
+    "tryBelow": "Provalo tu stesso qui sotto",
+    "tryNow": "Provalo ora - Carica la tua immagine",
+    "startFlipping": "Inizia a capovolgere le tue immagini istantaneamente. Nessuna registrazione richiesta."
+  },
+  "howToUse": {
+    "title": "Come capovolgere un'immagine",
+    "subtitle": "Capovolgi le tue immagini in 3 semplici passaggi",
+    "step1": {
+      "title": "Carica un'immagine",
+      "description": "Seleziona il pulsante 'Carica la tua immagine' o fai semplicemente il drag and drop dei file nella sezione."
+    },
+    "step2": {
+      "title": "Capovolgi immagine",
+      "description": "Scegli lo strumento Capovolgi per specchiare l'immagine orizzontalmente o verticalmente, quindi migliorala con il nostro editor di foto."
+    },
+    "step3": {
+      "title": "Scarica il progetto",
+      "description": "Infine, scarica il tuo progetto in formato PNG, JPG ad alta risoluzione o qualsiasi altro formato di file, oppure condividilo immediatamente online."
+    },
+    "tips": {
+      "title": "Suggerimenti professionali",
+      "tip1": "Combina più trasformazioni per effetti creativi unici",
+      "tip2": "Usa impostazioni di alta qualità per stampe professionali",
+      "tip3": "Tutta l'elaborazione avviene localmente nel tuo browser per la massima privacy"
+    }
+  },
+  "preview": {
+    "title": "Anteprima immagine",
+    "resultTitle": "Risultato capovolgimento"
+  },
+  "options": {
+    "title": "Opzioni di capovolgimento",
+    "flipOptions": "Opzioni di capovolgimento",
+    "horizontalFlip": "Capovolgimento orizzontale",
+    "verticalFlip": "Capovolgimento verticale",
+    "rotation": "Rotazione",
+    "rotation0": "0° (Nessuna rotazione)",
+    "rotation90": "90° (Senso orario)",
+    "rotation180": "180° (Mezzo giro)",
+    "rotation270": "270° (Senso antiorario)",
+    "advancedSettings": "Impostazioni avanzate",
+    "outputFormat": "Formato di output",
+    "quality": "Qualità",
+    "flipButton": "Capovolgi immagine",
+    "resetButton": "Ripristina originale",
+    "downloadButton": "Scarica immagine",
+    "selectTransform": "Seleziona almeno una trasformazione per procedere"
+  },
+  "messages": {
+    "flipSuccess": "Immagine capovolta con successo!",
+    "imageDownloaded": "Immagine scaricata con successo!",
+    "realTimePreview": "Le modifiche vengono applicate in tempo reale"
+  },
+  "examples": {
+    "badge": "Esempi",
+    "title": "Esempi di Capovolgimento Immagine",
+    "subtitle": "Scopri quanto è facile capovolgere, riflettere e ruotare le tue immagini con il nostro strumento online gratuito. Provalo tu stesso qui sotto!",
+    "before": "PRIMA",
+    "after": "DOPO",
+    "items": {
+      "horizontal": {
+        "title": "Capovolgi Immagine Orizzontalmente",
+        "description": "Crea effetti specchio perfetti capovolgendo le immagini da sinistra a destra, ideale per composizioni artistiche."
+      },
+      "vertical": {
+        "title": "Capovolgi Immagine Verticalmente",
+        "description": "Capovolgi le immagini sottosopra per effetti creativi o per correggere foto invertite."
+      },
+      "rotate": {
+        "title": "Capovolgi e Ruota Immagine",
+        "description": "Ruota le immagini a incrementi di 90° per correggere l'orientamento o creare composizioni dinamiche."
+      },
+      "mirror": {
+        "title": "Rifletti Immagine",
+        "description": "Crea effetti specchio perfetti con opzioni di capovolgimento orizzontale e verticale."
+      }
+    }
+  },
+  "errors": {
+    "unsupportedFormat": "Sono supportati solo i formati JPG, PNG e WebP",
+    "fileTooLarge": "La dimensione del file deve essere inferiore a 50MB",
+    "loadFailed": "Caricamento immagine fallito",
+    "processFailed": "Elaborazione immagine fallita"
+  },
+  "features": {
+    "title": "Caratteristiche del capovolgimento immagini",
+    "coreFeature": "Caratteristica principale",
+    "horizontal": {
+      "title": "Capovolgimento orizzontale",
+      "description": "Crea effetti specchio perfetti quando capovolgi l'immagine orizzontalmente da sinistra a destra. Ideale per composizioni artistiche e correzione dell'orientamento dei selfie con risultati professionali."
+    },
+    "vertical": {
+      "title": "Capovolgimento verticale",
+      "description": "Capovolgi l'immagine sottosopra per effetti creativi o per correggere foto invertite. Perfetto per effetti di riflessione e prospettive uniche usando la nostra tecnologia avanzata."
+    },
+    "rotate": {
+      "title": "Rotazione immagine",
+      "description": "Ruota e capovolgi l'immagine in incrementi di 90° per correggere problemi di orientamento o creare composizioni dinamiche. Supporta rotazioni di 90°, 180° e 270° combinate con operazioni specchio."
+    },
+    "instant": {
+      "title": "Elaborazione istantanea",
+      "description": "Ottieni i risultati del capovolgimento immediatamente con il nostro motore di elaborazione veloce. Nessuna attesa, nessun ritardo quando trasformi le immagini online."
+    },
+    "secure": {
+      "title": "100% sicuro",
+      "description": "Tutta l'elaborazione avviene nel tuo browser. Le tue immagini non lasciano mai il tuo dispositivo, garantendo completa privacy durante la modifica online."
+    },
+    "responsive": {
+      "title": "Mobile friendly",
+      "description": "Funziona perfettamente su tutti i dispositivi - desktop, tablet e mobile. Capovolgi le immagini ovunque, in qualsiasi momento."
+    },
+    "quality": {
+      "title": "Alta qualità",
+      "description": "Mantieni la qualità dell'immagine con elaborazione senza perdite. Supporto per immagini ad alta risoluzione e formati professionali."
+    },
+    "formats": {
+      "title": "Formati multipli",
+      "description": "Supporto per formati JPG, PNG e WebP con impostazioni di qualità personalizzabili per dimensioni file ottimali."
+    }
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "subtitle": "Trova risposte alle domande comuni sul nostro strumento di trasformazione delle immagini",
+    "q1": {
+      "question": "Come capovolgere un'immagine su iPhone?",
+      "answer": "Vai all'App Store e scarica la nostra app per iOS per capovolgere le immagini sul telefono. Carica l'immagine, quindi selezionala. Sulla barra degli strumenti, clicca su Capovolgi (icona della freccia che gira). Clicca su Capovolgi orizzontalmente o Capovolgi verticalmente. Al termine, tocca un punto all'esterno del layout per nascondere la barra degli strumenti e salvare l'immagine capovolta. Questo è tutto: nessun controllo nascosto o tasti di scelta rapida segreti necessari con la nostra pratica app."
+    },
+    "q2": {
+      "question": "Come capovolgere un'immagine su Android?",
+      "answer": "Accedi a Google Play e scarica la nostra app per Android per capovolgere le immagini sul telefono. Carica l'immagine, quindi toccala. Dovrebbe apparire un bordo bianco intorno all'immagine per indicare che è stata selezionata. Sulla barra degli strumenti in basso, clicca su Capovolgi, quindi scegli tra Capovolgi orizzontalmente o Capovolgi verticalmente. Con il nostro strumento gratuito di capovolgimento delle immagini, hai a disposizione tutto quello che ti serve in un'interfaccia semplice e intuitiva."
+    },
+    "q3": {
+      "question": "Quando può essere utile capovolgere un'immagine?",
+      "answer": "Capovolgere un'immagine può essere un modo perfetto per dare a una foto l'aspetto che desideri. Un'immagine capovolta in modo speculare può avere maggiore simmetria o un migliore orientamento, rendendola più bella dell'originale. Inoltre, i nostri occhi sono spesso attratti da sinistra a destra quando si osserva una foto. Capovolgere un'immagine può regolare la direzione e creare uno slancio che risulta semplice e naturale."
+    },
+    "q4": {
+      "question": "È gratuito usare questo strumento?",
+      "answer": "Sì, il nostro strumento per capovolgere immagini è completamente gratuito. Puoi capovolgere quante immagini vuoi senza alcun costo o registrazione."
+    },
+    "q5": {
+      "question": "Quali formati di immagine sono supportati?",
+      "answer": "Il nostro strumento supporta formati di immagine popolari come JPG, PNG, WebP e BMP."
+    },
+    "q6": {
+      "question": "C'è un limite di dimensione per le immagini?",
+      "answer": "Non c'è un limite di dimensione rigoroso. Tuttavia, immagini molto grandi potrebbero richiedere più tempo per l'elaborazione e potrebbero consumare più risorse del browser. Raccomandiamo di usare immagini inferiori a 20 MB per prestazioni ottimali."
+    },
+    "q7": {
+      "question": "Le mie immagini sono sicure e private?",
+      "answer": "Sì, la tua privacy è la nostra priorità. Tutte le operazioni di capovolgimento immagini avvengono direttamente nel tuo browser. Le tue immagini non vengono mai caricate sui nostri server, garantendo che i tuoi dati rimangano completamente privati e sicuri."
+    },
+    "q8": {
+      "question": "Posso capovolgere un'immagine di 90 gradi?",
+      "answer": "Sì, oltre al capovolgimento orizzontale e verticale, il nostro strumento ti permette anche di ruotare le immagini di 90, 180 o 270 gradi."
+    },
+    "q9": {
+      "question": "Come capovolgo un'immagine sul mio computer?",
+      "answer": "Semplicemente apri il nostro sito web nel tuo browser desktop, carica la tua immagine e usa le opzioni di capovolgimento orizzontale o verticale. Poi puoi scaricare l'immagine capovolta sul tuo computer."
+    },
+    "q10": {
+      "question": "Posso capovolgere più immagini alla volta?",
+      "answer": "Attualmente, il nostro strumento elabora un'immagine alla volta per garantire prestazioni ottimali e un'esperienza utente fluida."
+    }
+  }
+}

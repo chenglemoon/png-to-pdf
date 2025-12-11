@@ -1,0 +1,182 @@
+{
+  "hero": {
+    "title": "Inverser une image : Retournez gratuitement vos images en ligne",
+    "description": "Transformez votre photo d'un simple cliché en une œuvre d'art à l'aide de l'outil gratuit photo miroir. Inversez votre image horizontalement ou verticalement, puis téléchargez-la ou partagez-la en ligne.",
+    "uploadTitle": "Télécharger une image",
+    "uploadButton": "Importer votre image",
+    "dragText": "Glissez et déposez une image ici",
+    "selectText": "ou cliquez pour sélectionner un fichier",
+    "formats": "Formats pris en charge : JPG, PNG, WebP",
+    "maxSize": "Taille maximale : 50 Mo",
+    "dropHint": "ou la déposer ici",
+    "processing": "Traitement en cours...",
+    "defaultImageHint": "Utilisation de l'image d'exemple. Téléchargez votre propre image pour un traitement personnalisé.",
+    "features": {
+      "instant": "Traitement instantané",
+      "secure": "100% sécurisé",
+      "mobile": "Compatible mobile",
+      "quality": "Haute qualité"
+    },
+    "tryBelow": "Essayez-le ci-dessous",
+    "tryNow": "Essayez maintenant - Téléchargez votre image",
+    "startFlipping": "Commencez à retourner vos images instantanément. Aucune inscription requise."
+  },
+  "howToUse": {
+    "title": "Comment retourner une image ?",
+    "subtitle": "Inversez vos images en 3 étapes simples",
+    "step1": {
+      "title": "Importer une image",
+      "description": "Sélectionnez le bouton « Importer une image » ou glissez et déposez facilement vos fichiers à l'emplacement prévu."
+    },
+    "step2": {
+      "title": "Retourner une image",
+      "description": "Sélectionnez l'outil « Retourner » pour inverser votre image horizontalement ou verticalement, puis servez-vous de notre éditeur photo pour lui apporter la touche finale."
+    },
+    "step3": {
+      "title": "Téléchargez votre design",
+      "description": "Votre création terminée, téléchargez-la en haute résolution au format JPG, PNG ou autre, ou partagez-la directement en ligne."
+    },
+    "tips": {
+      "title": "Conseils Pro",
+      "tip1": "Combinez plusieurs transformations pour des effets créatifs uniques",
+      "tip2": "Utilisez des paramètres de haute qualité pour les impressions professionnelles",
+      "tip3": "Tout le traitement se fait localement dans votre navigateur pour une confidentialité totale"
+    }
+  },
+  "preview": {
+    "title": "Aperçu de l'image",
+    "resultTitle": "Résultat du retournement"
+  },
+  "options": {
+    "title": "Options",
+    "flipOptions": "Options de retournement",
+    "horizontalFlip": "Inverser horizontalement",
+    "verticalFlip": "Inverser verticalement",
+    "rotation": "Rotation",
+    "rotation0": "0°",
+    "rotation90": "90°",
+    "rotation180": "180°",
+    "rotation270": "270°",
+    "downloadButton": "Télécharger l'image",
+    "resetButton": "Réinitialiser"
+  },
+  "messages": {
+    "uploadSuccess": "Image téléchargée avec succès !",
+    "downloadSuccess": "Image téléchargée avec succès !",
+    "uploadError": "Échec du téléchargement de l'image",
+    "unsupportedFormat": "Format d'image non pris en charge. Veuillez utiliser JPG, PNG ou WebP.",
+    "fileTooLarge": "Le fichier est trop volumineux. Taille maximale : 50 Mo.",
+    "processingError": "Erreur lors du traitement de l'image",
+    "usingSampleImage": "Utilisation de l'image d'exemple. Téléchargez votre propre image pour commencer !",
+    "realTimePreview": "Aperçu en temps réel"
+  },
+  "examples": {
+    "badge": "Exemples",
+    "title": "Exemples de Retournement d'Image",
+    "subtitle": "Découvrez à quel point il est facile de retourner, refléter et faire pivoter vos images avec notre outil en ligne gratuit. Essayez-le vous-même ci-dessous !",
+    "before": "AVANT",
+    "after": "APRÈS",
+    "items": {
+      "horizontal": {
+        "title": "Retourner l'Image Horizontalement",
+        "description": "Créez des effets miroir parfaits en retournant les images de gauche à droite, idéal pour les compositions artistiques."
+      },
+      "vertical": {
+        "title": "Retourner l'Image Verticalement",
+        "description": "Retournez les images à l'envers pour des effets créatifs ou pour corriger des photos inversées."
+      },
+      "rotate": {
+        "title": "Retourner et Faire Pivoter l'Image",
+        "description": "Faites pivoter les images par incréments de 90° pour corriger l'orientation ou créer des compositions dynamiques."
+      },
+      "mirror": {
+        "title": "Miroir d'Image",
+        "description": "Créez des effets miroir parfaits avec des options de retournement horizontal et vertical."
+      }
+    }
+  },
+  "features": {
+    "title": "Fonctionnalités de retournement d'image",
+    "coreFeature": "Fonctionnalité principale",
+    "horizontal": {
+      "title": "Retournement horizontal",
+      "description": "Créez des effets miroir parfaits lorsque vous retournez une image horizontalement de gauche à droite. Idéal pour les compositions artistiques et la correction des orientations de selfie avec des résultats professionnels."
+    },
+    "vertical": {
+      "title": "Retournement vertical",
+      "description": "Retournez l'image à l'envers pour des effets créatifs ou pour corriger les photos inversées. Parfait pour les effets de réflexion et les perspectives uniques utilisant notre technologie avancée."
+    },
+    "rotate": {
+      "title": "Rotation d'image",
+      "description": "Faites pivoter et retournez l'image par incréments de 90° pour corriger les problèmes d'orientation ou créer des compositions dynamiques. Prend en charge les rotations de 90°, 180° et 270° combinées avec des opérations miroir."
+    },
+    "instant": {
+      "title": "Traitement instantané",
+      "description": "Obtenez vos résultats de retournement d'image immédiatement avec notre moteur de traitement rapide. Pas d'attente, pas de retards lors de la transformation d'images en ligne."
+    },
+    "fast": {
+      "title": "Ultra rapide",
+      "description": "Traitez les images en moins d'une seconde avec nos algorithmes optimisés. Découvrez la vitesse de la technologie Web moderne."
+    },
+    "secure": {
+      "title": "100% sécurisé",
+      "description": "Tout le traitement se fait dans votre navigateur. Vos images ne quittent jamais votre appareil, garantissant une confidentialité totale lors de l'édition en ligne."
+    },
+    "responsive": {
+      "title": "Compatible mobile",
+      "description": "Fonctionne parfaitement sur tous les appareils - bureau, tablette et mobile. Retournez des images n'importe où, n'importe quand."
+    },
+    "quality": {
+      "title": "Haute qualité",
+      "description": "Maintenez la qualité de l'image avec un traitement sans perte. Prise en charge des images haute résolution et des formats professionnels."
+    },
+    "formats": {
+      "title": "Formats multiples",
+      "description": "Prise en charge des formats JPG, PNG et WebP avec des paramètres de qualité personnalisables pour une taille de fichier optimale."
+    }
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Trouvez des réponses aux questions courantes sur notre outil de transformation d'images",
+    "q1": {
+      "question": "Comment faire l'effet miroir sur iPhone ?",
+      "answer": "Accédez à l'App Store et téléchargez notre application iOS pour retourner les images de votre téléphone. Téléchargez votre image, puis sélectionnez-la. Dans la barre d'outils, cliquez sur Inverser (flèche tournant autour de l'icône). Cliquez sur Inverser horizontalement ou Inverser verticalement. Une fois cela fait, appuyez en dehors de la mise en page pour masquer la barre d'outils et enregistrer votre image inversée. C'est tout; aucun contrôle caché ou raccourci clavier secret n'est nécessaire avec notre application pratique."
+    },
+    "q2": {
+      "question": "Comment mettre en miroir ou retourner une image sur Android?",
+      "answer": "Rendez-vous sur Google Play et téléchargez notre application Android pour retourner les images de votre téléphone. Téléchargez votre image, puis appuyez dessus; une bordure blanche doit apparaître autour de l'image pour indiquer qu'elle a été sélectionnée. Dans la barre d'outils inférieure, cliquez sur Inverser , puis choisissez entre Inverser horizontalement ou Inverser verticalement. Avec notre outil gratuit de retournement d'image, vous avez tout ce dont vous avez besoin dans une interface simple et intuitive."
+    },
+    "q3": {
+      "question": "Quand auriez-vous besoin de retourner une image?",
+      "answer": "Retourner une image peut être un excellent moyen d'obtenir une photo pour qu'elle ressemble à ce que vous voulez. Un retournement de miroir d'image peut avoir une symétrie supplémentaire ou une orientation améliorée, ce qui le rend plus beau que l'original. De plus, nos yeux se déplacent de gauche à droite lorsque nous regardons une photo. Retourner une image peut ajuster la direction et créer un élan qui semble naturel et facile."
+    },
+    "q4": {
+      "question": "Quels formats d'image sont pris en charge?",
+      "answer": "Notre outil prend en charge les formats JPG, PNG et WebP. Ce sont les formats d'image les plus courants utilisés sur le Web et offrent une excellente qualité. Tous les formats conservent une qualité parfaite pendant le traitement."
+    },
+    "q5": {
+      "question": "Y a-t-il une limite de taille de fichier?",
+      "answer": "Oui, la taille maximale du fichier est de 50 Mo par image. Cette limite garantit un traitement rapide tout en s'adaptant à la plupart des photos haute résolution. Pour les fichiers plus volumineux, envisagez de compresser votre image au préalable."
+    },
+    "q6": {
+      "question": "Mes données d'image sont-elles sûres et privées?",
+      "answer": "Absolument! Tout le traitement d'image se fait directement dans votre navigateur en utilisant des technologies Web avancées. Vos images ne quittent jamais votre appareil, garantissant une confidentialité et une sécurité totales. Nous ne stockons ni n'avons accès à aucune de vos images."
+    },
+    "q7": {
+      "question": "Cet outil de retournement d'image est-il gratuit?",
+      "answer": "Oui! Notre outil de retournement d'image est entièrement gratuit sans frais cachés ni abonnement requis. Vous pouvez retourner, faire pivoter et télécharger un nombre illimité d'images sans aucun filigrane ni restriction."
+    },
+    "q8": {
+      "question": "Puis-je utiliser ceci comme outil de miroir d'image?",
+      "answer": "Absolument! Notre outil fonctionne parfaitement comme un inverseur de miroir d'image. Téléchargez simplement votre image et utilisez l'option de retournement horizontal pour créer un effet miroir parfait de votre photo."
+    },
+    "q9": {
+      "question": "Comment retourner une image de 90 degrés?",
+      "answer": "Pour retourner une image de 90 degrés, téléchargez votre photo et sélectionnez l'option de rotation 90° dans nos commandes de rotation. Vous pouvez faire pivoter dans le sens horaire ou antihoraire pour obtenir l'orientation parfaite."
+    },
+    "q10": {
+      "question": "Comment retourner une image sur ordinateur?",
+      "answer": "Notre outil de retournement d'image basé sur le Web fonctionne directement dans votre navigateur - aucune installation de logiciel nécessaire! Visitez simplement notre site Web, téléchargez votre image, appliquez le retournement ou la rotation que vous souhaitez, et téléchargez le résultat. Il fonctionne sur n'importe quel ordinateur avec un navigateur Web."
+    }
+  }
+}

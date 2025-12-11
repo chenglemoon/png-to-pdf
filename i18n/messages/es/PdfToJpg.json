@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Conversor gratuito de PDF a JPG: Convierte PDF a JPG online",
+    "description": "Sin límite de archivos ni marcas de agua. Sólo una estupenda herramienta gratis para convertir tus PDF a imágenes o extraer imágenes de tus PDFs.",
+    "keywords": "pdf a jpg, convertir pdf a jpg, pdf a imagen, pdf a jpeg, pdf a png, extraer imágenes de pdf, convertidor pdf, pdf a jpg en línea, convertidor gratuito pdf a jpg"
+  },
+  "hero": {
+    "title": "Convertir PDF a JPG",
+    "uploadTitle": "PDF a JPG",
+    "mainTitle": {
+      "line1": "Transformar",
+      "line2": "Páginas PDF",
+      "line3": "en JPG",
+      "line4": ""
+    },
+    "description": "Las fotos y los vídeos son un excelente contenido, pero no te olvides de los documentos como informes y registros también en sus archivos PDF habituales. Haz que sea más fácil publicarlos en redes sociales o insertarlos en sitios web convirtiendo PDF a archivos JPG con el conversor gratuito de PDF a JPG online.",
+    "dragText": "Arrastra y suelta el archivo PDF aquí",
+    "selectText": "o haz clic para seleccionar archivo",
+    "clickToSelect": "Haz clic para seleccionar un archivo o arrastra y suelta",
+    "fileTypes": "Archivos PDF",
+    "privacy": "Tus archivos nunca salen de tu dispositivo.",
+    "format": "Formato PDF",
+    "maxSize": "Máx. 50MB"
+  },
+  "preview": {
+    "title": "Vista previa de páginas PDF ({current} / {total})",
+    "clearAll": "LIMPIAR TODO",
+    "uploadPlaceholder": "Haz clic o arrastra para agregar archivo PDF",
+    "addMore": "Agregar más",
+    "downloadAll": "DESCARGAR TODO COMO ZIP",
+    "downloadSingle": "DESCARGAR",
+    "page": "Página"
+  },
+  "upload": "Subir",
+  "imageQuality": {
+    "label": "Calidad de imagen",
+    "placeholder": "Seleccionar calidad",
+    "low": "Baja (Tamaño de archivo más pequeño)",
+    "medium": "Media (Equilibrada)",
+    "high": "Alta (Tamaño de archivo más grande)"
+  },
+  "convertButton": "Convertir a JPG",
+  "processing": {
+    "title": "Convirtiendo PDF a JPG...",
+    "subtitle": "Por favor espera, esto puede tardar unos segundos"
+  },
+  "messages": {
+    "fileAdded": "Archivo PDF agregado exitosamente",
+    "convertSuccess": "Se convirtieron exitosamente {count} página(s) a JPG"
+  },
+  "errors": {
+    "notPdf": "Por favor selecciona un archivo PDF",
+    "unsupportedFormat": "Formato de archivo no compatible. Por favor selecciona un archivo PDF.",
+    "fileTooLarge": "El tamaño del archivo no puede exceder 50MB",
+    "noFile": "Por favor selecciona un archivo PDF",
+    "processFileFailed": "Error al procesar el archivo PDF",
+    "convertFailed": "La conversión falló. Por favor asegúrate de que el archivo PDF sea válido",
+    "readFileFailed": "Error al leer el archivo PDF",
+    "createZipFailed": "Error al crear el archivo ZIP"
+  },
+  "features": {
+    "title": "¿Cuáles son las características del convertidor PDF a JPG?",
+    "subtitle": "Más de 300k usuarios eligen usar nuestro convertidor PDF a JPG debido a sus características destacadas.",
+    "feature1": {
+      "title": "Convierte PDF a JPG en segundos",
+      "description": "Sube tu archivo PDF y extrae todas las páginas como imágenes JPG de alta calidad en segundos. Nuestra herramienta PDF a JPG asegura una conversión rápida con excelente preservación de la calidad de imagen.",
+      "button": "Comenzar conversión"
+    },
+    "feature2": {
+      "title": "Salida de imagen de alta calidad",
+      "description": "Obtén imágenes JPG nítidas y claras de tus páginas PDF. Elige entre diferentes configuraciones de calidad para equilibrar el tamaño del archivo y la claridad de la imagen según tus necesidades.",
+      "button": "Probar convertidor >>"
+    },
+    "feature3": {
+      "title": "Descarga por lotes de todas las páginas",
+      "description": "Descarga todas las páginas PDF como imágenes JPG individuales, o obténlas todas en un archivo ZIP conveniente. Perfecto para extraer imágenes de documentos, presentaciones o informes.",
+      "button": "Convertir ahora"
+    }
+  },
+  "testimonials": {
+    "title": "Testimonios de usuarios sobre el convertidor PDF a JPG",
+    "subtitle": "Muchos usuarios han elogiado mucho nuestra herramienta PDF a JPG después de usarla.",
+    "testimonial1": {
+      "content": "Necesitaba extraer imágenes de un PDF de 50 páginas para una presentación. Esta herramienta convirtió todas las páginas a JPG en menos de un minuto. La calidad de la imagen era excelente y la descarga ZIP lo hizo súper conveniente.",
+      "role": "Diseñador"
+    },
+    "testimonial2": {
+      "content": "Perfecto para extraer páginas de documentos PDF. Las opciones de calidad me permiten elegir el equilibrio adecuado entre tamaño de archivo y claridad. No se requiere registro, ¡funciona genial!",
+      "role": "Estudiante"
+    },
+    "testimonial3": {
+      "content": "Uso esto regularmente para convertir páginas PDF a imágenes para publicaciones en redes sociales. Rápido, confiable y las imágenes siempre se ven geniales. ¡Muy recomendado!",
+      "role": "Creador de contenido"
+    }
+  },
+  "howToUse": {
+    "label": "Cómo usar",
+    "title": "Cómo convertir PDF a JPG",
+    "subtitle": "Sigue estos simples pasos para convertir tus páginas PDF a imágenes JPG",
+    "step": "Paso",
+    "step1": {
+      "title": "Sube tu archivo PDF",
+      "description": "Arrastra y suelta tu archivo PDF en el área de carga o haz clic para seleccionar un archivo. Nuestra herramienta admite archivos PDF de hasta 50MB de tamaño."
+    },
+    "step2": {
+      "title": "Selecciona la calidad de imagen",
+      "description": "Elige tu configuración de calidad de imagen preferida: Baja para tamaños de archivo más pequeños, Media para calidad equilibrada, o Alta para máxima claridad."
+    },
+    "step3": {
+      "title": "Vista previa y descarga",
+      "description": "Ve todas las páginas convertidas en el área de vista previa. Descarga imágenes JPG individuales u obtén todas las páginas a la vez como un archivo ZIP conveniente."
+    }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes sobre PDF a JPG",
+    "q1": {
+      "question": "¿Cómo convertir PDF a JPEG?",
+      "answer": "Los archivos JPG y JPEG son el mismo formato de imagen; la única diferencia significativa son sus extensiones de nombre que puedes cambiar simplemente renombrando tu archivo. Entonces, para convertir PDF a JPEG, simplemente puedes usar nuestro convertidor gratuito PDF a JPG en línea, editar tus archivos en un diseño atractivo, y descargarlo como un archivo JPG."
+    },
+    "q2": {
+      "question": "¿Puedo convertir PDF a JPG gratis?",
+      "answer": "¡Absolutamente! Prueba nuestra herramienta convertidora entre las muchas aplicaciones que ofrecen conversión gratuita de PDF a JPG. No solo puedes cambiar tus archivos PDF a JPG en nuestro editor gratis, sino que también tendrás muchas funciones de diseño al alcance de tu mano a poco o ningún costo. Elige entre nuestras colecciones de plantillas para el diseño perfecto. Usa nuestro editor de fotos incorporado y mejora las imágenes para mayor visibilidad. Agrega subtítulos o ajusta textos editables para proporcionar más información y aumentar la legibilidad."
+    },
+    "q3": {
+      "question": "¿Por qué guardar archivos PDF en formato JPG?",
+      "answer": "Los archivos PDF son extremadamente convenientes para compartir y ver documentos con texto e imágenes, y preservar la calidad y tamaños de archivo más pequeños. JPG ofrece lo mismo también, especialmente para imágenes como un libro de fotos o una revista escaneada. Convierte fácilmente PDF a JPG desde nuestra herramienta en línea y comparte tu diseño personalizable en un correo electrónico, una publicación en redes sociales o una inserción en tu sitio web."
+    }
+  }
+}
+

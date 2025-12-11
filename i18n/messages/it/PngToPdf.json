@@ -1,0 +1,73 @@
+{
+  "hero": {
+    "title": "Carica PNG in PDF",
+    "uploadTitle": "PNG in PDF",
+    "mainTitle": {
+      "line1": "Trasforma",
+      "line2": "immagini PNG",
+      "line3": "in PDF",
+      "line4": ""
+    },
+    "dragText": "Trascina e rilascia le immagini PNG qui",
+    "selectText": "o clicca per selezionare i file (supportati più file)",
+    "clickToSelect": "Clicca per selezionare un file o trascina e rilascia",
+    "fileTypes": "PDF o Immagini",
+    "privacy": "I tuoi file non lasciano mai il tuo dispositivo.",
+    "format": "Formato PNG",
+    "maxSize": "Max 50MB"
+  },
+  "fileList": {
+    "title": "{count} file selezionato/i",
+    "clearAll": "Cancella tutto",
+    "addMore": "Aggiungi più file"
+  },
+  "pdfQuality": {
+    "label": "Qualità PDF",
+    "placeholder": "Seleziona qualità",
+    "low": "Bassa qualità (Dimensione file più piccola)",
+    "medium": "Qualità media (Bilanciata)",
+    "high": "Alta qualità (Dimensione file più grande)",
+    "description": "Controlla la compressione dell'immagine durante l'incorporamento in PDF"
+  },
+  "convertButton": "Converti in PDF",
+  "processing": {
+    "title": "Creazione PDF da PNG...",
+    "subtitle": "Attendere, potrebbe richiedere alcuni secondi"
+  },
+  "messages": {
+    "filesAdded": "Aggiunto/i {count} file",
+    "convertSuccess": "Convertito/i con successo {count} file PNG in PDF"
+  },
+  "errors": {
+    "notPng": "Seleziona file immagine in formato PNG",
+    "unsupportedFormat": "Formato immagine non supportato. Seleziona file JPG, PNG, WebP, BMP, TIFF, SVG o HEIC/HEIF.",
+    "fileTooLarge": "La dimensione del file non può superare 50MB",
+    "noFiles": "Seleziona almeno un file immagine",
+    "processFileFailed": "Impossibile elaborare il file {fileName}",
+    "convertFailed": "Conversione fallita. Assicurati che tutti i file siano file immagine validi"
+  },
+  "preview": {
+    "title": "Anteprima immagini ({current} / 50)",
+    "clearAll": "CANCELLA TUTTO",
+    "uploadPlaceholder": "Clicca o trascina per aggiungere immagini",
+    "addMore": "Aggiungi di più",
+    "downloadPdf": "SCARICA PDF"
+  },
+  "pageSize": {
+    "label": "Dimensione pagina",
+    "placeholder": "Seleziona dimensione pagina",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "Adatta all'immagine"
+  },
+  "orientation": {
+    "label": "Orientamento",
+    "placeholder": "Seleziona orientamento",
+    "portrait": "Verticale",
+    "landscape": "Orizzontale"
+  }
+}
+

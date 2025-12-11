@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "オンラインでTIFFをPDFに無料で変換",
+    "description": "TIFF画像ファイルを高品質のPDFにすばやく変換します。スピーディ、安全かつ無料で利用でき、サインアップやクレジットカード情報は不要です。",
+    "keywords": "tiffをpdfに変換, tifをpdfに変換, tiffをpdfに変換する, tifをpdfに変換する, tiffをpdfに変換するコンバーター, 画像をpdfに変換, tiff画像をpdfに変換, オンラインtiffをpdfに変換, 無料tiffをpdfに変換するコンバーター, tiffコンバーター, pdfコンバーター"
+  },
+  "hero": {
+    "title": "TIFFをPDFに変換",
+    "uploadTitle": "TIFFをPDFに",
+    "mainTitle": {
+      "line1": "TIFF画像を",
+      "line2": "PDF",
+      "line3": "ドキュメントに",
+      "line4": "変換"
+    },
+    "description": "TIFFファイルを高画質PDFにすばやく無料変換。オンラインで簡単、安全に使えます。アカウント登録やクレジットカードは不要。複雑な操作なしで、TIFFをPDFに変換できます。",
+    "dragText": "画像をここにドラッグ＆ドロップ（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF）",
+    "selectText": "またはクリックしてファイルを選択（複数ファイル対応）",
+    "clickToSelect": "クリックしてファイルを選択するか、ドラッグ＆ドロップ",
+    "fileTypes": "PDFまたは画像",
+    "privacy": "ファイルはデバイスから離れることはありません。",
+    "format": "JPG、PNG、WebP、BMP、TIFF、SVG、HEIC/HEIF",
+    "maxSize": "最大50MB"
+  },
+  "fileList": {
+    "title": "{count}個のファイルを選択",
+    "clearAll": "すべてクリア",
+    "addMore": "さらにファイルを追加"
+  },
+  "preview": {
+    "title": "画像プレビュー（{current} / 50）",
+    "clearAll": "すべてクリア",
+    "uploadPlaceholder": "クリックまたはドラッグして画像を追加",
+    "addMore": "さらに追加",
+    "downloadPdf": "PDFをダウンロード"
+  },
+  "pageSize": {
+    "label": "ページサイズ",
+    "placeholder": "ページサイズを選択",
+    "A4": "A4",
+    "A5": "A5",
+    "Letter": "Letter",
+    "Legal": "Legal",
+    "A3": "A3",
+    "fit": "画像に合わせる"
+  },
+  "orientation": {
+    "label": "向き",
+    "placeholder": "向きを選択",
+    "portrait": "縦向き",
+    "landscape": "横向き"
+  },
+  "pdfQuality": {
+    "label": "PDF品質",
+    "placeholder": "品質を選択",
+    "low": "低品質（ファイルサイズが小さい）",
+    "medium": "中品質（バランス型）",
+    "high": "高品質（ファイルサイズが大きい）",
+    "description": "PDFへの埋め込み時の画像圧縮を制御します"
+  },
+  "convertButton": "PDFに変換",
+  "processing": {
+    "title": "TIFF画像からPDFを作成中...",
+    "subtitle": "お待ちください。数秒かかる場合があります"
+  },
+  "messages": {
+    "filesAdded": "{count}個のファイルを追加しました",
+    "convertSuccess": "{count}個の画像ファイルをPDFに正常に変換しました"
+  },
+  "errors": {
+    "notTiff": "TIFF/TIF形式の画像ファイルを選択してください",
+    "unsupportedFormat": "サポートされていない画像形式です。JPG、PNG、WebP、BMP、TIFF、SVG、またはHEIC/HEIFファイルを選択してください。",
+    "fileTooLarge": "ファイルサイズは50MBを超えることはできません",
+    "noFiles": "少なくとも1つの画像ファイルを選択してください",
+    "processFileFailed": "ファイル{fileName}の処理に失敗しました",
+    "convertFailed": "変換に失敗しました。すべてのファイルが有効な画像ファイルであることを確認してください"
+  },
+  "features": {
+    "title": "TIFF to PDFコンバーターの機能は何ですか？",
+    "subtitle": "30万人以上のユーザーが、優れた機能のために当社のTIFF to PDFコンバーターを使用することを選択しています。",
+    "feature1": {
+      "title": "1秒でTIFF画像をPDFファイルに変換",
+      "description": "1つまたは複数のTIFF画像をアップロードし、約1秒で使用可能なPDFを取得します。当社のTIFF to PDFツールは、シームレスなWYSIWYG体験で超高速変換を保証します。",
+      "button": "画像をアップロード"
+    },
+    "feature2": {
+      "title": "TIFF to PDFコンバーターは高品質をサポート",
+      "description": "TIFF to PDFコンバーターは、高品質の保持でTIFF/TIF形式を完全にサポートし、プロフェッショナルな変換のニーズを満たし、操作を簡単にします。",
+      "button": "画像をアップロード >>"
+    },
+    "feature3": {
+      "title": "TIFF to PDFツールで印刷可能なPDFを作成",
+      "description": "複数のTIFF画像を作成した後、当社のTIFF to PDFコンバーターを直接使用してPDF文書を作成できます。これはシンプルで便利で、別のPDFコンバーターを見つける必要はありません。シームレスな接続で、効率を10倍向上させます。",
+      "button": "PDFを作成"
+    }
+  },
+  "testimonials": {
+    "title": "TIFF to PDFコンバーターに関するユーザーの声",
+    "subtitle": "多くのユーザーが、当社のTIFF to PDFツールを使用した後、高く評価しています。",
+    "testimonial1": {
+      "content": "10個以上のTIFF画像をアップロードし、変換は2秒未満で完了しました—超高速です！PDFレイアウトはクリーンで、画像品質はそのまま維持されました。本当に素晴らしいユーザー体験です。",
+      "role": "デザイナー"
+    },
+    "testimonial2": {
+      "content": "異なるサイズのTIFF画像をテストしましたが、すべてスムーズに変換されました。登録不要、広告なし、インターフェースはクリーン—日常のオフィス使用に最適です。",
+      "role": "アシスタント"
+    },
+    "testimonial3": {
+      "content": "プロジェクトのためにTIFF画像をよく収集しますが、このツールを使用すると、ワンクリックで印刷可能なPDFに変換できます。プロフェッショナルなドキュメントを作るのに非常に便利です。",
+      "role": "写真家"
+    }
+  },
+  "faq": {
+    "title": "TIFFをPDFに変換するよくある質問",
+    "q1": {
+      "question": "複数のTIFF画像を1つのPDFに変換できますか？",
+      "answer": "はい！当社のツールを使用すると、複数のTIFF画像を1つのPDFドキュメントに結合できます。変換する前に、含めたいすべてのTIFF画像を選択するだけです。"
+    },
+    "q2": {
+      "question": "TIFFをPDFに変換する際、データは安全ですか？",
+      "answer": "ファイルは高度なTLS暗号化で保護されています。セキュリティのため、すべての画像は処理後1時間でサーバーから自動的に削除されます。"
+    },
+    "q3": {
+      "question": "PDF標準とPDF印刷の違いは何ですか？",
+      "answer": "無料のTIFF to PDFコンバーターを使用すると、PDFに保存する前にTIFF画像をオンラインで編集できます。また、画像をどのPDF形式に変換するかも選択できます。デジタル目的、特にモバイル使用とクラウドストレージ用にPDF標準でデザインをダウンロードします。これらは多くのスペースを占有しないためです。PDF印刷は、PDF標準よりも高い解像度のため、印刷に最適で、プロフェッショナルな外観の印刷のためにクロップマークとブリードを追加できます。"
+    },
+    "q4": {
+      "question": "なぜTIFFをPDFに変換するのですか？",
+      "answer": "PDFに変換されたTIFFファイルは、異なるデバイスやオペレーティングシステム間で共有、開く、ダウンロードが簡単になります。これは、PDFがオープンファイル形式であるためです。TIFF画像をPDFに変換すると、ファイルサイズも圧縮され、ストレージスペースが解放され、追加のコストを節約できます。サイズが縮小されても、PDFファイルは変換後も元の画像の品質と詳細を保持します。"
+    },
+    "q5": {
+      "question": "複数のTIFFファイルをPDFに変換するにはどうすればよいですか？",
+      "answer": "オンラインTIFF to PDFコンバーターを使用すると、複数のTIFFファイルを1つのPDFドキュメントに変換できます。変換したいTIFF画像をデザインプロジェクトにドラッグ＆ドロップするだけです。複数のページを追加し、表示方法または選択したプロジェクトテンプレートに基づいてレイアウトを配置します。各画像を編集してから、PDF標準またはPDF印刷形式でデザインをダウンロードします。"
+    }
+  }
+}
+

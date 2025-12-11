@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "Free PDF to BMP Converter - Convert PDF to BMP Online",
+    "description": "Convert PDF to BMP files and share on any platform in high-quality using The free PDF to BMP converter online.",
+    "keywords": "pdf to bmp, convert pdf to bmp, pdf to image, pdf to jpeg, pdf to jpg, pdf to png, pdf to webp, extract images from pdf, pdf converter, online pdf to bmp, free pdf to bmp converter"
+  },
+  "hero": {
+    "title": "Convert PDF to BMP",
+    "uploadTitle": "PDF to BMP",
+    "mainTitle": {
+      "line1": "Transform PDF",
+      "line2": "Pages into",
+      "line3": "BMP Images",
+      "line4": ""
+    },
+    "description": "Turn your PDF documents into rich content you can easily share on online platforms and access on any device by converting them to BMP images with the free PDF to BMP converter online",
+    "dragText": "Drag and drop PDF file here",
+    "selectText": "or click to select file",
+    "clickToSelect": "Click to select a file or drag and drop",
+    "fileTypes": "PDF Files",
+    "privacy": "Your files never leave your device.",
+    "format": "PDF Format",
+    "maxSize": "Max 50MB"
+  },
+  "preview": {
+    "title": "PDF Pages Preview ({current} / {total})",
+    "clearAll": "CLEAR ALL",
+    "uploadPlaceholder": "Click or drag to add PDF file",
+    "addMore": "Add More",
+    "downloadAll": "DOWNLOAD ALL AS ZIP",
+    "downloadSingle": "DOWNLOAD",
+    "page": "Page"
+  },
+  "upload": "Upload",
+  "imageQuality": {
+    "label": "Image Quality",
+    "placeholder": "Select quality",
+    "low": "Low (Smaller file size)",
+    "medium": "Medium (Balanced)",
+    "high": "High (Larger file size)"
+  },
+  "convertButton": "Convert to BMP",
+  "processing": {
+    "title": "Converting PDF to BMP...",
+    "subtitle": "Please wait, this may take a few seconds"
+  },
+  "messages": {
+    "fileAdded": "PDF file added successfully",
+    "convertSuccess": "Successfully converted {count} page(s) to BMP"
+  },
+  "errors": {
+    "notPdf": "Please select a PDF file",
+    "unsupportedFormat": "Unsupported file format. Please select a PDF file.",
+    "fileTooLarge": "File size cannot exceed 50MB",
+    "noFile": "Please select a PDF file",
+    "processFileFailed": "Failed to process PDF file",
+    "convertFailed": "Conversion failed. Please ensure the PDF file is valid",
+    "readFileFailed": "Failed to read PDF file",
+    "createZipFailed": "Failed to create ZIP file"
+  },
+  "features": {
+    "title": "What Are Features of PDF to BMP Converter?",
+    "subtitle": "More than 300k users choose to use our PDF to BMP converter because of its outstanding features.",
+    "feature1": {
+      "title": "Convert PDF to BMP in Seconds",
+      "description": "Upload your PDF file and extract all pages as high-quality BMP images in seconds. Our PDF to BMP tool ensures fast conversion with excellent image quality preservation.",
+      "button": "Start Converting"
+    },
+    "feature2": {
+      "title": "High-Quality Image Output",
+      "description": "Get crisp, clear BMP images from your PDF pages. BMP format provides uncompressed image storage, perfect for preserving image quality while maintaining maximum detail.",
+      "button": "Try Converter >>"
+    },
+    "feature3": {
+      "title": "Batch Download All Pages",
+      "description": "Download all PDF pages as individual BMP images, or get them all in a convenient ZIP file. Perfect for extracting images from documents, presentations, or reports.",
+      "button": "Convert Now"
+    }
+  },
+  "testimonials": {
+    "title": "User Testimonials About PDF to BMP Converter",
+    "subtitle": "Many users have highly praised our PDF to BMP tool after using it.",
+    "testimonial1": {
+      "content": "I needed to extract images from a 50-page PDF for a presentation. This tool converted all pages to BMP in under a minute. The image quality was excellent and uncompressed, perfect for my needs.",
+      "role": "Designer"
+    },
+    "testimonial2": {
+      "content": "Perfect for extracting pages from PDF documents. BMP format gives me uncompressed images which is crucial for my design work. No registration needed, works great!",
+      "role": "Student"
+    },
+    "testimonial3": {
+      "content": "I use this regularly to convert PDF pages to images for professional printing. BMP format ensures maximum quality without compression artifacts. Highly recommend!",
+      "role": "Print Professional"
+    }
+  },
+  "howToUse": {
+    "label": "How to use",
+    "title": "How to Convert PDF to BMP",
+    "subtitle": "Follow these simple steps to convert your PDF pages to BMP images",
+    "step": "Step",
+    "step1": {
+      "title": "Upload Your PDF File",
+      "description": "Drag and drop your PDF file into the upload area or click to select a file. Our tool supports PDF files up to 50MB in size."
+    },
+    "step2": {
+      "title": "Select Image Quality",
+      "description": "Choose your preferred image quality setting: Low for smaller file sizes, Medium for balanced quality, or High for maximum clarity."
+    },
+    "step3": {
+      "title": "Preview & Download",
+      "description": "View all converted pages in the preview area. Download individual BMP images or get all pages at once as a convenient ZIP file."
+    }
+  },
+  "faq": {
+    "title": "Convert PDF to BMP FAQs",
+    "q1": {
+      "question": "How to convert PDF to BMP?",
+      "answer": "BMP files are supported universally so they're ideal for easy file viewing, sharing, and uploading. Convert PDF to BMP using our free PDF to BMP converter online. You can easily spruce up or add embellishments to your design, then download your work as a BMP file."
+    },
+    "q2": {
+      "question": "Can I convert PDF to BMP?",
+      "answer": "Definitely! Simply upload your PDF file in our free PDF to BMP converter and watch the magic happen. You can even make your images look more appealing by using our built-in editor to enhance your images and add eye-catching design elements to your work."
+    },
+    "q3": {
+      "question": "How is BMP different from PDF?",
+      "answer": "Compared to a PDF file, BMP images are designed to be shared on digital platforms because they can preserve a file's quality even with their significantly smaller file size. BMP images also support uncompressed storage so you can incorporate design elements or layer your image on other assets you'll share."
+    }
+  }
+}
+

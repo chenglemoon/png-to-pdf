@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "title": "PDF转JPG——免费在线将PDF转成图像",
+    "description": "免费在线PDF转JPG服务，让您将PDF页面转成图片或从PDF逐一撷取图片：无档案大小限制，无广告水印，转换过程方便快捷。",
+    "keywords": "pdf转jpg, 将pdf转换为jpg, pdf转图片, pdf转jpeg, pdf转png, 从pdf提取图片, pdf转换器, 在线pdf转jpg, 免费pdf转jpg转换器"
+  },
+  "hero": {
+    "title": "PDF转JPG",
+    "uploadTitle": "PDF转JPG",
+    "mainTitle": {
+      "line1": "将PDF",
+      "line2": "页面转换为",
+      "line3": "JPG图片",
+      "line4": ""
+    },
+    "description": "免费在线PDF转JPG服务，让您将PDF页面转成图片或从PDF逐一撷取图片：无档案大小限制，无广告水印，转换过程方便快捷。",
+    "dragText": "在此拖放PDF文件",
+    "selectText": "或点击选择文件",
+    "clickToSelect": "点击选择文件或拖放",
+    "fileTypes": "PDF文件",
+    "privacy": "您的文件永远不会离开您的设备。",
+    "format": "PDF格式",
+    "maxSize": "最大50MB"
+  },
+  "preview": {
+    "title": "PDF页面预览（{current} / {total}）",
+    "clearAll": "清除全部",
+    "uploadPlaceholder": "点击或拖放以添加PDF文件",
+    "addMore": "添加更多",
+    "downloadAll": "全部下载为ZIP",
+    "downloadSingle": "下载",
+    "page": "页面"
+  },
+  "upload": "上传",
+  "imageQuality": {
+    "label": "图片质量",
+    "placeholder": "选择质量",
+    "low": "低（文件大小较小）",
+    "medium": "中（平衡）",
+    "high": "高（文件大小较大）"
+  },
+  "convertButton": "转换为JPG",
+  "processing": {
+    "title": "正在将PDF转换为JPG...",
+    "subtitle": "请稍候，这可能需要几秒钟"
+  },
+  "messages": {
+    "fileAdded": "PDF文件添加成功",
+    "convertSuccess": "成功将{count}页转换为JPG"
+  },
+  "errors": {
+    "notPdf": "请选择PDF文件",
+    "unsupportedFormat": "不支持的文件格式。请选择PDF文件。",
+    "fileTooLarge": "文件大小不能超过50MB",
+    "noFile": "请选择PDF文件",
+    "processFileFailed": "处理PDF文件失败",
+    "convertFailed": "转换失败。请确保PDF文件有效",
+    "readFileFailed": "读取PDF文件失败",
+    "createZipFailed": "创建ZIP文件失败"
+  },
+  "features": {
+    "title": "PDF转JPG转换器的功能是什么？",
+    "subtitle": "超过30万用户选择使用我们的PDF转JPG转换器，因为它具有出色的功能。",
+    "feature1": {
+      "title": "几秒钟内将PDF转换为JPG",
+      "description": "上传您的PDF文件，几秒钟内将所有页面提取为高质量的JPG图片。我们的PDF转JPG工具确保快速转换，同时保持出色的图片质量。",
+      "button": "开始转换"
+    },
+    "feature2": {
+      "title": "高质量图片输出",
+      "description": "从PDF页面获得清晰、锐利的JPG图片。根据您的需求，从不同的质量设置中选择，以平衡文件大小和图片清晰度。",
+      "button": "试用转换器 >>"
+    },
+    "feature3": {
+      "title": "批量下载所有页面",
+      "description": "将所有PDF页面下载为单独的JPG图片，或在一个方便的ZIP文件中获取所有页面。非常适合从文档、演示文稿或报告中提取图片。",
+      "button": "立即转换"
+    }
+  },
+  "testimonials": {
+    "title": "用户对PDF转JPG转换器的评价",
+    "subtitle": "许多用户在使用我们的PDF转JPG工具后给予了高度评价。",
+    "testimonial1": {
+      "content": "我需要从50页的PDF中提取图片用于演示。这个工具在不到一分钟内将所有页面转换为JPG。图片质量非常好，ZIP下载非常方便。",
+      "role": "设计师"
+    },
+    "testimonial2": {
+      "content": "非常适合从PDF文档中提取页面。质量选项让我可以选择文件大小和清晰度之间的正确平衡。无需注册，工作得很好！",
+      "role": "学生"
+    },
+    "testimonial3": {
+      "content": "我经常使用这个工具将PDF页面转换为社交媒体帖子的图片。快速、可靠，图片总是看起来很棒。强烈推荐！",
+      "role": "内容创作者"
+    }
+  },
+  "howToUse": {
+    "label": "使用方法",
+    "title": "如何将PDF转换为JPG",
+    "subtitle": "按照这些简单步骤将您的PDF页面转换为JPG图片",
+    "step": "步骤",
+    "step1": {
+      "title": "上传您的PDF文件",
+      "description": "将PDF文件拖放到上传区域或点击选择文件。我们的工具支持最大50MB的PDF文件。"
+    },
+    "step2": {
+      "title": "选择图片质量",
+      "description": "选择您首选的图片质量设置：低用于较小的文件大小，中用于平衡的质量，或高用于最大清晰度。"
+    },
+    "step3": {
+      "title": "预览和下载",
+      "description": "在预览区域查看所有转换后的页面。下载单独的JPG图片或在一个方便的ZIP文件中一次性获取所有页面。"
+    }
+  },
+  "faq": {
+    "title": "PDF转JPG常见问题",
+    "q1": {
+      "question": "如何将PDF转换为JPEG？",
+      "answer": "JPG和JPEG文件是相同的图片格式；唯一的显著区别是它们的名称扩展名，您可以通过简单地重命名文件来更改。因此，要将PDF转换为JPEG，您只需使用我们的免费在线PDF转JPG转换器，以吸引人的设计编辑您的文件，然后将其下载为JPG文件。"
+    },
+    "q2": {
+      "question": "我可以免费将PDF转换为JPG吗？",
+      "answer": "当然可以！在提供免费PDF转JPG转换的众多应用程序中试用我们的转换器工具。您不仅可以在我们的编辑器中免费将PDF文件更改为JPG，还可以以很少或没有成本的方式使用许多设计功能。从我们的模板集合中选择完美的布局。使用我们内置的照片编辑器并增强图片以提高可见性。添加标题或调整可编辑文本以提供更多信息并提高可读性。"
+    },
+    "q3": {
+      "question": "为什么以JPG格式保存PDF文件？",
+      "answer": "PDF文件对于共享和查看包含文本和图片的文档非常方便，并且可以保持质量和较小的文件大小。JPG也提供相同的功能，特别是对于像相册或扫描杂志这样的图片。从我们的在线工具轻松将PDF转换为JPG，并通过电子邮件、社交媒体帖子或网站嵌入分享您的可自定义设计。"
+    }
+  }
+}
+
